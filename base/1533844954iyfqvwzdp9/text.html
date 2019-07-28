@@ -1,0 +1,184 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
+<html>
+<div class="td-post-header"><header class="td-post-title">
+<h1 class="entry-title">Как отменить последний Git-коммит</h1>
+<div class="td-module-meta-info">
+<div class="td-post-author-name"><div class="td-author-by">От</div> <a href="https://proglib.io/p/author/montgomeri/">Montgomeri</a><div class="td-author-line"> - </div> </div> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-04-02T21:20:48+00:00">02.04.2018</time></span> <div class="td-post-comments"><a href="https://proglib.io/p/git-commit/#comments"><i class="td-icon-comments"></i>1</a></div> <div class="td-post-views"><i class="td-icon-views"></i><span class="td-nr-views-14373">4843</span></div> </div>
+</header>
+
+
+
+</div>
+
+<div class="td-post-content">
+<div class="td-a-rec td-a-rec-id-content_top  ">
+
+<div class="ya-share2 ya-share2_inited" data-services="vkontakte,facebook,gplus,twitter,pocket" data-counter=""><div class="ya-share2__container ya-share2__container_size_m"><ul class="ya-share2__list ya-share2__list_direction_horizontal"><li class="ya-share2__item ya-share2__item_service_vkontakte"><a class="ya-share2__link" href="https://vk.com/share.php?url=https%3A%2F%2Fproglib.io%2Fp%2Fgit-commit%2F&amp;title=%D0%9A%D0%B0%D0%BA%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20Git-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%20%7C%20%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0&amp;utm_source=share2" rel="nofollow noopener" target="_blank" title="Р’РљРѕРЅС‚Р°РєС‚Рµ"><span class="ya-share2__badge"><span class="ya-share2__icon"></span><span class="ya-share2__counter ya-share2__counter_visible">64</span></span></a></li><li class="ya-share2__item ya-share2__item_service_facebook"><a class="ya-share2__link" href="https://www.facebook.com/sharer.php?src=sp&amp;u=https%3A%2F%2Fproglib.io%2Fp%2Fgit-commit%2F&amp;title=%D0%9A%D0%B0%D0%BA%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20Git-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%20%7C%20%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0&amp;utm_source=share2" rel="nofollow noopener" target="_blank" title="Facebook"><span class="ya-share2__badge"><span class="ya-share2__icon"></span><span class="ya-share2__counter ya-share2__counter_visible">46</span></span></a></li><li class="ya-share2__item ya-share2__item_service_gplus"><a class="ya-share2__link" href="https://plus.google.com/share?url=https%3A%2F%2Fproglib.io%2Fp%2Fgit-commit%2F&amp;utm_source=share2" rel="nofollow noopener" target="_blank" title="Google+"><span class="ya-share2__badge"><span class="ya-share2__icon"></span></span></a></li><li class="ya-share2__item ya-share2__item_service_twitter"><a class="ya-share2__link" href="https://twitter.com/intent/tweet?text=%D0%9A%D0%B0%D0%BA%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20Git-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%20%7C%20%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0&amp;url=https%3A%2F%2Fproglib.io%2Fp%2Fgit-commit%2F&amp;utm_source=share2" rel="nofollow noopener" target="_blank" title="Twitter"><span class="ya-share2__badge"><span class="ya-share2__icon"></span></span></a></li><li class="ya-share2__item ya-share2__item_service_pocket"><a class="ya-share2__link" href="https://getpocket.com/save?url=https%3A%2F%2Fproglib.io%2Fp%2Fgit-commit%2F&amp;title=%D0%9A%D0%B0%D0%BA%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20Git-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%20%7C%20%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0&amp;utm_source=share2" rel="nofollow noopener" target="_blank" title="Pocket"><span class="ya-share2__badge"><span class="ya-share2__icon"></span></span></a></li></ul></div></div>
+</div><p>Из статьи вы узнаете, как правильно отменить последний Git-коммит. Приведена не только теория, но также необходимые команды.<br>
+</p>
+
+
+
+
+
+<p>Работая с системой управления версиями <a href="https://git-scm.com/downloads" target="_blank" rel="noopener noreferrer">Git</a>,
+ вы рано или поздно столкнетесь с распространенной проблемой: случайный 
+коммит ненужных критических изменений. Неплохо, если это только ваш 
+проект, но если речь идет о чем-то более масштабном, предназначенном для
+ целой команды разработчиков, такие ситуации оказываются очень 
+неприятными. Разберемся, как это исправить.</p>
+<h1>Удалите Git-коммит новым коммитом</h1>
+<p>Звучит как нонсенс, но только на первый взгляд. Суть в том, что 
+выполняется пустой коммит, который удаляет нежелательные изменения после
+ предыдущего.</p>
+<p>Выполните:</p>
+<div id="crayon-5b6c9da8c6d50243550189" class="crayon-syntax crayon-theme-terminal crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style="margin-top: 12px; margin-bottom: 12px; font-size: 12px !important;  height: auto;">
+<div class="crayon-plain-wrap"><textarea class="crayon-plain print-no" data-settings="dblclick" readonly="readonly" style="-moz-tab-size: 4; font-size: 12px !important;  z-index: 0; opacity: 0; overflow: hidden;" wrap="soft">git revert HEAD</textarea></div>
+<div class="crayon-main" style="position: relative; z-index: 1; overflow: hidden;">
+<table class="crayon-table" style="">
+<tbody><tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; "><div class="crayon-num" data-line="crayon-5b6c9da8c6d50243550189-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important;  -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5b6c9da8c6d50243550189-1"><span class="crayon-e">git </span><span class="crayon-e">revert </span><span class="crayon-v">HEAD</span></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+<p>Команда <code>revert</code> означает возврат состояния к <code>HEAD</code> – последнему коммиту в ветке.</p>
+
+<div class="td-g-rec td-g-rec-id-content_inlineleft ">
+<ins class="adsbygoogle" style="display: inline-block; width: 300px; height: 250px;" data-ad-client="ca-pub-6621414197364714" data-ad-slot="1448828183" data-adsbygoogle-status="done"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent;"><iframe marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;width:300px;height:250px;" width="300" height="250" frameborder="0"></iframe></ins></ins></ins>
+</div>
+
+<p>Появится следующее сообщение:</p>
+<p><img class="alignnone size-full wp-image-14384 td-animation-stack-type0-2" src="1.png" alt="Как отменить последний Git-коммит" srcset="1.png 1134w, https://proglib.io/wp-content/uploads/2018/04/фыфыфы-600x143.png 600w, https://proglib.io/wp-content/uploads/2018/04/фыфыфы-300x71.png 300w, https://proglib.io/wp-content/uploads/2018/04/фыфыфы-768x183.png 768w, https://proglib.io/wp-content/uploads/2018/04/фыфыфы-1024x244.png 1024w, https://proglib.io/wp-content/uploads/2018/04/фыфыфы-696x166.png 696w, https://proglib.io/wp-content/uploads/2018/04/фыфыфы-1068x254.png 1068w" sizes="(max-width: 1134px) 100vw, 1134px" width="1134" height="270"></p>
+<p>Если открытие редактора не нужно, к исходной команде добавляется <code>--no-edit</code>. Смотрим, как это работает:</p>
+<div id="crayon-5b6c9da8c6d5d449979791" class="crayon-syntax crayon-theme-terminal crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style="margin-top: 12px; margin-bottom: 12px; font-size: 12px !important;  height: auto;">
+<div class="crayon-plain-wrap"><textarea class="crayon-plain print-no" data-settings="dblclick" readonly="readonly" style="-moz-tab-size: 4; font-size: 12px !important;  z-index: 0; opacity: 0; overflow: hidden;" wrap="soft">git revert HEAD --no-edit</textarea></div>
+<div class="crayon-main" style="position: relative; z-index: 1; overflow: hidden;">
+<table class="crayon-table" style="">
+<tbody><tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; "><div class="crayon-num" data-line="crayon-5b6c9da8c6d5d449979791-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important;  -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5b6c9da8c6d5d449979791-1"><span class="crayon-e">git </span><span class="crayon-e">revert </span><span class="crayon-v">HEAD</span><span class="crayon-h"> </span><span class="crayon-o">--</span><span class="crayon-v">no</span><span class="crayon-o">-</span><span class="crayon-v">edit</span></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+<p>Чтобы удостовериться, что все сделано правильно, выполняется:</p>
+<div id="crayon-5b6c9da8c6d61417508149" class="crayon-syntax crayon-theme-terminal crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style="margin-top: 12px; margin-bottom: 12px; font-size: 12px !important;  height: auto;">
+<div class="crayon-plain-wrap"><textarea class="crayon-plain print-no" data-settings="dblclick" readonly="readonly" style="-moz-tab-size: 4; font-size: 12px !important;  z-index: 0; opacity: 0; overflow: hidden;" wrap="soft">git log</textarea></div>
+<div class="crayon-main" style="position: relative; z-index: 1; overflow: hidden;">
+<table class="crayon-table" style="">
+<tbody><tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; "><div class="crayon-num" data-line="crayon-5b6c9da8c6d61417508149-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important;  -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5b6c9da8c6d61417508149-1"><span class="crayon-e">git </span><span class="crayon-v">log</span></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+<p>Предыдущий неправильный коммит будет присутствовать в логах, но также вы увидите его удаление:</p>
+<p><img class="alignnone size-full wp-image-14385 td-animation-stack-type0-2" src="2.png" alt="Как отменить последний Git-коммит" srcset="2.png 982w, https://proglib.io/wp-content/uploads/2018/04/апапрапр-600x349.png 600w, https://proglib.io/wp-content/uploads/2018/04/апапрапр-300x174.png 300w, https://proglib.io/wp-content/uploads/2018/04/апапрапр-768x447.png 768w, https://proglib.io/wp-content/uploads/2018/04/апапрапр-696x405.png 696w, https://proglib.io/wp-content/uploads/2018/04/апапрапр-722x420.png 722w" sizes="(max-width: 982px) 100vw, 982px" width="982" height="571"></p>
+<p>Проверьте Git-статус следующей командой:</p>
+<div id="crayon-5b6c9da8c6d64114588580" class="crayon-syntax crayon-theme-terminal crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style="margin-top: 12px; margin-bottom: 12px; font-size: 12px !important;  height: auto;">
+<div class="crayon-plain-wrap"><textarea class="crayon-plain print-no" data-settings="dblclick" readonly="readonly" style="-moz-tab-size: 4; font-size: 12px !important;  z-index: 0; opacity: 0; overflow: hidden;" wrap="soft">git status</textarea></div>
+<div class="crayon-main" style="position: relative; z-index: 1; overflow: hidden;">
+<table class="crayon-table" style="">
+<tbody><tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; "><div class="crayon-num" data-line="crayon-5b6c9da8c6d64114588580-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important;  -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5b6c9da8c6d64114588580-1"><span class="crayon-e">git </span><span class="crayon-v">status</span></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+<p>Если нужно откатиться к конкретному коммиту, вместо HEAD вписывается 
+его хеш или тег (можно посмотреть в логах/истории). Иногда такая отмена 
+невозможна из-за конфликтов, то есть произошли изменения, которые Git не
+ может отменить. Увидеть конфликтный файл для дальнейшего решения 
+проблемы поможет <code>git status</code>.</p>
+<h1>Используйте команду <code>reset</code></h1>
+<p>Как видите, <code>revert</code> оставляет «следы» в истории ветки, а иногда нужно подобную ошибку скрыть. К возможностям <code>reset</code> относятся:</p>
+<ol>
+<li>Переписывание текущей ветки, которая будет указывать на необходимый коммит.</li>
+<li>Сброс буферной зоны (опционально).</li>
+<li>Сброс рабочего каталога (опционально).</li>
+</ol>
+<p>Для начала отметьте нужную ветку:</p>
+<div id="crayon-5b6c9da8c6d6a763552876" class="crayon-syntax crayon-theme-terminal crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style="margin-top: 12px; margin-bottom: 12px; font-size: 12px !important;  height: auto;">
+<div class="crayon-plain-wrap"><textarea class="crayon-plain print-no" data-settings="dblclick" readonly="readonly" style="-moz-tab-size: 4; font-size: 12px !important;  z-index: 0; opacity: 0; overflow: hidden;" wrap="soft">git tag oops</textarea></div>
+<div class="crayon-main" style="position: relative; z-index: 1; overflow: hidden;">
+<table class="crayon-table" style="">
+<tbody><tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; "><div class="crayon-num" data-line="crayon-5b6c9da8c6d6a763552876-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important;  -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5b6c9da8c6d6a763552876-1"><span class="crayon-e">git </span><span class="crayon-e">tag </span><span class="crayon-v">oops</span></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+<p>Теперь выполните сброс до коммита <strong>oops</strong>:</p>
+<div id="crayon-5b6c9da8c6d6d189950212" class="crayon-syntax crayon-theme-terminal crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style="margin-top: 12px; margin-bottom: 12px; font-size: 12px !important;  height: auto;">
+<div class="crayon-plain-wrap"><textarea class="crayon-plain print-no" data-settings="dblclick" readonly="readonly" style="-moz-tab-size: 4; font-size: 12px !important;  z-index: 0; opacity: 0; overflow: hidden;" wrap="soft">git reset --hard t1</textarea></div>
+<div class="crayon-main" style="position: relative; z-index: 1; overflow: hidden;">
+<table class="crayon-table" style="">
+<tbody><tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; "><div class="crayon-num" data-line="crayon-5b6c9da8c6d6d189950212-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important;  -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5b6c9da8c6d6d189950212-1"><span class="crayon-e">git </span><span class="crayon-v">reset</span><span class="crayon-h"> </span><span class="crayon-o">--</span><span class="crayon-e">hard </span><span class="crayon-v">t1</span></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+<p>Посмотрите историю:</p>
+<div id="crayon-5b6c9da8c6d70987098842" class="crayon-syntax crayon-theme-terminal crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style="margin-top: 12px; margin-bottom: 12px; font-size: 12px !important;  height: auto;">
+<div class="crayon-plain-wrap"><textarea class="crayon-plain print-no" data-settings="dblclick" readonly="readonly" style="-moz-tab-size: 4; font-size: 12px !important;  z-index: 0; opacity: 0; overflow: hidden;" wrap="soft">git hist</textarea></div>
+<div class="crayon-main" style="position: relative; z-index: 1; overflow: hidden;">
+<table class="crayon-table" style="">
+<tbody><tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; "><div class="crayon-num" data-line="crayon-5b6c9da8c6d70987098842-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important;  -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5b6c9da8c6d70987098842-1"><span class="crayon-e">git </span><span class="crayon-v">hist</span></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+<p>Однако все равно ничто не теряется. Запустите команду отображения всех коммитов:</p>
+<div id="crayon-5b6c9da8c6d72252234898" class="crayon-syntax crayon-theme-terminal crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style="margin-top: 12px; margin-bottom: 12px; font-size: 12px !important;  height: auto;">
+<div class="crayon-plain-wrap"><textarea class="crayon-plain print-no" data-settings="dblclick" readonly="readonly" style="-moz-tab-size: 4; font-size: 12px !important;  z-index: 0; opacity: 0; overflow: hidden;" wrap="soft">git hist --all</textarea></div>
+<div class="crayon-main" style="position: relative; z-index: 1; overflow: hidden;">
+<table class="crayon-table" style="">
+<tbody><tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; "><div class="crayon-num" data-line="crayon-5b6c9da8c6d72252234898-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important;  -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5b6c9da8c6d72252234898-1"><span class="crayon-e">git </span><span class="crayon-v">hist</span><span class="crayon-h"> </span><span class="crayon-o">--</span><span class="crayon-v">all</span></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+<p>Вы увидите, что ошибочные коммиты все еще на месте, просто удалены из
+ нашей ветки. Опасность данного отката состоит в том, что в случае 
+командной работы такой сброс может сбить с толку других разработчиков, 
+поэтому настоятельно рекомендуется использовать <code>revert</code>.</p></div>
+</body>
+</html></p></body></html>
