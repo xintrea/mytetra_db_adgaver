@@ -329,7 +329,7 @@
        </files>
       </record>
       <record id="1541070436y02jjmgvwu" name="Шаг 11 - Использование оператора EXISTS" author="" url="http://www.firststeps.ru/sql/r.php?11" tags="Access, SQL, EXISTS" ctime="20190316232337" dir="154107043603ikaeml63" file="text.html"/>
-      <record id="1564405619jazb8v7wbm" name="Количество уникальных в каждой группе" author="" url="https://www.programmersforum.ru/showthread.php?p=1638503" tags="access, GRY," ctime="20190729160659" dir="1564405619yfy51hzr8y" file="text.html"/>
+      <record id="1564405619jazb8v7wbm" name="Количество уникальных в каждой группе" author="" url="https://www.programmersforum.ru/showthread.php?p=1638503" tags="access, GRY, SQL" ctime="20190729160659" dir="1564405619yfy51hzr8y" file="text.html"/>
      </recordtable>
      <node crypt="" id="1545888729d770viaepr" name="DAO">
       <recordtable>
