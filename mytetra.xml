@@ -7,18 +7,6 @@
    <recordtable>
     <record id="15219174701kg6463eyz" name="Python как замена VBA, Microsoft рассматривает возможность задейсвовать Python в качестве своего скриптового языка" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=5&amp;TID=99658&amp;MID=823552#message823552" tags="Python как замена VBA," ctime="20190729161952" dir="1521917470frbntd9d4n" file="text.html"/>
    </recordtable>
-   <node crypt="" id="1552768177tcn75bzeo5" name="Посмотреть">
-    <recordtable>
-     <record id="15218334414ovaf1z1zj" name="Программа «Мои файлы» для быстрого доступа к файлам и папкам" author="" url="" tags="" ctime="20190316232937" dir="15218334410wcuwzfg2r" file="text.html">
-      <files>
-       <file id="1521833683fc6i5311bd" fileName="Мои-файлы-Проект.rar" type="file"/>
-       <file id="1521833683rcbc468bg6" fileName="Мои-файлы-Демо.rar" type="file"/>
-      </files>
-     </record>
-     <record id="1533414189upq9o5h9q3" name="10 трюков, упрощающих математические операции" author="" url="https://vk.com/@science_newworld-10-trukov-uproschauschih-matematicheskie-operacii" tags="" ctime="20190316232937" dir="15334141890p0utw7uo8" file="text.html"/>
-     <record id="15334170455kz2l7da27" name="Фитнес для глаз творит чудеса" author="" url="https://m.vk.com/wall-101316110_38259" tags="" ctime="20190316232937" dir="1533417045gvxr1o53q8" file="text.html"/>
-    </recordtable>
-   </node>
    <node crypt="" id="1544725102dlpfsm013p" name="Почитать">
     <recordtable>
      <record id="1544725132xccpjuna4d" name="Как работать с Microsoft Power BI — подробное руководство" author="" url="https://netpeak.net/ru/blog/kak-rabotat-s-microsoft-power-bi-podrobnoe-rukovodstvo/" tags="" ctime="20181213211852" dir="1544725132kpato7def3" file="text.html"/>
@@ -28,31 +16,18 @@
      <record id="1544726673nky52acwc8" name="Объекты Windows Script Host" author="" url="http://www.script-coding.com/WSH.html" tags="" ctime="20181213214433" dir="1544726673sdhfu7ukd5" file="text.html"/>
      <record id="15447268118supjmpqn4" name="Основы современных баз данных" author="" url="http://citforum.ru/database/osbd/contents.shtml" tags="" ctime="20181213214651" dir="1544726811ok9v1g9ouj" file="text.html"/>
      <record id="1544726828x49ut7mnbt" name="Линус Торвальдс: Разум, создавший Linux (2016)" author="" url="https://m.vk.com/wall-79831840_30671" tags="" ctime="20181213214708" dir="1544726828qwswaj341b" file="text.html"/>
+     <record id="1533414189upq9o5h9q3" name="10 трюков, упрощающих математические операции" author="" url="https://vk.com/@science_newworld-10-trukov-uproschauschih-matematicheskie-operacii" tags="" ctime="20190729235213" dir="15334141890p0utw7uo8" file="text.html"/>
+     <record id="15334170455kz2l7da27" name="Фитнес для глаз творит чудеса" author="" url="https://m.vk.com/wall-101316110_38259" tags="" ctime="20190729235215" dir="1533417045gvxr1o53q8" file="text.html"/>
     </recordtable>
     <node crypt="" id="1545884278fdaoibjwzi" name="VBA"/>
    </node>
    <node crypt="" id="1550358579zuy1oycui8" name="IРазобрать">
     <recordtable>
-     <record id="1550358941omshitai94" name="Шпаргалка по командам Git" author="" url="https://webhamster.ru/mytetrashare/index/mtb145/1481459708iz42yamapy" tags="git" ctime="20190217021541" dir="1550358941hhcnlopjnf" file="text.html"/>
-     <record id="1554197737151rhlqrlv" name="10 критически важных event ID для мониторинга " author="" url="https://habr.com/ru/company/netwrix/blog/148501/" tags="events_windows" ctime="20190402123537" dir="15541977379ldzkepo85" file="text.html"/>
-     <record id="15620408384jyvzqkwtp" name="Запуск и управление приложениями семейства MS Office" author="" url="http://www.timpust.ru/vba/tools/application.php" tags="VBA управление приложениями" ctime="20190702071358" dir="1562040838rpq6adpry7" file="text.html"/>
-     <record id="1562040966x8ay5juz4j" name="Быстродействие выполнения процедур на VBA." author="" url="http://www.timpust.ru/vba/tools/fast.php" tags="VBA быстродействие" ctime="20190702071606" dir="1562040966d8z3500ha9" file="text.html"/>
-     <record id="1562041007nm09i8ytts" name="Про объекты." author="" url="http://www.timpust.ru/vba/object/objects.php" tags="VBA Class" ctime="20190702071647" dir="1562041007zq9hyosmqy" file="text.html"/>
-     <record id="1562041043drw60raw8b" name="Создаем свою панель инструментов." author="" url="http://www.timpust.ru/vba/tools/ribbon.php" tags="VBA Ribbon" ctime="20190702071723" dir="1562041043n2igb8do4m" file="text.html"/>
-     <record id="1562041100yp12i491g2" name="Работа с внешними источниками данных Материалы по работе с внешними источниками данных на примере Excel и SQL" author="" url="http://www.timpust.ru/vba/sql.php" tags="VBA ADO, strConnect, SQL VBA" ctime="20190702071820" dir="15620411009hd2otod60" file="text.html"/>
      <record id="156204114304j8yb3xfu" name="Примеры кода ADO в Visual Basic" author="" url="https://docs.microsoft.com/ru-ru/sql/ado/reference/ado-api/ado-code-examples-in-visual-basic?view=sql-server-2017" tags="VBA ADO" ctime="20190702071903" dir="1562041143rzxqvwgeoy" file="text.html"/>
      <record id="1562041186zhx9skv2dz" name="ADO SQL INSERT INTO в другой Excel, Вставить данные из текущего файла в другой файл" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=1&amp;TID=98507&amp;MID=813928#message813928" tags="VBA ADO, Excel&lt;&gt;Excel" ctime="20190702071946" dir="156204118639g2ynbevu" file="text.html"/>
      <record id="1563334359mlk2qgtqyj" name="Метод Workbook. Open (Excel)" author="" url="https://docs.microsoft.com/ru-ru/office/vba/api/Excel.Workbooks.Open" tags="VBA Excel" ctime="20190717063239" dir="1563334359d2z87fyzvr" file="text.html"/>
      <record id="15633347998en5l94cw7" name="IF...ELSE (Transact-SQL)" author="" url="https://docs.microsoft.com/ru-ru/sql/t-sql/language-elements/if-else-transact-sql?view=aps-pdw-2016" tags="SQL Server, " ctime="20190717064633" dir="1563334799ngaku1bmw8" file="text.html"/>
     </recordtable>
-    <node crypt="" id="1563334436x2vmrwl5tk" name="VBA Web">
-     <recordtable>
-      <record id="1563334451rrslrcgg4d" name="Как я могу отправить данные из веб-запроса Excel после завершения запроса?" author="" url="http://qaru.site/questions/292690/how-can-i-post-process-the-data-from-an-excel-web-query-when-the-query-is-complete/1444701#1444701" tags="VBA Web" ctime="20190717063411" dir="15633344510o1olf2i4j" file="text.html"/>
-      <record id="1563334687ig4gayh8j8" name="Как с помощью VBA извлекать информацию из Web-страниц" author="" url="https://compress.ru/article.aspx?id=12471" tags="VBA Web, " ctime="20190717063807" dir="1563334687a1h2x8rmg2" file="text.html"/>
-      <record id="1563334839sm3nhxv2pf" name="Получение данных через SOAP в Access  [new]" author="" url="https://www.sql.ru/forum/886218/poluchenie-dannyh-cherez-soap-v-access?mid=11410921#11410921" tags="VBA Web, " ctime="20190717064039" dir="1563334839fzxjdbw8as" file="text.html"/>
-      <record id="1563334853nqifohbg0n" name="web запросы через vba  [new]" author="" url="https://www.sql.ru/forum/992943/web-zaprosy-cherez-vba" tags="VBA Web, " ctime="20190717064053" dir="1563334853m60xbyf5ff" file="text.html"/>
-     </recordtable>
-    </node>
    </node>
    <node crypt="" id="1544723910xps13vsnpd" name="SQL Server">
     <recordtable>
@@ -213,6 +188,297 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="1564433478xtulkpyns2" name="Python">
+    <recordtable>
+     <record id="1483453564qdy2pz2ebh" name="Как изменить системную переменную path в Windows 7" author="" url="http://info-comp.ru/vseowindowsst/388-change-the-system-path-variable.html" tags="PATH, переменные среды" ctime="20190729235118" dir="1483453564akfva7ysi9" file="text.html"/>
+     <record id="1483630625jddjusf3ct" name="Приступая к работе" author="" url="http://opentechschool.github.io/python-beginners/ru/getting_started.html" tags="" ctime="20190729235118" dir="1483630625s8z0s4m5se" file="text.html"/>
+     <record id="14836330792ht5yg4z9g" name="PLEAC-Python" author="" url="http://pleac.sourceforge.net/pleac_python/index.html" tags="" ctime="20190729235118" dir="1483633079m5r60d3g98" file="text.html"/>
+     <record id="15128522934trlwdwukh" name="Язык программирования Python 3 для начинающих и чайников" author="" url="https://pythonworld.ru/" tags="Python" ctime="20190729235118" dir="1512852293djcsf44ks6" file="text.html"/>
+     <record id="1512852531p2fzj9n0f4" name="Программирование на Python: от новичка до профессионала" author="" url="https://proglib.io/p/python-from-newbie-to-professional/" tags="python" ctime="20190729235118" dir="1512852531xsq5xw6ipe" file="text.html"/>
+     <record id="1515947664geyfdwokud" name="Странности языка Python, которые могут вас укусить" author="" url="https://proglib.io/p/python-snippets" tags="" ctime="20190729235118" dir="1515947664l9aaz8z2uk" file="text.html"/>
+     <record id="1516453175aejjhe32aw" name="'================= Питон на русском" author="" url="http://www.opennet.ru/docs/RUS/python/" tags="" ctime="20190729235118" dir="15164531754vp1vufn1n" file="text.html">
+      <files>
+       <file id="15164531940iqe8dk5jj" fileName="python-python.tar.gz" type="file"/>
+      </files>
+     </record>
+     <record id="15164533459nm2bza9u6" name="'================= В глубь языка Python" author="" url="http://www.opennet.ru/docs/RUS/diveinto_python/toc.html" tags="" ctime="20190729235118" dir="15164533454bfu2f8ohi" file="text.html">
+      <files>
+       <file id="1516453377m8s4mx3wve" fileName="diveinto_python-python.tar.gz" type="file"/>
+      </files>
+     </record>
+     <record id="1521831510t1hbkxq92z" name="OverAPI.com" author="" url="http://overapi.com/python" tags="Шпаргалка Python,Python" ctime="20190729235118" dir="1521831510qgga2avu7x" file="text.html"/>
+     <record id="15219243618ttxcnmogg" name="Python Tutorial" author="" url="http://net-informations.com/python/default.htm" tags="" ctime="20190729235118" dir="1521924361nbguuhyq7y" file="text.html"/>
+     <record id="15313740956zid6fsd8f" name=" PyCharm IDE для Python программистов" author="" url="https://python-scripts.com/pycharm-download" tags="" ctime="20190729235118" dir="1531374095rm474wl0mi" file="text.html"/>
+     <record id="1533584019j9f45720p3" name="Сортировка фото по дате из EXIF" author="" url="https://pythono.ru/page.php?page=python-exif" tags="" ctime="20190729235118" dir="15335840199734iuocd1" file="text.html"/>
+     <record id="1533760163yjw1kgk2z8" name="Python2 vs Python3: различия синтаксиса" author="" url="https://pythonworld.ru/osnovy/python2-vs-python3-razlichiya-sintaksisa.html" tags="" ctime="20190729235118" dir="15337601637hoo3ww9v8" file="text.html"/>
+     <record id="1533760537q8mj8whplj" name="Документирование кода в Python. PEP 257" author="" url="https://pythonworld.ru/osnovy/dokumentirovanie-koda-v-python-pep-257.html" tags="" ctime="20190729235118" dir="1533760537ggfpm2ztg5" file="text.html"/>
+     <record id="15337609050cu7bsttf1" name="PEP 8 - руководство по написанию кода на Python" author="" url="https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html" tags="" ctime="20190729235118" dir="1533760905yairl3rfzc" file="text.html"/>
+     <record id="1533760945nm67gt84df" name="Работа с модулями: создание, подключение инструкциями import и from" author="" url="https://pythonworld.ru/osnovy/rabota-s-modulyami-sozdanie-podklyuchenie-instrukciyami-import-i-from.html" tags="" ctime="20190729235118" dir="1533760945e41wuhdimb" file="text.html"/>
+     <record id="1533760958auk0wfo5bk" name="With ... as - менеджеры контекста" author="" url="https://pythonworld.ru/osnovy/with-as-menedzhery-konteksta.html" tags="" ctime="20190729235118" dir="1533760958r096zx5r82" file="text.html"/>
+     <record id="1533760980e7z7dlyuz8" name="Перегрузка операторов" author="" url="" tags="" ctime="20190729235118" dir="1533760980dcje7sij9k" file="text.html"/>
+     <record id="1533760997ixi8xn3rfd" name="Инкапсуляция, наследование, полиморфизм" author="" url="https://pythonworld.ru/osnovy/inkapsulyaciya-nasledovanie-polimorfizm.html" tags="" ctime="20190729235118" dir="1533760997rau9u9sjoy" file="text.html"/>
+     <record id="1533761027ln3f3ns442" name="Первая программа. Среда разработки IDLE" author="" url="https://pythonworld.ru/osnovy/pervaya-programma-sreda-razrabotki-idle.html" tags="" ctime="20190729235118" dir="1533761027wnh07dhnj8" file="text.html"/>
+     <record id="1533761067j9u7vy4i8h" name="Форматирование строк. Оператор %" author="" url="https://pythonworld.ru/osnovy/formatirovanie-strok-operator.html" tags="" ctime="20190729235118" dir="1533761067kq0bi6zqtt" file="text.html"/>
+     <record id="1533761088zb9au8cfyi" name="Возможности языка python" author="" url="https://pythonworld.ru/osnovy/vozmozhnosti-yazyka-python.html" tags="" ctime="20190729235118" dir="1533761088f740h8pt57" file="text.html"/>
+     <record id="1533761121etxpc6s93l" name="Ключевые слова, модуль keyword" author="" url="https://pythonworld.ru/osnovy/klyuchevye-slova-modul-keyword.html" tags="" ctime="20190729235118" dir="15337611210dd9xy7ptx" file="text.html"/>
+     <record id="1533761134nsbxy5j4w2" name="Встроенные функции" author="" url="https://pythonworld.ru/osnovy/vstroennye-funkcii.html" tags="" ctime="20190729235118" dir="1533761134x0zkmf90t1" file="text.html"/>
+     <record id="1533761141k4tgrz8ft9" name="Циклы for и while, операторы break и continue, волшебное слово else" author="" url="https://pythonworld.ru/osnovy/cikly-for-i-while-operatory-break-i-continue-volshebnoe-slovo-else.html" tags="" ctime="20190729235119" dir="1533761141ew35d3nv6z" file="text.html"/>
+     <record id="1533761151gar90ufahk" name="Инструкция if-elif-else, проверка истинности, трехместное выражение if/else" author="" url="https://pythonworld.ru/osnovy/instrukciya-if-elif-else-proverka-istinnosti-trexmestnoe-vyrazhenie-ifelse.html" tags="" ctime="20190729235119" dir="1533761151b18e78k2yu" file="text.html"/>
+     <record id="1533761165grbag16u3j" name="Синтаксис языка Python" author="" url="https://pythonworld.ru/osnovy/sintaksis-yazyka-python.html" tags="" ctime="20190729235119" dir="1533761165e5e6diacsf" file="text.html"/>
+     <record id="1533761207bammdkeh18" name="Компиляция программы на python 3 в exe с помощью программы cx_Freeze" author="" url="https://pythonworld.ru/osnovy/program-compilation-with-cx-freeze.html" tags="" ctime="20190729235119" dir="15337612070n410mskec" file="text.html"/>
+     <record id="1533762255i4l9a5nr2w" name="Как определять функции в Python 3" author="" url="http://www.internet-technologies.ru/articles/kak-opredelyat-funkcii-v-python-3.html" tags="" ctime="20190729235119" dir="1533762255bja19dsks9" file="text.html"/>
+     <record id="15337623128huw945mu5" name="Функции Print() в Python" author="" url="http://www.internet-technologies.ru/articles/funkcii-print-v-python.html" tags="" ctime="20190729235119" dir="1533762312pvm619z9do" file="text.html"/>
+     <record id="1533762334jchdsfkmox" name="Как массивы и списки работают на Python" author="" url="" tags="" ctime="20190729235119" dir="1533762334p95f8nh176" file="text.html"/>
+     <record id="1533762377yp8323bxoq" name="Руководство по словарям Python" author="" url="http://www.internet-technologies.ru/articles/rukovodstvo-po-slovaryam-python.html" tags="" ctime="20190729235119" dir="1533762377ndd85tyqfm" file="text.html"/>
+     <record id="15337624301pvbdvqxxb" name="Применение Python в качестве калькулятора" author="" url="http://www.internet-technologies.ru/articles/primenenie-python-v-kachestve-kalkulyatora.html" tags="" ctime="20190729235119" dir="1533762430uvklq2qjk5" file="text.html"/>
+     <record id="153376250962elf57a3i" name="Используйте Psyco, и Python будет работать так же быстро, как и С" author="" url="http://www.internet-technologies.ru/articles/ispolzuyte-psyco-i-python-budet-rabotat-tak-zhe-bystro-kak-i-s.html" tags="" ctime="20190729235119" dir="1533762509trd5n2zlzv" file="text.html"/>
+     <record id="1533762523emtxh39vgs" name="Определение страны по IP-адресу" author="" url="http://www.internet-technologies.ru/articles/opredelenie-strany-po-ip-adresu.html" tags="" ctime="20190729235119" dir="153376252331tow86nzt" file="text.html"/>
+     <record id="1533762699xevx5psaq5" name="Функциональное программирование на языке Python" author="" url="http://www.internet-technologies.ru/articles/funkcionalnoe-programmirovanie-na-yazyke-python.html" tags="" ctime="20190729235119" dir="1533762699snw41oqejf" file="text.html"/>
+     <record id="1533762885qgqd0w7y1r" name="Интерполяция строк" author="" url="http://www.internet-technologies.ru/articles/interpolyaciya-strok.html" tags="" ctime="20190729235119" dir="1533762885xukmsdjyev" file="text.html"/>
+     <record id="15337630850zdnqew4g5" name="Python - основные концепции" author="" url="http://www.internet-technologies.ru/articles/python-osnovnye-koncepcii.html" tags="" ctime="20190729235119" dir="15337630855c65kake1k" file="text.html"/>
+     <record id="1533763193un6jv33362" name="Текстовая обработка в языке Python. Подсказки для начинающих." author="" url="http://www.internet-technologies.ru/articles/tekstovaya-obrabotka-v-yazyke-python-podskazki-dlya-nachinayuschih.html" tags="" ctime="20190729235119" dir="15337631936zlrab0bki" file="text.html"/>
+     <record id="1533836322lftp86rhhv" name="Устанавливаем python-пакеты с помощью pip" author="" url="https://pythonworld.ru/osnovy/pip.html" tags="pip" ctime="20190729235119" dir="1533836322lg9acrnyf4" file="text.html"/>
+     <record id="1533836370snclf2wt2m" name="Управление Python пакетами с помощью pip" author="" url="https://www.severcart.org/blog/all/pip/" tags="python. pip" ctime="20190729235119" dir="153383637094uqka1qux" file="text.html"/>
+     <record id="15338367018wmipefpxn" name="PyQt или PySide - какой из них использовать" author="" url="http://qaru.site/questions/107975/pyqt-or-pyside-which-one-to-use" tags="" ctime="20190729235119" dir="1533836701obfgj6rz9h" file="text.html"/>
+     <record id="1544726836ei83obs4jb" name="Как узнать температуру процессора с помощью psutil в Python" author="" url="https://proglib.io/p/psutil-in-python/" tags="" ctime="20190729235119" dir="1544726836o5ex6f60ts" file="text.html"/>
+     <record id="1533764250orckjgymg6" name="Python GUI: создаём простое приложение с PyQt и Qt Designer" author="" url="https://tproger.ru/translations/python-gui-pyqt/" tags="" ctime="20190729235119" dir="1533764250mghy94bpjk" file="text.html"/>
+     <record id="1552768240at0b5emjcl" name="Сайт с нуля на python и django. Работа с постами на сайте. Делаем аналог livejournal." author="" url="https://vk.com/wall-165865321_334" tags="" ctime="20190729235119" dir="1552768240t62a7i18kn" file="text.html"/>
+     <record id="1533764395yqz6nfivbb" name="Все о языке программирования Python: новости развития" author="" url="https://tproger.ru/tag/python/" tags="" ctime="20190729235119" dir="1533764395v0uohyim17" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="1564433483c3i5diwlmq" name="Посмотреть">
+     <recordtable>
+      <record id="1552768328dbbvwmmtgk" name="Открытый курс машинного обучения. Тема 2: Визуализация данных c Python" author="" url="https://m.habr.com/ru/company/ods/blog/323210/" tags="" ctime="20190729235123" dir="1552768328wvvtb4ul46" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1564433479rk5m5xt44m" name="IDE">
+     <node crypt="" id="15644334793ijrxljl1a" name="Qt">
+      <recordtable>
+       <record id="1483561348pcxgtapl71" name="Qt Downloads" author="" url="https://www.qt.io/download-open-source/" tags="qt" ctime="20190729235119" dir="1483561348l4ewf1o7vz" file="text.html"/>
+       <record id="1483631015u8pws95n32" name="Installing PyQt5" author="" url="http://pyqt.sourceforge.net/Docs/PyQt5/installation.html#installing-from-wheels" tags="" ctime="20190729235119" dir="1483631015olxoggmaw1" file="text.html"/>
+       <record id="1483899877pre224ni0q" name="Установка и настройка комплекта Qt 4.8.6, Qt Creator 4.0.2 и MinGw 4.8.2 под Windows" author="" url="http://webhamster.ru/mytetrashare/index/mtb0/1467373927r5m8rqalnb" tags="" ctime="20190729235119" dir="1483899877r8hvz4q9uy" file="text.html"/>
+       <record id="1484591323arkp6sq68i" name="qt-win-opensource-4.8.5-mingw.exe" author="" url="http://download.qt.io/archive/qt/4.8/4.8.5/" tags="" ctime="20190729235119" dir="1484591323i9eyv1qenu" file="text.html"/>
+       <record id="1533763427oozfdythqc" name="Как написать программу на PyQT" author="" url="https://pythono.ru/pyqt-first-program/" tags="" ctime="20190729235119" dir="1533763427ije5ev64zk" file="text.html"/>
+       <record id="15337674754cr640zdye" name="Как установить SIP и PyQT на Windows 7" author="" url="http://qaru.site/questions/992676/how-to-install-sip-pyqt-on-windows-7" tags="" ctime="20190729235119" dir="153376747552q6wv4rjn" file="text.html"/>
+       <record id="1533768768tgd2oazhsc" name="Установка Python и PyQT под Windows" author="" url="https://pythono.ru/python-installation/" tags="" ctime="20190729235119" dir="1533768768aj6fwbpp0x" file="text.html"/>
+       <record id="1533844590zn0n16stv8" name="Qt Downloads" author="" url="http://download.qt.io/archive/qt/" tags="" ctime="20190729235119" dir="1533844590zvfsm7t5wt" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="15644334793m837dzi6s" name="PySide">
+      <recordtable>
+       <record id="1533836642qlh03vxdo4" name="Работа с PySide" author="" url="https://habr.com/post/134457/" tags="" ctime="20190729235119" dir="1533836642wj17o4ukd2" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="15644334801gcupochh4" name="PyCharm">
+      <recordtable>
+       <record id="1483814863jxxyqamlbv" name="Введение в Python с PyCharm Educational Edition" author="" url="https://pythonworld.ru/osnovy/pycharm-python-tutorial.html" tags="" ctime="20190729235120" dir="14838148636a9kjhyver" file="text.html"/>
+       <record id="14838149631rsxf559k9" name="PyCharm" author="" url="http://www.cyberforum.ru/python/thread1225137.html" tags="" ctime="20190729235120" dir="1483814963bk7u259w8l" file="text.html">
+        <files>
+         <file id="1484595276cdcsdrojcb" fileName="PyCharm 3_ обзор, установка, настройка - Python - CyberForum.pdf" type="file"/>
+         <file id="1484595298rc9vrmoeji" fileName="PyCharm_ReferenceCard_mac.pdf" type="file"/>
+        </files>
+       </record>
+       <record id="14838985607bgv0l4v6q" name="PySide" author="" url="http://wiki.qt.io/PySide_Downloads" tags="" ctime="20190729235120" dir="148389856015p1c5s94t" file="text.html"/>
+       <record id="15336675137o09e98rc5" name="Горячие клавиши PyCharm" author="" url="http://dev-tricks.ru/2016/10/20/goryachie-klavishi-pycharm/" tags="" ctime="20190729235120" dir="15336675136m93b1k2e6" file="text.html"/>
+       <record id="1533761323tkxgupuylq" name="Введение в Python с PyCharm Educational Edition" author="" url="https://pythonworld.ru/osnovy/pycharm-python-tutorial.html" tags="" ctime="20190729235120" dir="1533761323l5h6k1q3ti" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="156443348005cx6ncjjg" name="Sublime">
+      <recordtable>
+       <record id="1483629705ii4yx9dlxy" name="Горячие клавиши Windows" author="" url="http://sublimetext.ru/documentation/hotkeys/windows" tags="sublime" ctime="20190729235120" dir="14836297050klxf8du82" file="text.html"/>
+       <record id="1483629783z1zzfgrp6d" name="Настройки" author="" url="http://sublimetext.ru/documentation/preferences" tags="sublime" ctime="20190729235120" dir="1483629783ra5sa0ypdc" file="text.html"/>
+       <record id="14836298182fvaacmpbw" name="Русификация меню для Sublime Text 2 и 3" author="" url="http://dimox.name/sublime-text-russian-menu/" tags="" ctime="20190729235120" dir="1483629818tsebt9k2b9" file="text.html"/>
+       <record id="1483629896te2z3vchk9" name="Sublime Text 2 — советы и хитрости" author="" url="http://www.zhart.ru/software/255-sublime-text-2-tips?showall=1&amp;limitstart=" tags="" ctime="20190729235120" dir="1483629896udyzl9m6kr" file="text.html"/>
+       <record id="1483630006w97y5jho4o" name="Sublime Text 2 — основные возможности" author="" url="http://www.zhart.ru/software/252-sublime-text-2-features" tags="Sublime" ctime="20190729235120" dir="1483630006ow3rmghne2" file="text.html"/>
+       <record id="14836300349ag5g045hy" name="Sublime Text 2 — плагины" author="" url="http://www.zhart.ru/software/254-sublime-text-2-plugins" tags="Sublime" ctime="20190729235120" dir="14836300348wolttn2y4" file="text.html"/>
+       <record id="1483630065y0d7w7w4ym" name="Sublime Text 2 — сниппеты" author="" url="http://www.zhart.ru/software/253-sublime-text-2-snippets" tags="Sublime" ctime="20190729235120" dir="1483630065zt7skbqoi1" file="text.html"/>
+       <record id="14836301102q5qczggjf" name="Sublime Text 2 — введение" author="" url="http://www.zhart.ru/software/251-sublime-text-2-introduction" tags="Sublime" ctime="20190729235120" dir="1483630110avkks8p1sg" file="text.html"/>
+       <record id="1483630171x2vpagywdv" name="Sublime Text 2 мой опыт работы с редактором" author="" url="http://it-obzor.com/node/318" tags="Sublime" ctime="20190729235120" dir="1483630171lfjlzslxy8" file="text.html"/>
+       <record id="1483630285eo7qfmffy8" name="Использование Sublime Text Editor 2 в качестве редактора текста Python 3.x" author="" url="https://blogs.reverse4you.org/entry.php?b=100" tags="Sublime" ctime="20190729235120" dir="1483630285rkjpfus7vv" file="text.html"/>
+       <record id="1483630399uhsbkbuv0k" name="Параметры" author="" url="http://sublimetext.ru/documentation/preferences/list" tags="" ctime="20190729235120" dir="1483630399np1o432b36" file="text.html"/>
+       <record id="151285237243ncaotqx2" name="Sublime Text 3 Download" author="" url="https://www.sublimetext.com/3" tags="Sublime Text" ctime="20190729235120" dir="1512852372xxpffamvbx" file="text.html"/>
+       <record id="1533843310fjzz3plajp" name="LICENSE KEY FOR SUBLIME TEXT 3 BUILD 3143" author="" url="https://gist.github.com/hygull/6cdf0fa8a1184693a234a7a73cbdd52e#file-license-key-for-sublime-text-3-build-3143-md" tags="" ctime="20190729235120" dir="1533843310gmhn8t9bgw" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1564433480j7j4rt0l34" name="PyScripter">
+      <recordtable>
+       <record id="1483945403wmxjo4hbhv" name="PyScripter download" author="" url="https://sourceforge.net/p/pyscripter/activity/?page=0&amp;limit=100#550baa0734309d46f4b3beca" tags="PyScripter" ctime="20190729235120" dir="1483945403bpukkmakoh" file="text.html"/>
+       <record id="1483945633c1g18p1xuz" name="PyScripter" author="" url="https://www.nulled.cc/threads/252561/" tags="PyScripter" ctime="20190729235120" dir="1483945633fsiq2ub4gz" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="15644334802c1gqfcy64" name="Eclipse">
+      <recordtable>
+       <record id="1483452901dgg9io6cxw" name="Разработка → Настраиваем Eclipse PyDev под отладку Python 3.x с честным юникодом и кириллицей" author="" url="https://habrahabr.ru/post/167559/" tags="" ctime="20190729235120" dir="1483452901nwslepku3p" file="text.html"/>
+       <record id="14836430829yk906d9ju" name="Платформа Java™, Standard Edition 7" author="" url="http://spec-zone.ru/RU/Java/Docs/7/api/" tags="" ctime="20190729235120" dir="1483643082t33e6w4pla" file="text.html"/>
+       <record id="1483643358wn4pdsn5nr" name="Старые версии" author="" url="http://download.eclipse.org/eclipse/downloads/" tags="" ctime="20190729235120" dir="1483643358vm2ozq9y0g" file="text.html"/>
+      </recordtable>
+      <node crypt="" id="1564433480rxxlf0ioz3" name="languages packs">
+       <recordtable>
+        <record id="1483468997kn22f829po" name="languages packs" author="" url="http://www.eclipse.org/babel/downloads.php" tags="" ctime="20190729235120" dir="148346899749cw5lowoy" file="text.html"/>
+        <record id="1483470500jv1a07nrk1" name="Русификация Eclipse" author="" url="http://findevelop.blogspot.ru/2011/04/eclipse.html" tags="" ctime="20190729235120" dir="1483470500mf1b31k1lh" file="text.html"/>
+        <record id="148347060749e0zlzwjh" name="Как русифицировать Eclipse без головной боли" author="" url="http://blog.kislenko.net/show.php?id=886" tags="" ctime="20190729235120" dir="14834706071vn7lhdfc6" file="text.html"/>
+        <record id="1483470660j5bgfxmoah" name="Как русифицировать Eclipse" author="" url="https://www.youtube.com/watch?v=R1PzkSNsEqM" tags="" ctime="20190729235121" dir="1483470660cr2k4hnvdd" file="text.html"/>
+       </recordtable>
+      </node>
+      <node crypt="" id="1564433481u9ig9e83qi" name="PyDev">
+       <recordtable>
+        <record id="1483620577nr8rf59bpj" name="Установка PyDev для eclipse" author="" url="http://www.pydev.org/manual_101_install.html" tags="" ctime="20190729235121" dir="1483620577x7yak1jpsy" file="text.html"/>
+        <record id="1483453311syxhicy7b0" name="Устанавливаем PyDev" author="" url="http://justworks.ru/setup_pydev_and_helloworld/" tags="" ctime="20190729235121" dir="14834533117ctiinm1a6" file="text.html"/>
+       </recordtable>
+      </node>
+     </node>
+    </node>
+    <node crypt="" id="1564433481ybbtsyjn4m" name="Перевод документации Python 3.x">
+     <recordtable>
+      <record id="1515943921f8kz2puuzd" name="Подсчет количества строк, слов и букв в текстовом файле" author="" url="http://pythoner.name/qty-lines-words-letters" tags="" ctime="20190729235121" dir="15159439210m7ss7h4nf" file="text.html"/>
+      <record id="1515942087erymimhnxq" name="Программа &quot;Сортировщик файлов&quot; " author="" url="http://pythoner.name/program/sortfiles" tags="python примеры,sortfiles" ctime="20190729235121" dir="1515942087o4x00ejzz4" file="text.html"/>
+      <record id="1515942024ukbb2vc00k" name="Что делает os.walk() " author="" url="http://pythoner.name/walk" tags="python примеры,os.walk() " ctime="20190729235121" dir="1515942024yn7h7p2pes" file="text.html"/>
+      <record id="1515941960of73099vs3" name="Проверка наличия файла или каталога по указанному пути" author="" url="http://pythoner.name/path-exists" tags="python примеры,,path-exists" ctime="20190729235121" dir="15159419604sj5it9n7d" file="text.html"/>
+      <record id="1515940965dbjd5t87n6" name="Заметки" author="" url="http://pythoner.name/index.php/examples" tags="Программирование на Python" ctime="20190729235121" dir="1515940965vtya84g22p" file="text.html"/>
+      <record id="1515943992jhpuv3j0em" name="Python. Решение задач" author="" url="http://pythoner.name/tasks" tags="" ctime="20190729235121" dir="1515943992n9cnni4hiv" file="text.html"/>
+      <record id="1515944133chzcs09bwz" name="Проверка расширения файла" author="" url="http://pythoner.name/file-extension" tags="" ctime="20190729235121" dir="15159441333ef5t6tzas" file="text.html"/>
+      <record id="1515944333widea8nofi" name="Программа &quot;Определитель дней&quot; (PyQt)" author="" url="http://pythoner.name/program/date-days" tags="" ctime="20190729235121" dir="15159443338pbzcediyy" file="text.html"/>
+     </recordtable>
+     <node crypt="" id="1564433481yuxutm0tv3" name="1. Документация">
+      <recordtable>
+       <record id="1515942342qwids27w5v" name="0. Перевод документации Python 3.x" author="" url="" tags="" ctime="20190729235121" dir="15159423420f0cvx2kom" file="text.html"/>
+       <record id="1515942362t3p1q6lgrz" name="1. Разжигая ваш аппетит " author="" url="http://pythoner.name/documentation/tutorial/appetite" tags="" ctime="20190729235121" dir="1515942362wg3ji4rozl" file="text.html"/>
+       <record id="1515942393dt3ds0n1nj" name="2. Использование интерпретатора Python" author="" url="http://pythoner.name/documentation/tutorial/interpreter" tags="" ctime="20190729235121" dir="15159423936h0g5bgiq9" file="text.html"/>
+       <record id="15159424212sq5ke7met" name="3. Неформальное введение в Python" author="" url="http://pythoner.name/documentation/tutorial/introduction" tags="" ctime="20190729235121" dir="1515942421hloqol9ymy" file="text.html"/>
+       <record id="15159424627365p0vqh4" name="4. Управление потоком выполнения " author="" url="http://pythoner.name/documentation/tutorial/tools" tags="" ctime="20190729235121" dir="1515942462g1zaxx2n4y" file="text.html"/>
+       <record id="1515942281jax7kie0h0" name="5. Структуры данных" author="" url="http://pythoner.name/documentation/tutorial/structures" tags="pythoт документация" ctime="20190729235121" dir="15159422818npcb4np50" file="text.html"/>
+       <record id="1515942573sn1qjj9xwa" name="6. Модули" author="" url="http://pythoner.name/documentation/tutorial/modules" tags="" ctime="20190729235121" dir="1515942573iwfi08hzg2" file="text.html"/>
+       <record id="1515942604p4x8cdq203" name="7. Ввод и вывод" author="" url="http://pythoner.name/documentation/tutorial/output" tags="" ctime="20190729235121" dir="15159426044s7g2oddqw" file="text.html"/>
+       <record id="1515942633wbac14m5ay" name="8. Ошибки и исключения" author="" url="http://pythoner.name/index.php/documentation/tutorial/exceptions" tags="" ctime="20190729235121" dir="1515942633hr6mjfpe50" file="text.html"/>
+       <record id="1515942665gbfhy6aw45" name="9. Классы" author="" url="http://pythoner.name/documentation/tutorial/classes" tags="" ctime="20190729235121" dir="15159426657u1gkf8q5o" file="text.html"/>
+       <record id="1515942694nrp2aeexzk" name="10. Краткий обзор стандартной библиотеки" author="" url="http://pythoner.name/documentation/tutorial/library" tags="" ctime="20190729235121" dir="15159426946m0ot8xos3" file="text.html"/>
+       <record id="15159427341mt8u95z9y" name="11. Краткий обзор стандартной библиотеки - Часть II" author="" url="http://pythoner.name/documentation/tutorial/library2" tags="" ctime="20190729235121" dir="1515942734f0cbxn545j" file="text.html"/>
+       <record id="1515942872ihaxsbjefs" name="12. Виртуальное окружение и пакеты" author="" url="http://pythoner.name/documentation/tutorial/venv" tags="" ctime="20190729235121" dir="1515942872o1tft4p4zb" file="text.html"/>
+       <record id="15159428924xs59bz0lc" name="13. Что теперь?" author="" url="http://pythoner.name/documentation/tutorial/whatnow" tags="" ctime="20190729235121" dir="151594289296qi0s0xfr" file="text.html"/>
+       <record id="15159429239vndyhxvv1" name="14. Редактирование интерактивного ввода и подстановка истории" author="" url="http://pythoner.name/documentation/tutorial/tab-history" tags="" ctime="20190729235121" dir="1515942923b1ye8d7ms4" file="text.html"/>
+       <record id="1515942951tu7gw2wbe9" name="15. Арифметика чисел с плавающей точкой: проблемы и ограничения" author="" url="http://pythoner.name/documentation/tutorial/floatingpoint" tags="" ctime="20190729235121" dir="1515942951ktszgso1cu" file="text.html"/>
+       <record id="1515942977b330bpgebn" name="16. Дополнение" author="" url="http://pythoner.name/documentation/tutorial/appendix" tags="" ctime="20190729235121" dir="1515942977zs1m5896po" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1564433481ldyp17qbek" name="2. Стандартная библиотека Python">
+      <recordtable>
+       <record id="1515943099vyz7slmth2" name="0. Стандартная библиотека Python " author="" url="http://pythoner.name/documentation/library" tags="" ctime="20190729235121" dir="15159430998ujzs0xqk9" file="text.html"/>
+       <record id="1515943188ozs2t8moxv" name="1. Введение" author="" url="http://pythoner.name/index.php/documentation/library/introduction" tags="" ctime="20190729235121" dir="1515943188x79oh5vzti" file="text.html"/>
+       <record id="151594325048ipao7jly" name="2. Встроенные функции" author="" url="http://pythoner.name/index.php/documentation/library/functions" tags="" ctime="20190729235121" dir="1515943250vpiq37d18u" file="text.html"/>
+       <record id="1515943268nfyxit36hu" name="3. Встроенные константы" author="" url="http://pythoner.name/documentation/library/constants" tags="" ctime="20190729235121" dir="151594326846pjyb9cfp" file="text.html"/>
+       <record id="1515943358pik7mia5dh" name="4. Встроенные типы" author="" url="http://pythoner.name/documentation/library/stdtypes" tags="" ctime="20190729235121" dir="1515943358pj5ywhazir" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1564433481fsgjp7nm15" name="3. Справка по языку Python">
+      <recordtable>
+       <record id="1515943481qcjsggcpel" name="Справка по языку Python" author="" url="http://pythoner.name/documentation/reference" tags="" ctime="20190729235121" dir="15159434811f4t3reh81" file="text.html"/>
+       <record id="1515943504lm3vglpnes" name="1. Введение" author="" url="http://pythoner.name/index.php/documentation/reference/introduction" tags="" ctime="20190729235121" dir="1515943504dficie71jr" file="text.html"/>
+       <record id="15159435638jux4c5n7q" name="2. Лексический анализ" author="" url="http://pythoner.name/index.php/documentation/reference/lexical-analysis" tags="" ctime="20190729235121" dir="15159435632e9ftve11f" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="1564433481dmy5tbor4n" name="script-coding.com">
+     <recordtable>
+      <record id="1514389109zilnabj0vy" name="Python Часть I: Вводное руководство" author="" url="http://www.script-coding.com/Python/Otkidach1.html#3.1.1." tags="python" ctime="20190729235121" dir="15143891098bc6k5057y" file="text.html"/>
+      <record id="151438905730gh3rp19e" name="Python как язык макросов для OpenOffice.org" author="" url="http://www.script-coding.com/Python/OOo_Macro.html" tags="Python" ctime="20190729235121" dir="1514389057ky8asw5vbk" file="text.html"/>
+      <record id="151438915984mbhisj99" name="Python: модуль для работы с WMI" author="" url="http://www.script-coding.com/Python/wmi.html" tags="Python" ctime="20190729235122" dir="1514389159dvbamp770p" file="text.html"/>
+      <record id="15143892448o6zqcnsec" name="Python: Использование протокола LDAP в скриптах" author="" url="http://www.script-coding.com/Python/LDAP.html" tags="Python" ctime="20190729235122" dir="1514389244ssqesjmmav" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1564433482837to0wpew" name="Книги">
+     <recordtable>
+      <record id="1514553393tlb3s5a48a" name="Прохоренок Н.А. - PyQt. Создание оконных приложений на Python 3 - 2011" author="" url="" tags="" ctime="20190729235122" dir="15145533934e8i8unjts" file="text.html">
+       <files>
+        <file id="1514553406ws74piwdoh" fileName="Прохоренок Н.А. - PyQt. Создание оконных приложений на Python 3 - 2011 [Unlocked by www.freemypdf.com].pdf" type="file"/>
+       </files>
+      </record>
+     </recordtable>
+    </node>
+    <node crypt="" id="15644334822e72w44o54" name="http://www.java2s.com">
+     <recordtable>
+      <record id="151644949722zgbumdhd" name="'================ Python" author="" url="http://www.java2s.com/Tutorials/Python/index.htm" tags="Python" ctime="20190729235122" dir="15164494974i8mbge7kz" file="text.html"/>
+      <record id="1516449617cz8m749jmu" name="'================ Python examples (example source code) Organized by topic" author="" url="http://www.java2s.com/Code/Python/CatalogPython.htm" tags="Python,CatalogPython" ctime="20190729235122" dir="1516449617w4c7hv1m14" file="text.html"/>
+      <record id="1516449835bt2fp3me4c" name="'================ Python Tutorial" author="" url="http://www.java2s.com/Tutorial/Python/CatalogPython.htm" tags="Python,CatalogPython" ctime="20190729235122" dir="1516449835bmcuf9cxso" file="text.html"/>
+      <record id="1512995657mxlhmn97mw" name="Python" author="" url="http://www.java2s.com/Code/Python/CatalogPython.htm" tags="" ctime="20190729235122" dir="1512995657hladvtfvi7" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1564433482hq55waawkk" name="python-scripts.com">
+     <recordtable>
+      <record id="1516449980m418ephav9" name="Популярные шпаргалки кода для Python " author="" url="https://python-scripts.com/python-code-fragments" tags="Python" ctime="20190729235122" dir="1516449980d065pat5ha" file="text.html"/>
+      <record id="15164500792u0v1w2w98" name="Базы данных в Python" author="" url="https://python-scripts.com/database" tags="Python,python-scripts.com,Базы данных,database" ctime="20190729235122" dir="1516450079bvmxy39dzb" file="text.html"/>
+      <record id="151645037321g0cct0n7" name="Работаем с функциями в Python" author="" url="https://python-scripts.com/functions-python" tags="Python,python-scripts.com,functions python, functions python example,функции python" ctime="20190729235122" dir="1516450373bejai9iq5c" file="text.html"/>
+      <record id="1516450488i0rdm43d6h" name="Обработка исключений в Python" author="" url="https://python-scripts.com/try-except-finally" tags="Python,python-scripts.com,try-except,исключения" ctime="20190729235122" dir="1516450488ykx0r5tb6o" file="text.html"/>
+      <record id="1516450568qfv2wdi0ga" name="Работа с почтой - модули email / smtplib в Python" author="" url="https://python-scripts.com/send-email-smtp-python" tags="Python,python-scripts.com,send-email-smtp-python" ctime="20190729235122" dir="1516450568g3ej43zfn6" file="text.html"/>
+      <record id="1516450616bxon3z7jqm" name="Область видимости в Python" author="" url="https://python-scripts.com/scope" tags="Python,python-scripts.com,Область видимости" ctime="20190729235122" dir="1516450616jb1h8a2khb" file="text.html"/>
+      <record id="1516450683sefakkm0tb" name="Классы в Python " author="" url="https://python-scripts.com/python-class" tags="Python,python-scripts.com,python-class, class python,классы в python " ctime="20190729235122" dir="15164506834bjar998ds" file="text.html"/>
+      <record id="1516450745jqvkeou46v" name="Примеры использования модуля os в Python" author="" url="https://python-scripts.com/import-os-example" tags="Python,python-scripts.com,import-os-example,import-os" ctime="20190729235122" dir="1516450745v9dwyh2g60" file="text.html"/>
+      <record id="15164508456m3agvrk34" name="Обрабатываем csv файлы - Модуль csv" author="" url="https://python-scripts.com/import-csv-python" tags="Python,python-scripts.com,import-csv-python" ctime="20190729235122" dir="15164508457y5nxt55pq" file="text.html"/>
+      <record id="15164509248col1qsf54" name="Импортирование модулей в Python" author="" url="https://python-scripts.com/import-modules-python" tags="Python,python-scripts.com,import python,модуль Python " ctime="20190729235122" dir="1516450924i8u222xikh" file="text.html"/>
+      <record id="1516450990d581qutv9q" name="Работа с файлами в Python" author="" url="https://python-scripts.com/work-with-files-python" tags="Python,python-scripts.com,работа с файлами,файлы python " ctime="20190729235122" dir="15164509901hq9ml5nqz" file="text.html"/>
+      <record id="15164516064rqhd5gd6r" name="Циклы в Python" author="" url="https://python-scripts.com/loops-for-while" tags="Python,python-scripts.com,for,python,while " ctime="20190729235122" dir="151645160614gvfitf85" file="text.html"/>
+      <record id="1516451713pxoe2lr01b" name="Модуль collections на примерах" author="" url="https://python-scripts.com/import-collections" tags="Python,python-scripts.com,import-collections" ctime="20190729235122" dir="15164517133lejajuxs8" file="text.html"/>
+      <record id="15164523423opaqzwxgy" name="Списки, кортежи и словари в Python " author="" url="https://python-scripts.com/lists-tuples-dictionaries" tags="Python,python-scripts.com,lists-tuples-dictionaries" ctime="20190729235122" dir="15164523425xe8g41j94" file="text.html"/>
+      <record id="1516452409bvytlxyfoj" name="Обработка строк в Python" author="" url="https://python-scripts.com/string" tags="Python,python-scripts.com," ctime="20190729235122" dir="1516452409bjcl0iutes" file="text.html"/>
+      <record id="15164524578n72z7prsc" name="Логирование в Python " author="" url="https://python-scripts.com/logging-python" tags="Python,python-scripts.com," ctime="20190729235122" dir="151645245740h4ddxyhx" file="text.html"/>
+      <record id="15164524874hrl7m3a4d" name="Работа с датой и временем в Python " author="" url="https://python-scripts.com/datetime-time-python" tags="Python,python-scripts.com," ctime="20190729235122" dir="1516452487eeokhkm5rw" file="text.html"/>
+      <record id="1516452515ifi11el4p0" name="Установка Python и pip на Windows" author="" url="https://python-scripts.com/install-python-windows" tags="Python,python-scripts.com," ctime="20190729235122" dir="1516452515cb0hkx8d1l" file="text.html"/>
+      <record id="1516452595yak5yc2qb1" name="Установка модулей в Python" author="" url="https://python-scripts.com/how-to-install-modules-python" tags="Python,python-scripts.com," ctime="20190729235122" dir="1516452595q8yx31htkc" file="text.html"/>
+      <record id="151645283891xnixxddp" name="Изучаем Декораторы в Python" author="" url="https://python-scripts.com/decorators" tags="Python,python-scripts.com,decorators" ctime="20190729235122" dir="1516452838zqbv46755d" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1564433482phet3vskci" name="Модули">
+     <recordtable>
+      <record id="1533640759ljgthj9f8a" name="Модуль os.path" author="" url="https://pythonworld.ru/moduli/modul-os-path.html" tags="" ctime="20190729235122" dir="1533640759ti89w4wor8" file="text.html"/>
+      <record id="1533666308smuu8pbn9h" name="Модуль os" author="" url="https://pythonworld.ru/moduli/modul-os.html" tags="" ctime="20190729235122" dir="1533666308brd4gywo3d" file="text.html"/>
+      <record id="1533666374sfxud5g9sa" name="Модуль json" author="" url="https://pythonworld.ru/moduli/modul-json.html" tags="" ctime="20190729235122" dir="1533666374bfni4wg5r6" file="text.html"/>
+      <record id="1533666548t7z6kllyki" name="Модуль datetime" author="" url="https://pythonworld.ru/moduli/modul-datetime.html" tags="" ctime="20190729235122" dir="1533666548u77qyq1zqj" file="text.html"/>
+      <record id="1533666560g2ligvrvbs" name="Модуль collections" author="" url="https://pythonworld.ru/moduli/modul-collections.html" tags="" ctime="20190729235122" dir="153366656076y3cpxjv9" file="text.html"/>
+      <record id="1533666604tcgsmir3tv" name="Модуль array. Массивы в python" author="" url="https://pythonworld.ru/moduli/modul-array-massivy-v-python.html" tags="" ctime="20190729235122" dir="1533666604ofevi7wq7l" file="text.html"/>
+      <record id="1533666628gj455s1atr" name="Строки. Функции и методы строк" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html" tags="" ctime="20190729235122" dir="15336666287nai6dn2pa" file="text.html"/>
+      <record id="15336666454lfwzu1j87" name="Форматирование строк. Метод format" author="" url="https://pythonworld.ru/osnovy/formatirovanie-strok-metod-format.html" tags="" ctime="20190729235122" dir="1533666645f9qq57c2sd" file="text.html"/>
+      <record id="1533666661t9med58hre" name="Списки (list). Функции и методы списков" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html" tags="" ctime="20190729235122" dir="1533666661swg9182zoh" file="text.html"/>
+      <record id="153366670300so34dxwj" name="NumPy" author="" url="https://pythonworld.ru/numpy" tags="" ctime="20190729235122" dir="15336667030z8katekli" file="text.html"/>
+      <record id="1533666715hxex9lwuwz" name="Кортежи (tuple)" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/kortezhi-tuple.html" tags="" ctime="20190729235122" dir="1533666715j2xa25p02a" file="text.html"/>
+      <record id="15336667252bdbu2a81f" name="Модуль time" author="" url="https://pythonworld.ru/moduli/modul-time.html" tags="" ctime="20190729235123" dir="1533666725ls9gp1h4f0" file="text.html"/>
+      <record id="1533666738uj57z8mwoz" name="Модуль sys" author="" url="https://pythonworld.ru/moduli/modul-sys.html" tags="" ctime="20190729235123" dir="1533666738b21uua862g" file="text.html"/>
+      <record id="1533666747r7t568i3xo" name="Модуль random" author="" url="https://pythonworld.ru/moduli/modul-random.html" tags="" ctime="20190729235123" dir="15336667471s2sawv63b" file="text.html"/>
+      <record id="1533666755eoux5vrmdx" name="Модуль math" author="" url="https://pythonworld.ru/moduli/modul-math.html" tags="" ctime="20190729235123" dir="1533666755d916mvzgg4" file="text.html"/>
+      <record id="1533668103n6saxcokrv" name="python - Получение последнего элемента списка в Python" author="" url="about:reader?url=http%3A%2F%2Fqaru.site%2Fquestions%2F1280%2Fgetting-the-last-element-of-a-list-in-python" tags="" ctime="20190729235123" dir="1533668103xi4t166sjh" file="text.html"/>
+      <record id="15337623509u4f4l4v3f" name="Модуль time – таймеры времени" author="" url="http://www.internet-technologies.ru/articles/modul-time-taymery-vremeni.html" tags="" ctime="20190729235123" dir="1533762350jto9xdc09x" file="text.html"/>
+      <record id="1533762395e3vhxw2ept" name="Программирование метаклассов на Python" author="" url="http://www.internet-technologies.ru/articles/programmirovanie-metaklassov-na-python.html" tags="" ctime="20190729235123" dir="1533762395rw12peza1w" file="text.html"/>
+      <record id="15338444021fvxzzwdqx" name="Словари и их методы в Python" author="" url="https://tproger.ru/explain/python-dictionaries/" tags="" ctime="20190729235123" dir="1533844402oy3f6ifyrs" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1564433483odj0s5ir0t" name="Типы данных в Python">
+     <recordtable>
+      <record id="1533761670rk2gm0c814" name="Словари (dict) и работа с ними. Методы словарей" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html" tags="" ctime="20190729235123" dir="1533761670jrjid9ard6" file="text.html"/>
+      <record id="1533761680uq3q5jr4np" name="Кортежи (tuple)" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/kortezhi-tuple.html" tags="" ctime="20190729235123" dir="1533761680ve4zayfkl7" file="text.html"/>
+      <record id="1533761695fguvd0iu8l" name="Функции и их аргументы" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/vse-o-funkciyax-i-ix-argumentax.html" tags="" ctime="20190729235123" dir="1533761695gaoq2iltnq" file="text.html"/>
+      <record id="1533761704irunn4410z" name="Множества (set и frozenset)" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html" tags="" ctime="20190729235123" dir="15337617041ii18ijjpf" file="text.html"/>
+      <record id="1533761714f8t63r4zhe" name="Списки (list). Функции и методы списков" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html" tags="" ctime="20190729235123" dir="1533761714w77pj5mucc" file="text.html"/>
+      <record id="1533761750rbzj3innqq" name="Файлы. Работа с файлами." author="" url="https://pythonworld.ru/tipy-dannyx-v-python/fajly-rabota-s-fajlami.html" tags="" ctime="20190729235123" dir="1533761750rld09hp995" file="text.html"/>
+      <record id="15337617944b00g4ronc" name="Модуль pickle" author="" url="https://pythonworld.ru/moduli/modul-pickle.html" tags="" ctime="20190729235123" dir="1533761794o873ewt27a" file="text.html"/>
+      <record id="1533761810e2spjonk9m" name="Модуль json" author="" url="https://pythonworld.ru/moduli/modul-json.html" tags="" ctime="20190729235123" dir="1533761810tagh1t95jv" file="text.html"/>
+      <record id="1533761817f9hb6ta5ai" name="Байты (bytes и bytearray)" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/bajty-bytes-i-bytearray.html" tags="" ctime="20190729235123" dir="1533761817ne9h5n60hj" file="text.html"/>
+      <record id="1533761831q5gnkgc75l" name="Исключения в python. Конструкция try - except для обработки исключений" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html" tags="" ctime="20190729235123" dir="1533761831qt9mk2pqmi" file="text.html"/>
+      <record id="1533761846b3tflhbtfb" name="Числа: целые, вещественные, комплексные" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/chisla-int-float-complex.html" tags="" ctime="20190729235123" dir="1533761846pslre6i8cu" file="text.html"/>
+      <record id="15337618649oy2o4kp2t" name="Модуль cmath" author="" url="https://pythonworld.ru/moduli/modul-cmath.html" tags="" ctime="20190729235123" dir="1533761864zis1len6ve" file="text.html"/>
+      <record id="1533761874irqdtt9vtn" name="None (null), или немного о типе NoneType" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/none.html" tags="" ctime="20190729235123" dir="1533761874htpybhwp7d" file="text.html"/>
+      <record id="153376188463mtggpdyg" name="Строки. Функции и методы строк" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html" tags="" ctime="20190729235123" dir="1533761884nwfrh56lqs" file="text.html"/>
+      <record id="153376189768xva1whc3" name="Работа со строками в Python: литералы" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/stroki-literaly-strok.html" tags="" ctime="20190729235123" dir="15337618975x7jg9m1eh" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1564433483jon5eu18h5" name="Функции">
+     <recordtable>
+      <record id="1533761971ujw7cmqsfw" name="Разбиение строк через split() в Python" author="" url="http://www.internet-technologies.ru/articles/razbienie-strok-cherez-split-v-python.html" tags="" ctime="20190729235123" dir="1533761971sf5wlgwfir" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1564433483giet1xo8i4" name="Sublime Text 3">
+     <recordtable>
+      <record id="153384237411fuw1jiv5" name="Скачать Sublime Text 3" author="" url="https://sublimetext3.ru/" tags="" ctime="20190729235123" dir="1533842374hyffss18ol" file="text.html"/>
+      <record id="1533842892kuom8l2ejw" name="Установка плагинов в Sublime Text" author="" url="https://sublimetext3.ru/plaginy" tags="" ctime="20190729235123" dir="1533842892zpccihly5y" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
    <node crypt="" id="1545839541c2uytgmqqp" name="Видео">
     <recordtable>
      <record id="1544726302y8oewlr4mv" name="SQL-программирование: наиболее полный видеокурс" author="" url="https://proglib.io/p/sql-programming/" tags="" ctime="20190729231314" dir="1544726302sota0rmmmd" file="text.html"/>
@@ -224,13 +490,6 @@
       <record id="1545839655e66vifrq47" name="связанный sql server с access" author="" url="" tags="посмотреть" ctime="20181226185415" dir="1545839655etoud3mm91" file="text.html"/>
      </recordtable>
     </node>
-   </node>
-   <node crypt="" id="15337642654n8ci0jm1j" name="Python">
-    <recordtable>
-     <record id="1533764250orckjgymg6" name="Python GUI: создаём простое приложение с PyQt и Qt Designer" author="" url="https://tproger.ru/translations/python-gui-pyqt/" tags="" ctime="20180809003750" dir="1533764250mghy94bpjk" file="text.html"/>
-     <record id="1533764395yqz6nfivbb" name="Все о языке программирования Python: новости развития" author="" url="https://tproger.ru/tag/python/" tags="" ctime="20180809003955" dir="1533764395v0uohyim17" file="text.html"/>
-     <record id="1552768240at0b5emjcl" name="Сайт с нуля на python и django. Работа с постами на сайте. Делаем аналог livejournal." author="" url="https://vk.com/wall-165865321_334" tags="" ctime="20190316233040" dir="1552768240t62a7i18kn" file="text.html"/>
-    </recordtable>
    </node>
    <node crypt="" id="1540527366vl0707te2k" name="MSO">
     <node crypt="" id="15405273777k4m0j8e8q" name="Excel">
@@ -374,6 +633,7 @@
       <record id="15262060750558nvzd6u" name="14. Автоматическое открытие заданной вкладки ленты при запуске документа." author="" url="http://fluentui.blogspot.ru/2016/07/14.html?m=1" tags="Ribbon XML Editor" ctime="20190316232456" dir="152620607591vcqoeq76" file="text.html"/>
       <record id="1526206035jjcm4m669z" name="15. Использование Ribbon XML Editor для создания ленты в Access." author="" url="http://fluentui.blogspot.ru/2017/02/15-ribbon-xml-editor-access.html?m=1" tags="Ribbon XML Editor" ctime="20190316232456" dir="1526206035s9qhvhmj0v" file="text.html"/>
       <record id="15262059386234c23xqu" name="16. Использование внешних изображений на ленте Access." author="" url="http://fluentui.blogspot.ru/2017/02/access.html?m=1" tags="Ribbon XML Editor" ctime="20190316232456" dir="15262059387640umxk40" file="text.html"/>
+      <record id="1562041043drw60raw8b" name="Создаем свою панель инструментов." author="" url="http://www.timpust.ru/vba/tools/ribbon.php" tags="VBA Ribbon" ctime="20190729235817" dir="1562041043n2igb8do4m" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -576,6 +836,8 @@
      <record id="1544723520anr28av9ck" name="Как заполнить ComboBox набором записей с помощью VBA" author="" url="" tags="" ctime="20190316234328" dir="1544723520mszdx7y0ml" file="text.html"/>
      <record id="1544726898pimq4vycu1" name="Календарь написанный на VBA для Excel и других MS Office приложений" author="" url="http://robotobor.pro/programming-for-all/tricks-vba/calendar-vba-code" tags="" ctime="20190316234328" dir="1544726898mjlp6sdej4" file="text.html"/>
      <record id="15617149139d0klep40s" name="Горячие клавиши VBA" author="" url="https://it.wikireading.ru/26489" tags="Горячие клавиши VBA" ctime="20190628124153" dir="1561714913vq4kau8k58" file="text.html"/>
+     <record id="15620408384jyvzqkwtp" name="Запуск и управление приложениями семейства MS Office" author="" url="http://www.timpust.ru/vba/tools/application.php" tags="VBA управление приложениями" ctime="20190729235552" dir="1562040838rpq6adpry7" file="text.html"/>
+     <record id="1562040966x8ay5juz4j" name="Быстродействие выполнения процедур на VBA." author="" url="http://www.timpust.ru/vba/tools/fast.php" tags="VBA быстродействие" ctime="20190729235626" dir="1562040966d8z3500ha9" file="text.html"/>
     </recordtable>
     <node crypt="" id="1552769008wodxlvpumt" name="Меню VB">
      <recordtable>
@@ -1066,6 +1328,7 @@
        <record id="15334119256a9juld9f3" name="Использование библиотеки ADO (Microsoft ActiveX Data Object)" author="" url="http://www.script-coding.com/ADO.html" tags="ADO" ctime="20190316234329" dir="15334119258ilkys495l" file="text.html"/>
        <record id="1538473070pqvwj2r6dr" name="объект ADODB" author="" url="http://www.cyberforum.ru/vba/thread352192.html" tags="VBA, ADO, OpenDataBase" ctime="20190316234329" dir="15384730708ks8fvfjxz" file="text.html"/>
        <record id="15384750576nd9g8sqwm" name="OpenDataBase" author="" url="https://stackoverflow.com/questions/30973591/fast-update-of-access-data-with-excel-data-using-excel-vba" tags="VBA, ADO, OpenDataBase, accdb" ctime="20190316234329" dir="1538475057gtra888w5x" file="text.html"/>
+       <record id="1562041100yp12i491g2" name="Работа с внешними источниками данных Материалы по работе с внешними источниками данных на примере Excel и SQL" author="" url="http://www.timpust.ru/vba/sql.php" tags="VBA ADO, strConnect, SQL VBA" ctime="20190729235920" dir="15620411009hd2otod60" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1552769009mgcjrbcu4v" name="Excel-&gt;Access">
@@ -1845,7 +2108,7 @@
       </record>
      </recordtable>
     </node>
-    <node crypt="" id="1552769011o2o0sk4959" name="Excell">
+    <node crypt="" id="1552769011o2o0sk4959" name="Excel">
      <recordtable>
       <record id="1516356219ptlippr59x" name="Application.Calculation" author="" url="" tags="Application.Calculation, пересчет" ctime="20190316234331" dir="15163562190hermi161m" file="text.html"/>
       <record id="1482820228uw6wiuhx32" name="Программа для очистки рабочей книги" author="" url="http://www.excelworld.ru/forum/3-903-1" tags="" ctime="20190316234331" dir="1482820228qnv57739s5" file="text.html"/>
@@ -2433,6 +2696,14 @@
       <record id="1552907289vc0psp3d43" name="Последний день месяца" author="" url="" tags="Последний_день_месяца" ctime="20190318140809" dir="15529072896b3buwt1n6" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1564433614afs1yhl4i3" name="VBA Web">
+     <recordtable>
+      <record id="1563334451rrslrcgg4d" name="Как я могу отправить данные из веб-запроса Excel после завершения запроса?" author="" url="http://qaru.site/questions/292690/how-can-i-post-process-the-data-from-an-excel-web-query-when-the-query-is-complete/1444701#1444701" tags="VBA Web" ctime="20190729235334" dir="15633344510o1olf2i4j" file="text.html"/>
+      <record id="1563334687ig4gayh8j8" name="Как с помощью VBA извлекать информацию из Web-страниц" author="" url="https://compress.ru/article.aspx?id=12471" tags="VBA Web, " ctime="20190729235334" dir="1563334687a1h2x8rmg2" file="text.html"/>
+      <record id="1563334839sm3nhxv2pf" name="Получение данных через SOAP в Access  [new]" author="" url="https://www.sql.ru/forum/886218/poluchenie-dannyh-cherez-soap-v-access?mid=11410921#11410921" tags="VBA Web, " ctime="20190729235334" dir="1563334839fzxjdbw8as" file="text.html"/>
+      <record id="1563334853nqifohbg0n" name="web запросы через vba  [new]" author="" url="https://www.sql.ru/forum/992943/web-zaprosy-cherez-vba" tags="VBA Web, " ctime="20190729235334" dir="1563334853m60xbyf5ff" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1543742346v6x4qldw91" name="Разное">
     <recordtable>
@@ -2544,6 +2815,7 @@
     <record id="1544723870pya2gcvrlq" name="Разрешение мышки (dpi/cpi) — что это?" author="" url="http://tavalik.ru/razreshenie-myshki-dpicpi/" tags="" ctime="20181213205750" dir="15447238702ggonv85i7" file="text.html"/>
     <record id="1561400657u5xfpr1oiq" name="Clipdiary" author="" url="http://clipdiary.com/rus/" tags="Clipdiary,буфера обмена" ctime="20190624212417" dir="1561400657z1is5g66jk" file="text.html"/>
     <record id="1544726091d8jotmx7vt" name="Диагностика жёсткого диска с бесплатной программой CrystalDiskInfo" author="" url="http://tavalik.ru/diagnostika-hdd-s-crystaldiskinfo/" tags="" ctime="20190729231238" dir="1544726091js0qroswb6" file="text.html"/>
+    <record id="1554197737151rhlqrlv" name="10 критически важных event ID для мониторинга " author="" url="https://habr.com/ru/company/netwrix/blog/148501/" tags="events_windows,event" ctime="20190729235537" dir="15541977379ldzkepo85" file="text.html"/>
    </recordtable>
    <node crypt="" id="1521314253z2ua0whw7p" name="ремонт флешек">
     <recordtable>
@@ -2570,7 +2842,7 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="1" icon="" id="1481864377jkls4gce3q" name="UkM1U0lNUAMeWsTcgfrFbDYzzzmHZH/5wXp29i9CP4jqiXqXzZsdk5tAKmP7UeLH">
+  <node crypt="1" icon="UkM1U0lNUAPFYe7VZhJlGd5yncFLzPEi7EtA/zBj4412O13eB4cmSEoGWkuXnEuILnHZmyCaPl3MF4swrp8QN1V5G2ZJmkasypFgErtte2A=" id="1481864377jkls4gce3q" name="UkM1U0lNUAMeWsTcgfrFbDYzzzmHZH/5wXp29i9CP4jqiXqXzZsdk5tAKmP7UeLH">
    <recordtable>
     <record id="1513170725cx68te4sk4" name="UkM1U0lNUAMSWMUwiKMftXHXUVAwSxZynw69eUkTFvvwc4VFbyve/CTbND/7l4OJSt4Mubb89wA=" author="" url="" tags="" ctime="20171213161205" dir="1513170725ejm0nkoh2s" file="text.html" crypt="1"/>
     <record id="1517296028bsrbvj3hjn" name="=====================================================================================================" author="" url="" tags="" ctime="20180130100708" dir="1517296028o954mo4bim" file="text.html"/>
@@ -2796,6 +3068,7 @@
     <node crypt="1" icon="" id="15644328129nfr2zikvx" name="UkM1U0lNUAOKHfI3ytxyvtQq0IqFu73x0oarFhcGoRKibKdEua0T6ghfvxAe37kt">
      <recordtable>
       <record id="1550358611xe9o28x4rp" name="UkM1U0lNUAMdQz/3+9ske5b0cAZjMREFWQtHRRH0nb9glroFifDKyJanjJ5mo1l84tS2d3omWLA=" author="" url="UkM1U0lNUAPjqYXbyh7pninXxM3CAZ/jkV+ezfLE9kpaIartG9JvjvjuRnboRC90diUgi9/7IQVJGNyjFvxCQEQpvWoXP5Afvx83HlZUnbJn6z/At9AumHzZGtuubnZ42a57v/QuRLhJr8iGccKRoQ==" tags="UkM1U0lNUAPC8cWT90/roMS5/VG8GWoY02VU5OFW8p5NxYNV1O7SI9eLyH39jIni" ctime="20190729234111" dir="1550358611bkne9zi3xg" file="text.html" crypt="1"/>
+      <record id="1550358941omshitai94" name="UkM1U0lNUAPCoKUrjH+T+qpN3nV9Yd2zfLg9nKPxfd0Z2jJFzHmWyJBePasbj/M/mulpPNROckPj7DDqBDPxUZ7c2CO+AOnAJj/NMAcLIjNqWyTdwPrrJg==" author="" url="UkM1U0lNUANa8C/iJi/JTVjEB4rOMzDzAiDI16rQj6Nvhd/N3KQWUHarhW9nGtbDdyERHMRpPPE2M/zU+Vt4VH6NZFKaKfAl+QoKO/T/ngNdZrS80VhB/fEdsDc2KCPgS/LSPF8jnrxAkAq21hdKpQ==" tags="UkM1U0lNUAOTH9cIHN3PyQ65bswr3+EeNY0PUFEPxpTmMisSehnfQO3o8BpMZo4O" ctime="20190729235454" dir="1550358941hhcnlopjnf" file="text.html" crypt="1"/>
      </recordtable>
     </node>
     <node crypt="1" icon="" id="1564432854zyqvtsiqpc" name="UkM1U0lNUAN2WnFX1rJJcvC3exjuFDCW5Ej+qQ86xxJtja7GWqi/T8waWrqA/HzH">
@@ -3023,289 +3296,6 @@
       <record id="1552770162hnasxj7vg9" name="UkM1U0lNUAOO3mhLT67+uEiVdJxqmxMTZkitu1U4iMr8yTEqi8BTesiKRmWbIXH3RwZ27pJkHPGAF2bV24EwSJ6/431hRwFyTgudTirOyyoJ2CodzyjOVhQ4wnUjISAytSG+P+uaDDennvmufAzSh7isSTKLITXB" author="" url="UkM1U0lNUAOT7ZO2e0xpk13f8/M8JYZcrmbphvbgJl6cG5gRY9kuk56X0ERVHBrzq3X7vDzZU/5HKnMuT4pXv3TkEtSTjvDjQDTbd5aPcpyecCZQJbe2+7ry4xAmXsvRGFOmsGK0kTn5EHrI29UZKAz++VTtIgQt" tags="" ctime="20190729230810" dir="15527701627hypuj7lox" file="text.html" crypt="1"/>
      </recordtable>
     </node>
-   </node>
-  </node>
-  <node crypt="" id="14834528268j7yvvmle0" name="Python">
-   <recordtable>
-    <record id="1483453564qdy2pz2ebh" name="Как изменить системную переменную path в Windows 7" author="" url="http://info-comp.ru/vseowindowsst/388-change-the-system-path-variable.html" tags="PATH, переменные среды" ctime="20170103172604" dir="1483453564akfva7ysi9" file="text.html"/>
-    <record id="1483630625jddjusf3ct" name="Приступая к работе" author="" url="http://opentechschool.github.io/python-beginners/ru/getting_started.html" tags="" ctime="20170105183705" dir="1483630625s8z0s4m5se" file="text.html"/>
-    <record id="14836330792ht5yg4z9g" name="PLEAC-Python" author="" url="http://pleac.sourceforge.net/pleac_python/index.html" tags="" ctime="20170105191759" dir="1483633079m5r60d3g98" file="text.html"/>
-    <record id="15128522934trlwdwukh" name="Язык программирования Python 3 для начинающих и чайников" author="" url="https://pythonworld.ru/" tags="Python" ctime="20171209234453" dir="1512852293djcsf44ks6" file="text.html"/>
-    <record id="1512852531p2fzj9n0f4" name="Программирование на Python: от новичка до профессионала" author="" url="https://proglib.io/p/python-from-newbie-to-professional/" tags="python" ctime="20171209234851" dir="1512852531xsq5xw6ipe" file="text.html"/>
-    <record id="1515947664geyfdwokud" name="Странности языка Python, которые могут вас укусить" author="" url="https://proglib.io/p/python-snippets" tags="" ctime="20180114193424" dir="1515947664l9aaz8z2uk" file="text.html"/>
-    <record id="1516453175aejjhe32aw" name="'================= Питон на русском" author="" url="http://www.opennet.ru/docs/RUS/python/" tags="" ctime="20180120155935" dir="15164531754vp1vufn1n" file="text.html">
-     <files>
-      <file id="15164531940iqe8dk5jj" fileName="python-python.tar.gz" type="file"/>
-     </files>
-    </record>
-    <record id="15164533459nm2bza9u6" name="'================= В глубь языка Python" author="" url="http://www.opennet.ru/docs/RUS/diveinto_python/toc.html" tags="" ctime="20180120160225" dir="15164533454bfu2f8ohi" file="text.html">
-     <files>
-      <file id="1516453377m8s4mx3wve" fileName="diveinto_python-python.tar.gz" type="file"/>
-     </files>
-    </record>
-    <record id="1521831510t1hbkxq92z" name="OverAPI.com" author="" url="http://overapi.com/python" tags="Шпаргалка Python,Python" ctime="20180323215830" dir="1521831510qgga2avu7x" file="text.html"/>
-    <record id="15219243618ttxcnmogg" name="Python Tutorial" author="" url="http://net-informations.com/python/default.htm" tags="" ctime="20180324234601" dir="1521924361nbguuhyq7y" file="text.html"/>
-    <record id="15313740956zid6fsd8f" name=" PyCharm IDE для Python программистов" author="" url="https://python-scripts.com/pycharm-download" tags="" ctime="20180712084135" dir="1531374095rm474wl0mi" file="text.html"/>
-    <record id="1533584019j9f45720p3" name="Сортировка фото по дате из EXIF" author="" url="https://pythono.ru/page.php?page=python-exif" tags="" ctime="20180806223339" dir="15335840199734iuocd1" file="text.html"/>
-    <record id="1533760163yjw1kgk2z8" name="Python2 vs Python3: различия синтаксиса" author="" url="https://pythonworld.ru/osnovy/python2-vs-python3-razlichiya-sintaksisa.html" tags="" ctime="20180808232923" dir="15337601637hoo3ww9v8" file="text.html"/>
-    <record id="1533760537q8mj8whplj" name="Документирование кода в Python. PEP 257" author="" url="https://pythonworld.ru/osnovy/dokumentirovanie-koda-v-python-pep-257.html" tags="" ctime="20180808233537" dir="1533760537ggfpm2ztg5" file="text.html"/>
-    <record id="15337609050cu7bsttf1" name="PEP 8 - руководство по написанию кода на Python" author="" url="https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html" tags="" ctime="20180808234145" dir="1533760905yairl3rfzc" file="text.html"/>
-    <record id="1533760945nm67gt84df" name="Работа с модулями: создание, подключение инструкциями import и from" author="" url="https://pythonworld.ru/osnovy/rabota-s-modulyami-sozdanie-podklyuchenie-instrukciyami-import-i-from.html" tags="" ctime="20180808234225" dir="1533760945e41wuhdimb" file="text.html"/>
-    <record id="1533760958auk0wfo5bk" name="With ... as - менеджеры контекста" author="" url="https://pythonworld.ru/osnovy/with-as-menedzhery-konteksta.html" tags="" ctime="20180808234238" dir="1533760958r096zx5r82" file="text.html"/>
-    <record id="1533760980e7z7dlyuz8" name="Перегрузка операторов" author="" url="" tags="" ctime="20180808234300" dir="1533760980dcje7sij9k" file="text.html"/>
-    <record id="1533760997ixi8xn3rfd" name="Инкапсуляция, наследование, полиморфизм" author="" url="https://pythonworld.ru/osnovy/inkapsulyaciya-nasledovanie-polimorfizm.html" tags="" ctime="20180808234317" dir="1533760997rau9u9sjoy" file="text.html"/>
-    <record id="1533761027ln3f3ns442" name="Первая программа. Среда разработки IDLE" author="" url="https://pythonworld.ru/osnovy/pervaya-programma-sreda-razrabotki-idle.html" tags="" ctime="20180808234347" dir="1533761027wnh07dhnj8" file="text.html"/>
-    <record id="1533761067j9u7vy4i8h" name="Форматирование строк. Оператор %" author="" url="https://pythonworld.ru/osnovy/formatirovanie-strok-operator.html" tags="" ctime="20180808234427" dir="1533761067kq0bi6zqtt" file="text.html"/>
-    <record id="1533761088zb9au8cfyi" name="Возможности языка python" author="" url="https://pythonworld.ru/osnovy/vozmozhnosti-yazyka-python.html" tags="" ctime="20180808234448" dir="1533761088f740h8pt57" file="text.html"/>
-    <record id="1533761121etxpc6s93l" name="Ключевые слова, модуль keyword" author="" url="https://pythonworld.ru/osnovy/klyuchevye-slova-modul-keyword.html" tags="" ctime="20180808234521" dir="15337611210dd9xy7ptx" file="text.html"/>
-    <record id="1533761134nsbxy5j4w2" name="Встроенные функции" author="" url="https://pythonworld.ru/osnovy/vstroennye-funkcii.html" tags="" ctime="20180808234534" dir="1533761134x0zkmf90t1" file="text.html"/>
-    <record id="1533761141k4tgrz8ft9" name="Циклы for и while, операторы break и continue, волшебное слово else" author="" url="https://pythonworld.ru/osnovy/cikly-for-i-while-operatory-break-i-continue-volshebnoe-slovo-else.html" tags="" ctime="20180808234541" dir="1533761141ew35d3nv6z" file="text.html"/>
-    <record id="1533761151gar90ufahk" name="Инструкция if-elif-else, проверка истинности, трехместное выражение if/else" author="" url="https://pythonworld.ru/osnovy/instrukciya-if-elif-else-proverka-istinnosti-trexmestnoe-vyrazhenie-ifelse.html" tags="" ctime="20180808234551" dir="1533761151b18e78k2yu" file="text.html"/>
-    <record id="1533761165grbag16u3j" name="Синтаксис языка Python" author="" url="https://pythonworld.ru/osnovy/sintaksis-yazyka-python.html" tags="" ctime="20180808234605" dir="1533761165e5e6diacsf" file="text.html"/>
-    <record id="1533761207bammdkeh18" name="Компиляция программы на python 3 в exe с помощью программы cx_Freeze" author="" url="https://pythonworld.ru/osnovy/program-compilation-with-cx-freeze.html" tags="" ctime="20180808234647" dir="15337612070n410mskec" file="text.html"/>
-    <record id="1533762255i4l9a5nr2w" name="Как определять функции в Python 3" author="" url="http://www.internet-technologies.ru/articles/kak-opredelyat-funkcii-v-python-3.html" tags="" ctime="20180809000415" dir="1533762255bja19dsks9" file="text.html"/>
-    <record id="15337623128huw945mu5" name="Функции Print() в Python" author="" url="http://www.internet-technologies.ru/articles/funkcii-print-v-python.html" tags="" ctime="20180809000512" dir="1533762312pvm619z9do" file="text.html"/>
-    <record id="1533762334jchdsfkmox" name="Как массивы и списки работают на Python" author="" url="" tags="" ctime="20180809000534" dir="1533762334p95f8nh176" file="text.html"/>
-    <record id="1533762377yp8323bxoq" name="Руководство по словарям Python" author="" url="http://www.internet-technologies.ru/articles/rukovodstvo-po-slovaryam-python.html" tags="" ctime="20180809000647" dir="1533762377ndd85tyqfm" file="text.html"/>
-    <record id="15337624301pvbdvqxxb" name="Применение Python в качестве калькулятора" author="" url="http://www.internet-technologies.ru/articles/primenenie-python-v-kachestve-kalkulyatora.html" tags="" ctime="20180809000710" dir="1533762430uvklq2qjk5" file="text.html"/>
-    <record id="153376250962elf57a3i" name="Используйте Psyco, и Python будет работать так же быстро, как и С" author="" url="http://www.internet-technologies.ru/articles/ispolzuyte-psyco-i-python-budet-rabotat-tak-zhe-bystro-kak-i-s.html" tags="" ctime="20180809000829" dir="1533762509trd5n2zlzv" file="text.html"/>
-    <record id="1533762523emtxh39vgs" name="Определение страны по IP-адресу" author="" url="http://www.internet-technologies.ru/articles/opredelenie-strany-po-ip-adresu.html" tags="" ctime="20180809000843" dir="153376252331tow86nzt" file="text.html"/>
-    <record id="1533762699xevx5psaq5" name="Функциональное программирование на языке Python" author="" url="http://www.internet-technologies.ru/articles/funkcionalnoe-programmirovanie-na-yazyke-python.html" tags="" ctime="20180809001139" dir="1533762699snw41oqejf" file="text.html"/>
-    <record id="1533762885qgqd0w7y1r" name="Интерполяция строк" author="" url="http://www.internet-technologies.ru/articles/interpolyaciya-strok.html" tags="" ctime="20180809001445" dir="1533762885xukmsdjyev" file="text.html"/>
-    <record id="15337630850zdnqew4g5" name="Python - основные концепции" author="" url="http://www.internet-technologies.ru/articles/python-osnovnye-koncepcii.html" tags="" ctime="20180809001805" dir="15337630855c65kake1k" file="text.html"/>
-    <record id="1533763193un6jv33362" name="Текстовая обработка в языке Python. Подсказки для начинающих." author="" url="http://www.internet-technologies.ru/articles/tekstovaya-obrabotka-v-yazyke-python-podskazki-dlya-nachinayuschih.html" tags="" ctime="20180809001953" dir="15337631936zlrab0bki" file="text.html"/>
-    <record id="1533836322lftp86rhhv" name="Устанавливаем python-пакеты с помощью pip" author="" url="https://pythonworld.ru/osnovy/pip.html" tags="pip" ctime="20180809203842" dir="1533836322lg9acrnyf4" file="text.html"/>
-    <record id="1533836370snclf2wt2m" name="Управление Python пакетами с помощью pip" author="" url="https://www.severcart.org/blog/all/pip/" tags="python. pip" ctime="20180809203930" dir="153383637094uqka1qux" file="text.html"/>
-    <record id="15338367018wmipefpxn" name="PyQt или PySide - какой из них использовать" author="" url="http://qaru.site/questions/107975/pyqt-or-pyside-which-one-to-use" tags="" ctime="20180809204501" dir="1533836701obfgj6rz9h" file="text.html"/>
-    <record id="1544726836ei83obs4jb" name="Как узнать температуру процессора с помощью psutil в Python" author="" url="https://proglib.io/p/psutil-in-python/" tags="" ctime="20190729232228" dir="1544726836o5ex6f60ts" file="text.html"/>
-   </recordtable>
-   <node crypt="" id="1533761539ut6fjxnmq1" name="IDE">
-    <node crypt="" id="1533761617gp7rthowto" name="Qt">
-     <recordtable>
-      <record id="1483561348pcxgtapl71" name="Qt Downloads" author="" url="https://www.qt.io/download-open-source/" tags="qt" ctime="20180808235337" dir="1483561348l4ewf1o7vz" file="text.html"/>
-      <record id="1483631015u8pws95n32" name="Installing PyQt5" author="" url="http://pyqt.sourceforge.net/Docs/PyQt5/installation.html#installing-from-wheels" tags="" ctime="20180808235337" dir="1483631015olxoggmaw1" file="text.html"/>
-      <record id="1483899877pre224ni0q" name="Установка и настройка комплекта Qt 4.8.6, Qt Creator 4.0.2 и MinGw 4.8.2 под Windows" author="" url="http://webhamster.ru/mytetrashare/index/mtb0/1467373927r5m8rqalnb" tags="" ctime="20180808235337" dir="1483899877r8hvz4q9uy" file="text.html"/>
-      <record id="1484591323arkp6sq68i" name="qt-win-opensource-4.8.5-mingw.exe" author="" url="http://download.qt.io/archive/qt/4.8/4.8.5/" tags="" ctime="20180808235337" dir="1484591323i9eyv1qenu" file="text.html"/>
-      <record id="1533763427oozfdythqc" name="Как написать программу на PyQT" author="" url="https://pythono.ru/pyqt-first-program/" tags="" ctime="20180809002347" dir="1533763427ije5ev64zk" file="text.html"/>
-      <record id="15337674754cr640zdye" name="Как установить SIP и PyQT на Windows 7" author="" url="http://qaru.site/questions/992676/how-to-install-sip-pyqt-on-windows-7" tags="" ctime="20180809013115" dir="153376747552q6wv4rjn" file="text.html"/>
-      <record id="1533768768tgd2oazhsc" name="Установка Python и PyQT под Windows" author="" url="https://pythono.ru/python-installation/" tags="" ctime="20180809015317" dir="1533768768aj6fwbpp0x" file="text.html"/>
-      <record id="1533844590zn0n16stv8" name="Qt Downloads" author="" url="http://download.qt.io/archive/qt/" tags="" ctime="20180809225630" dir="1533844590zvfsm7t5wt" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="1533836617ck57nv3oks" name="PySide">
-     <recordtable>
-      <record id="1533836642qlh03vxdo4" name="Работа с PySide" author="" url="https://habr.com/post/134457/" tags="" ctime="20180809204402" dir="1533836642wj17o4ukd2" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="1533761569ztabw71d2b" name="PyCharm">
-     <recordtable>
-      <record id="1483814863jxxyqamlbv" name="Введение в Python с PyCharm Educational Edition" author="" url="https://pythonworld.ru/osnovy/pycharm-python-tutorial.html" tags="" ctime="20180808235249" dir="14838148636a9kjhyver" file="text.html"/>
-      <record id="14838149631rsxf559k9" name="PyCharm" author="" url="http://www.cyberforum.ru/python/thread1225137.html" tags="" ctime="20180808235249" dir="1483814963bk7u259w8l" file="text.html">
-       <files>
-        <file id="1484595276cdcsdrojcb" fileName="PyCharm 3_ обзор, установка, настройка - Python - CyberForum.pdf" type="file"/>
-        <file id="1484595298rc9vrmoeji" fileName="PyCharm_ReferenceCard_mac.pdf" type="file"/>
-       </files>
-      </record>
-      <record id="14838985607bgv0l4v6q" name="PySide" author="" url="http://wiki.qt.io/PySide_Downloads" tags="" ctime="20180808235249" dir="148389856015p1c5s94t" file="text.html"/>
-      <record id="15336675137o09e98rc5" name="Горячие клавиши PyCharm" author="" url="http://dev-tricks.ru/2016/10/20/goryachie-klavishi-pycharm/" tags="" ctime="20180808235249" dir="15336675136m93b1k2e6" file="text.html"/>
-      <record id="1533761323tkxgupuylq" name="Введение в Python с PyCharm Educational Edition" author="" url="https://pythonworld.ru/osnovy/pycharm-python-tutorial.html" tags="" ctime="20180808235249" dir="1533761323l5h6k1q3ti" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="1533761556utl06alpzp" name="Sublime">
-     <recordtable>
-      <record id="1483629705ii4yx9dlxy" name="Горячие клавиши Windows" author="" url="http://sublimetext.ru/documentation/hotkeys/windows" tags="sublime" ctime="20180808235236" dir="14836297050klxf8du82" file="text.html"/>
-      <record id="1483629783z1zzfgrp6d" name="Настройки" author="" url="http://sublimetext.ru/documentation/preferences" tags="sublime" ctime="20180808235236" dir="1483629783ra5sa0ypdc" file="text.html"/>
-      <record id="14836298182fvaacmpbw" name="Русификация меню для Sublime Text 2 и 3" author="" url="http://dimox.name/sublime-text-russian-menu/" tags="" ctime="20180808235236" dir="1483629818tsebt9k2b9" file="text.html"/>
-      <record id="1483629896te2z3vchk9" name="Sublime Text 2 — советы и хитрости" author="" url="http://www.zhart.ru/software/255-sublime-text-2-tips?showall=1&amp;limitstart=" tags="" ctime="20180808235236" dir="1483629896udyzl9m6kr" file="text.html"/>
-      <record id="1483630006w97y5jho4o" name="Sublime Text 2 — основные возможности" author="" url="http://www.zhart.ru/software/252-sublime-text-2-features" tags="Sublime" ctime="20180808235236" dir="1483630006ow3rmghne2" file="text.html"/>
-      <record id="14836300349ag5g045hy" name="Sublime Text 2 — плагины" author="" url="http://www.zhart.ru/software/254-sublime-text-2-plugins" tags="Sublime" ctime="20180808235236" dir="14836300348wolttn2y4" file="text.html"/>
-      <record id="1483630065y0d7w7w4ym" name="Sublime Text 2 — сниппеты" author="" url="http://www.zhart.ru/software/253-sublime-text-2-snippets" tags="Sublime" ctime="20180808235236" dir="1483630065zt7skbqoi1" file="text.html"/>
-      <record id="14836301102q5qczggjf" name="Sublime Text 2 — введение" author="" url="http://www.zhart.ru/software/251-sublime-text-2-introduction" tags="Sublime" ctime="20180808235236" dir="1483630110avkks8p1sg" file="text.html"/>
-      <record id="1483630171x2vpagywdv" name="Sublime Text 2 мой опыт работы с редактором" author="" url="http://it-obzor.com/node/318" tags="Sublime" ctime="20180808235236" dir="1483630171lfjlzslxy8" file="text.html"/>
-      <record id="1483630285eo7qfmffy8" name="Использование Sublime Text Editor 2 в качестве редактора текста Python 3.x" author="" url="https://blogs.reverse4you.org/entry.php?b=100" tags="Sublime" ctime="20180808235236" dir="1483630285rkjpfus7vv" file="text.html"/>
-      <record id="1483630399uhsbkbuv0k" name="Параметры" author="" url="http://sublimetext.ru/documentation/preferences/list" tags="" ctime="20180808235236" dir="1483630399np1o432b36" file="text.html"/>
-      <record id="151285237243ncaotqx2" name="Sublime Text 3 Download" author="" url="https://www.sublimetext.com/3" tags="Sublime Text" ctime="20180808235236" dir="1512852372xxpffamvbx" file="text.html"/>
-      <record id="1533843310fjzz3plajp" name="LICENSE KEY FOR SUBLIME TEXT 3 BUILD 3143" author="" url="https://gist.github.com/hygull/6cdf0fa8a1184693a234a7a73cbdd52e#file-license-key-for-sublime-text-3-build-3143-md" tags="" ctime="20180809223510" dir="1533843310gmhn8t9bgw" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="1533761577tn7e7m5z01" name="PyScripter">
-     <recordtable>
-      <record id="1483945403wmxjo4hbhv" name="PyScripter download" author="" url="https://sourceforge.net/p/pyscripter/activity/?page=0&amp;limit=100#550baa0734309d46f4b3beca" tags="PyScripter" ctime="20180808235257" dir="1483945403bpukkmakoh" file="text.html"/>
-      <record id="1483945633c1g18p1xuz" name="PyScripter" author="" url="https://www.nulled.cc/threads/252561/" tags="PyScripter" ctime="20180808235257" dir="1483945633fsiq2ub4gz" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="1533761605zruau5uh8p" name="Eclipse">
-     <recordtable>
-      <record id="1483452901dgg9io6cxw" name="Разработка → Настраиваем Eclipse PyDev под отладку Python 3.x с честным юникодом и кириллицей" author="" url="https://habrahabr.ru/post/167559/" tags="" ctime="20180808235325" dir="1483452901nwslepku3p" file="text.html"/>
-      <record id="14836430829yk906d9ju" name="Платформа Java™, Standard Edition 7" author="" url="http://spec-zone.ru/RU/Java/Docs/7/api/" tags="" ctime="20180808235325" dir="1483643082t33e6w4pla" file="text.html"/>
-      <record id="1483643358wn4pdsn5nr" name="Старые версии" author="" url="http://download.eclipse.org/eclipse/downloads/" tags="" ctime="20180808235325" dir="1483643358vm2ozq9y0g" file="text.html"/>
-     </recordtable>
-     <node crypt="" id="15337616050s6rgdxvrq" name="languages packs">
-      <recordtable>
-       <record id="1483468997kn22f829po" name="languages packs" author="" url="http://www.eclipse.org/babel/downloads.php" tags="" ctime="20180808235325" dir="148346899749cw5lowoy" file="text.html"/>
-       <record id="1483470500jv1a07nrk1" name="Русификация Eclipse" author="" url="http://findevelop.blogspot.ru/2011/04/eclipse.html" tags="" ctime="20180808235325" dir="1483470500mf1b31k1lh" file="text.html"/>
-       <record id="148347060749e0zlzwjh" name="Как русифицировать Eclipse без головной боли" author="" url="http://blog.kislenko.net/show.php?id=886" tags="" ctime="20180808235325" dir="14834706071vn7lhdfc6" file="text.html"/>
-       <record id="1483470660j5bgfxmoah" name="Как русифицировать Eclipse" author="" url="https://www.youtube.com/watch?v=R1PzkSNsEqM" tags="" ctime="20180808235325" dir="1483470660cr2k4hnvdd" file="text.html"/>
-      </recordtable>
-     </node>
-     <node crypt="" id="1533761605qh4rwidmv7" name="PyDev">
-      <recordtable>
-       <record id="1483620577nr8rf59bpj" name="Установка PyDev для eclipse" author="" url="http://www.pydev.org/manual_101_install.html" tags="" ctime="20180808235325" dir="1483620577x7yak1jpsy" file="text.html"/>
-       <record id="1483453311syxhicy7b0" name="Устанавливаем PyDev" author="" url="http://justworks.ru/setup_pydev_and_helloworld/" tags="" ctime="20180808235325" dir="14834533117ctiinm1a6" file="text.html"/>
-      </recordtable>
-     </node>
-    </node>
-   </node>
-   <node crypt="" id="15159430290l9ddjv23g" name="Перевод документации Python 3.x">
-    <recordtable>
-     <record id="1515943921f8kz2puuzd" name="Подсчет количества строк, слов и букв в текстовом файле" author="" url="http://pythoner.name/qty-lines-words-letters" tags="" ctime="20180114183201" dir="15159439210m7ss7h4nf" file="text.html"/>
-     <record id="1515942087erymimhnxq" name="Программа &quot;Сортировщик файлов&quot; " author="" url="http://pythoner.name/program/sortfiles" tags="python примеры,sortfiles" ctime="20180114183209" dir="1515942087o4x00ejzz4" file="text.html"/>
-     <record id="1515942024ukbb2vc00k" name="Что делает os.walk() " author="" url="http://pythoner.name/walk" tags="python примеры,os.walk() " ctime="20180114183212" dir="1515942024yn7h7p2pes" file="text.html"/>
-     <record id="1515941960of73099vs3" name="Проверка наличия файла или каталога по указанному пути" author="" url="http://pythoner.name/path-exists" tags="python примеры,,path-exists" ctime="20180114183216" dir="15159419604sj5it9n7d" file="text.html"/>
-     <record id="1515940965dbjd5t87n6" name="Заметки" author="" url="http://pythoner.name/index.php/examples" tags="Программирование на Python" ctime="20180114183219" dir="1515940965vtya84g22p" file="text.html"/>
-     <record id="1515943992jhpuv3j0em" name="Python. Решение задач" author="" url="http://pythoner.name/tasks" tags="" ctime="20180114183312" dir="1515943992n9cnni4hiv" file="text.html"/>
-     <record id="1515944133chzcs09bwz" name="Проверка расширения файла" author="" url="http://pythoner.name/file-extension" tags="" ctime="20180114183533" dir="15159441333ef5t6tzas" file="text.html"/>
-     <record id="1515944333widea8nofi" name="Программа &quot;Определитель дней&quot; (PyQt)" author="" url="http://pythoner.name/program/date-days" tags="" ctime="20180114183853" dir="15159443338pbzcediyy" file="text.html"/>
-    </recordtable>
-    <node crypt="" id="15159430481nce54t991" name="1. Документация">
-     <recordtable>
-      <record id="1515942342qwids27w5v" name="0. Перевод документации Python 3.x" author="" url="" tags="" ctime="20180114181728" dir="15159423420f0cvx2kom" file="text.html"/>
-      <record id="1515942362t3p1q6lgrz" name="1. Разжигая ваш аппетит " author="" url="http://pythoner.name/documentation/tutorial/appetite" tags="" ctime="20180114181728" dir="1515942362wg3ji4rozl" file="text.html"/>
-      <record id="1515942393dt3ds0n1nj" name="2. Использование интерпретатора Python" author="" url="http://pythoner.name/documentation/tutorial/interpreter" tags="" ctime="20180114181728" dir="15159423936h0g5bgiq9" file="text.html"/>
-      <record id="15159424212sq5ke7met" name="3. Неформальное введение в Python" author="" url="http://pythoner.name/documentation/tutorial/introduction" tags="" ctime="20180114181728" dir="1515942421hloqol9ymy" file="text.html"/>
-      <record id="15159424627365p0vqh4" name="4. Управление потоком выполнения " author="" url="http://pythoner.name/documentation/tutorial/tools" tags="" ctime="20180114181728" dir="1515942462g1zaxx2n4y" file="text.html"/>
-      <record id="1515942281jax7kie0h0" name="5. Структуры данных" author="" url="http://pythoner.name/documentation/tutorial/structures" tags="pythoт документация" ctime="20180114181728" dir="15159422818npcb4np50" file="text.html"/>
-      <record id="1515942573sn1qjj9xwa" name="6. Модули" author="" url="http://pythoner.name/documentation/tutorial/modules" tags="" ctime="20180114181728" dir="1515942573iwfi08hzg2" file="text.html"/>
-      <record id="1515942604p4x8cdq203" name="7. Ввод и вывод" author="" url="http://pythoner.name/documentation/tutorial/output" tags="" ctime="20180114181728" dir="15159426044s7g2oddqw" file="text.html"/>
-      <record id="1515942633wbac14m5ay" name="8. Ошибки и исключения" author="" url="http://pythoner.name/index.php/documentation/tutorial/exceptions" tags="" ctime="20180114181728" dir="1515942633hr6mjfpe50" file="text.html"/>
-      <record id="1515942665gbfhy6aw45" name="9. Классы" author="" url="http://pythoner.name/documentation/tutorial/classes" tags="" ctime="20180114181728" dir="15159426657u1gkf8q5o" file="text.html"/>
-      <record id="1515942694nrp2aeexzk" name="10. Краткий обзор стандартной библиотеки" author="" url="http://pythoner.name/documentation/tutorial/library" tags="" ctime="20180114181728" dir="15159426946m0ot8xos3" file="text.html"/>
-      <record id="15159427341mt8u95z9y" name="11. Краткий обзор стандартной библиотеки - Часть II" author="" url="http://pythoner.name/documentation/tutorial/library2" tags="" ctime="20180114181728" dir="1515942734f0cbxn545j" file="text.html"/>
-      <record id="1515942872ihaxsbjefs" name="12. Виртуальное окружение и пакеты" author="" url="http://pythoner.name/documentation/tutorial/venv" tags="" ctime="20180114181728" dir="1515942872o1tft4p4zb" file="text.html"/>
-      <record id="15159428924xs59bz0lc" name="13. Что теперь?" author="" url="http://pythoner.name/documentation/tutorial/whatnow" tags="" ctime="20180114181729" dir="151594289296qi0s0xfr" file="text.html"/>
-      <record id="15159429239vndyhxvv1" name="14. Редактирование интерактивного ввода и подстановка истории" author="" url="http://pythoner.name/documentation/tutorial/tab-history" tags="" ctime="20180114181729" dir="1515942923b1ye8d7ms4" file="text.html"/>
-      <record id="1515942951tu7gw2wbe9" name="15. Арифметика чисел с плавающей точкой: проблемы и ограничения" author="" url="http://pythoner.name/documentation/tutorial/floatingpoint" tags="" ctime="20180114181729" dir="1515942951ktszgso1cu" file="text.html"/>
-      <record id="1515942977b330bpgebn" name="16. Дополнение" author="" url="http://pythoner.name/documentation/tutorial/appendix" tags="" ctime="20180114181729" dir="1515942977zs1m5896po" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="1515943063wzspeyd83r" name="2. Стандартная библиотека Python">
-     <recordtable>
-      <record id="1515943099vyz7slmth2" name="0. Стандартная библиотека Python " author="" url="http://pythoner.name/documentation/library" tags="" ctime="20180114181819" dir="15159430998ujzs0xqk9" file="text.html"/>
-      <record id="1515943188ozs2t8moxv" name="1. Введение" author="" url="http://pythoner.name/index.php/documentation/library/introduction" tags="" ctime="20180114181948" dir="1515943188x79oh5vzti" file="text.html"/>
-      <record id="151594325048ipao7jly" name="2. Встроенные функции" author="" url="http://pythoner.name/index.php/documentation/library/functions" tags="" ctime="20180114182050" dir="1515943250vpiq37d18u" file="text.html"/>
-      <record id="1515943268nfyxit36hu" name="3. Встроенные константы" author="" url="http://pythoner.name/documentation/library/constants" tags="" ctime="20180114182108" dir="151594326846pjyb9cfp" file="text.html"/>
-      <record id="1515943358pik7mia5dh" name="4. Встроенные типы" author="" url="http://pythoner.name/documentation/library/stdtypes" tags="" ctime="20180114182238" dir="1515943358pj5ywhazir" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="1515943433x67j2y8323" name="3. Справка по языку Python">
-     <recordtable>
-      <record id="1515943481qcjsggcpel" name="Справка по языку Python" author="" url="http://pythoner.name/documentation/reference" tags="" ctime="20180114182441" dir="15159434811f4t3reh81" file="text.html"/>
-      <record id="1515943504lm3vglpnes" name="1. Введение" author="" url="http://pythoner.name/index.php/documentation/reference/introduction" tags="" ctime="20180114182504" dir="1515943504dficie71jr" file="text.html"/>
-      <record id="15159435638jux4c5n7q" name="2. Лексический анализ" author="" url="http://pythoner.name/index.php/documentation/reference/lexical-analysis" tags="" ctime="20180114182603" dir="15159435632e9ftve11f" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-   <node crypt="" id="15143890188whaw8omyk" name="script-coding.com">
-    <recordtable>
-     <record id="1514389109zilnabj0vy" name="Python Часть I: Вводное руководство" author="" url="http://www.script-coding.com/Python/Otkidach1.html#3.1.1." tags="python" ctime="20171227183829" dir="15143891098bc6k5057y" file="text.html"/>
-     <record id="151438905730gh3rp19e" name="Python как язык макросов для OpenOffice.org" author="" url="http://www.script-coding.com/Python/OOo_Macro.html" tags="Python" ctime="20171227183737" dir="1514389057ky8asw5vbk" file="text.html"/>
-     <record id="151438915984mbhisj99" name="Python: модуль для работы с WMI" author="" url="http://www.script-coding.com/Python/wmi.html" tags="Python" ctime="20171227183919" dir="1514389159dvbamp770p" file="text.html"/>
-     <record id="15143892448o6zqcnsec" name="Python: Использование протокола LDAP в скриптах" author="" url="http://www.script-coding.com/Python/LDAP.html" tags="Python" ctime="20171227184044" dir="1514389244ssqesjmmav" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1514553377zzzxu6eolk" name="Книги">
-    <recordtable>
-     <record id="1514553393tlb3s5a48a" name="Прохоренок Н.А. - PyQt. Создание оконных приложений на Python 3 - 2011" author="" url="" tags="" ctime="20171229161633" dir="15145533934e8i8unjts" file="text.html">
-      <files>
-       <file id="1514553406ws74piwdoh" fileName="Прохоренок Н.А. - PyQt. Создание оконных приложений на Python 3 - 2011 [Unlocked by www.freemypdf.com].pdf" type="file"/>
-      </files>
-     </record>
-    </recordtable>
-   </node>
-   <node crypt="" id="1516449465rll3a5svq2" name="http://www.java2s.com">
-    <recordtable>
-     <record id="151644949722zgbumdhd" name="'================ Python" author="" url="http://www.java2s.com/Tutorials/Python/index.htm" tags="Python" ctime="20180120145817" dir="15164494974i8mbge7kz" file="text.html"/>
-     <record id="1516449617cz8m749jmu" name="'================ Python examples (example source code) Organized by topic" author="" url="http://www.java2s.com/Code/Python/CatalogPython.htm" tags="Python,CatalogPython" ctime="20180120150017" dir="1516449617w4c7hv1m14" file="text.html"/>
-     <record id="1516449835bt2fp3me4c" name="'================ Python Tutorial" author="" url="http://www.java2s.com/Tutorial/Python/CatalogPython.htm" tags="Python,CatalogPython" ctime="20180120150355" dir="1516449835bmcuf9cxso" file="text.html"/>
-     <record id="1512995657mxlhmn97mw" name="Python" author="" url="http://www.java2s.com/Code/Python/CatalogPython.htm" tags="" ctime="20180809134625" dir="1512995657hladvtfvi7" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1516449951zss5uvrtoq" name="python-scripts.com">
-    <recordtable>
-     <record id="1516449980m418ephav9" name="Популярные шпаргалки кода для Python " author="" url="https://python-scripts.com/python-code-fragments" tags="Python" ctime="20180120150620" dir="1516449980d065pat5ha" file="text.html"/>
-     <record id="15164500792u0v1w2w98" name="Базы данных в Python" author="" url="https://python-scripts.com/database" tags="Python,python-scripts.com,Базы данных,database" ctime="20180120150759" dir="1516450079bvmxy39dzb" file="text.html"/>
-     <record id="151645037321g0cct0n7" name="Работаем с функциями в Python" author="" url="https://python-scripts.com/functions-python" tags="Python,python-scripts.com,functions python, functions python example,функции python" ctime="20180120151253" dir="1516450373bejai9iq5c" file="text.html"/>
-     <record id="1516450488i0rdm43d6h" name="Обработка исключений в Python" author="" url="https://python-scripts.com/try-except-finally" tags="Python,python-scripts.com,try-except,исключения" ctime="20180120151448" dir="1516450488ykx0r5tb6o" file="text.html"/>
-     <record id="1516450568qfv2wdi0ga" name="Работа с почтой - модули email / smtplib в Python" author="" url="https://python-scripts.com/send-email-smtp-python" tags="Python,python-scripts.com,send-email-smtp-python" ctime="20180120151608" dir="1516450568g3ej43zfn6" file="text.html"/>
-     <record id="1516450616bxon3z7jqm" name="Область видимости в Python" author="" url="https://python-scripts.com/scope" tags="Python,python-scripts.com,Область видимости" ctime="20180120151656" dir="1516450616jb1h8a2khb" file="text.html"/>
-     <record id="1516450683sefakkm0tb" name="Классы в Python " author="" url="https://python-scripts.com/python-class" tags="Python,python-scripts.com,python-class, class python,классы в python " ctime="20180120151803" dir="15164506834bjar998ds" file="text.html"/>
-     <record id="1516450745jqvkeou46v" name="Примеры использования модуля os в Python" author="" url="https://python-scripts.com/import-os-example" tags="Python,python-scripts.com,import-os-example,import-os" ctime="20180120151905" dir="1516450745v9dwyh2g60" file="text.html"/>
-     <record id="15164508456m3agvrk34" name="Обрабатываем csv файлы - Модуль csv" author="" url="https://python-scripts.com/import-csv-python" tags="Python,python-scripts.com,import-csv-python" ctime="20180120152045" dir="15164508457y5nxt55pq" file="text.html"/>
-     <record id="15164509248col1qsf54" name="Импортирование модулей в Python" author="" url="https://python-scripts.com/import-modules-python" tags="Python,python-scripts.com,import python,модуль Python " ctime="20180120152204" dir="1516450924i8u222xikh" file="text.html"/>
-     <record id="1516450990d581qutv9q" name="Работа с файлами в Python" author="" url="https://python-scripts.com/work-with-files-python" tags="Python,python-scripts.com,работа с файлами,файлы python " ctime="20180120152310" dir="15164509901hq9ml5nqz" file="text.html"/>
-     <record id="15164516064rqhd5gd6r" name="Циклы в Python" author="" url="https://python-scripts.com/loops-for-while" tags="Python,python-scripts.com,for,python,while " ctime="20180120153326" dir="151645160614gvfitf85" file="text.html"/>
-     <record id="1516451713pxoe2lr01b" name="Модуль collections на примерах" author="" url="https://python-scripts.com/import-collections" tags="Python,python-scripts.com,import-collections" ctime="20180120153513" dir="15164517133lejajuxs8" file="text.html"/>
-     <record id="15164523423opaqzwxgy" name="Списки, кортежи и словари в Python " author="" url="https://python-scripts.com/lists-tuples-dictionaries" tags="Python,python-scripts.com,lists-tuples-dictionaries" ctime="20180120154542" dir="15164523425xe8g41j94" file="text.html"/>
-     <record id="1516452409bvytlxyfoj" name="Обработка строк в Python" author="" url="https://python-scripts.com/string" tags="Python,python-scripts.com," ctime="20180120154649" dir="1516452409bjcl0iutes" file="text.html"/>
-     <record id="15164524578n72z7prsc" name="Логирование в Python " author="" url="https://python-scripts.com/logging-python" tags="Python,python-scripts.com," ctime="20180120154737" dir="151645245740h4ddxyhx" file="text.html"/>
-     <record id="15164524874hrl7m3a4d" name="Работа с датой и временем в Python " author="" url="https://python-scripts.com/datetime-time-python" tags="Python,python-scripts.com," ctime="20180120154807" dir="1516452487eeokhkm5rw" file="text.html"/>
-     <record id="1516452515ifi11el4p0" name="Установка Python и pip на Windows" author="" url="https://python-scripts.com/install-python-windows" tags="Python,python-scripts.com," ctime="20180120154835" dir="1516452515cb0hkx8d1l" file="text.html"/>
-     <record id="1516452595yak5yc2qb1" name="Установка модулей в Python" author="" url="https://python-scripts.com/how-to-install-modules-python" tags="Python,python-scripts.com," ctime="20180120154955" dir="1516452595q8yx31htkc" file="text.html"/>
-     <record id="151645283891xnixxddp" name="Изучаем Декораторы в Python" author="" url="https://python-scripts.com/decorators" tags="Python,python-scripts.com,decorators" ctime="20180120155358" dir="1516452838zqbv46755d" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1533640781pwnhmgdpyj" name="Модули">
-    <recordtable>
-     <record id="1533640759ljgthj9f8a" name="Модуль os.path" author="" url="https://pythonworld.ru/moduli/modul-os-path.html" tags="" ctime="20180807141945" dir="1533640759ti89w4wor8" file="text.html"/>
-     <record id="1533666308smuu8pbn9h" name="Модуль os" author="" url="https://pythonworld.ru/moduli/modul-os.html" tags="" ctime="20180807212508" dir="1533666308brd4gywo3d" file="text.html"/>
-     <record id="1533666374sfxud5g9sa" name="Модуль json" author="" url="https://pythonworld.ru/moduli/modul-json.html" tags="" ctime="20180807212614" dir="1533666374bfni4wg5r6" file="text.html"/>
-     <record id="1533666548t7z6kllyki" name="Модуль datetime" author="" url="https://pythonworld.ru/moduli/modul-datetime.html" tags="" ctime="20180807212908" dir="1533666548u77qyq1zqj" file="text.html"/>
-     <record id="1533666560g2ligvrvbs" name="Модуль collections" author="" url="https://pythonworld.ru/moduli/modul-collections.html" tags="" ctime="20180807212920" dir="153366656076y3cpxjv9" file="text.html"/>
-     <record id="1533666604tcgsmir3tv" name="Модуль array. Массивы в python" author="" url="https://pythonworld.ru/moduli/modul-array-massivy-v-python.html" tags="" ctime="20180807213004" dir="1533666604ofevi7wq7l" file="text.html"/>
-     <record id="1533666628gj455s1atr" name="Строки. Функции и методы строк" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html" tags="" ctime="20180807213028" dir="15336666287nai6dn2pa" file="text.html"/>
-     <record id="15336666454lfwzu1j87" name="Форматирование строк. Метод format" author="" url="https://pythonworld.ru/osnovy/formatirovanie-strok-metod-format.html" tags="" ctime="20180807213045" dir="1533666645f9qq57c2sd" file="text.html"/>
-     <record id="1533666661t9med58hre" name="Списки (list). Функции и методы списков" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html" tags="" ctime="20180807213101" dir="1533666661swg9182zoh" file="text.html"/>
-     <record id="153366670300so34dxwj" name="NumPy" author="" url="https://pythonworld.ru/numpy" tags="" ctime="20180807213143" dir="15336667030z8katekli" file="text.html"/>
-     <record id="1533666715hxex9lwuwz" name="Кортежи (tuple)" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/kortezhi-tuple.html" tags="" ctime="20180807213155" dir="1533666715j2xa25p02a" file="text.html"/>
-     <record id="15336667252bdbu2a81f" name="Модуль time" author="" url="https://pythonworld.ru/moduli/modul-time.html" tags="" ctime="20180807213205" dir="1533666725ls9gp1h4f0" file="text.html"/>
-     <record id="1533666738uj57z8mwoz" name="Модуль sys" author="" url="https://pythonworld.ru/moduli/modul-sys.html" tags="" ctime="20180807213218" dir="1533666738b21uua862g" file="text.html"/>
-     <record id="1533666747r7t568i3xo" name="Модуль random" author="" url="https://pythonworld.ru/moduli/modul-random.html" tags="" ctime="20180807213227" dir="15336667471s2sawv63b" file="text.html"/>
-     <record id="1533666755eoux5vrmdx" name="Модуль math" author="" url="https://pythonworld.ru/moduli/modul-math.html" tags="" ctime="20180807213235" dir="1533666755d916mvzgg4" file="text.html"/>
-     <record id="1533668103n6saxcokrv" name="python - Получение последнего элемента списка в Python" author="" url="about:reader?url=http%3A%2F%2Fqaru.site%2Fquestions%2F1280%2Fgetting-the-last-element-of-a-list-in-python" tags="" ctime="20180807215503" dir="1533668103xi4t166sjh" file="text.html"/>
-     <record id="15337623509u4f4l4v3f" name="Модуль time – таймеры времени" author="" url="http://www.internet-technologies.ru/articles/modul-time-taymery-vremeni.html" tags="" ctime="20180809000550" dir="1533762350jto9xdc09x" file="text.html"/>
-     <record id="1533762395e3vhxw2ept" name="Программирование метаклассов на Python" author="" url="http://www.internet-technologies.ru/articles/programmirovanie-metaklassov-na-python.html" tags="" ctime="20180809000635" dir="1533762395rw12peza1w" file="text.html"/>
-     <record id="15338444021fvxzzwdqx" name="Словари и их методы в Python" author="" url="https://tproger.ru/explain/python-dictionaries/" tags="" ctime="20180809225322" dir="1533844402oy3f6ifyrs" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="153376152822y8kgwybn" name="Типы данных в Python">
-    <recordtable>
-     <record id="1533761670rk2gm0c814" name="Словари (dict) и работа с ними. Методы словарей" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html" tags="" ctime="20180808235430" dir="1533761670jrjid9ard6" file="text.html"/>
-     <record id="1533761680uq3q5jr4np" name="Кортежи (tuple)" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/kortezhi-tuple.html" tags="" ctime="20180808235440" dir="1533761680ve4zayfkl7" file="text.html"/>
-     <record id="1533761695fguvd0iu8l" name="Функции и их аргументы" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/vse-o-funkciyax-i-ix-argumentax.html" tags="" ctime="20180808235455" dir="1533761695gaoq2iltnq" file="text.html"/>
-     <record id="1533761704irunn4410z" name="Множества (set и frozenset)" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html" tags="" ctime="20180808235504" dir="15337617041ii18ijjpf" file="text.html"/>
-     <record id="1533761714f8t63r4zhe" name="Списки (list). Функции и методы списков" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html" tags="" ctime="20180808235514" dir="1533761714w77pj5mucc" file="text.html"/>
-     <record id="1533761750rbzj3innqq" name="Файлы. Работа с файлами." author="" url="https://pythonworld.ru/tipy-dannyx-v-python/fajly-rabota-s-fajlami.html" tags="" ctime="20180808235550" dir="1533761750rld09hp995" file="text.html"/>
-     <record id="15337617944b00g4ronc" name="Модуль pickle" author="" url="https://pythonworld.ru/moduli/modul-pickle.html" tags="" ctime="20180808235634" dir="1533761794o873ewt27a" file="text.html"/>
-     <record id="1533761810e2spjonk9m" name="Модуль json" author="" url="https://pythonworld.ru/moduli/modul-json.html" tags="" ctime="20180808235650" dir="1533761810tagh1t95jv" file="text.html"/>
-     <record id="1533761817f9hb6ta5ai" name="Байты (bytes и bytearray)" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/bajty-bytes-i-bytearray.html" tags="" ctime="20180808235657" dir="1533761817ne9h5n60hj" file="text.html"/>
-     <record id="1533761831q5gnkgc75l" name="Исключения в python. Конструкция try - except для обработки исключений" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html" tags="" ctime="20180808235711" dir="1533761831qt9mk2pqmi" file="text.html"/>
-     <record id="1533761846b3tflhbtfb" name="Числа: целые, вещественные, комплексные" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/chisla-int-float-complex.html" tags="" ctime="20180808235726" dir="1533761846pslre6i8cu" file="text.html"/>
-     <record id="15337618649oy2o4kp2t" name="Модуль cmath" author="" url="https://pythonworld.ru/moduli/modul-cmath.html" tags="" ctime="20180808235744" dir="1533761864zis1len6ve" file="text.html"/>
-     <record id="1533761874irqdtt9vtn" name="None (null), или немного о типе NoneType" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/none.html" tags="" ctime="20180808235754" dir="1533761874htpybhwp7d" file="text.html"/>
-     <record id="153376188463mtggpdyg" name="Строки. Функции и методы строк" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html" tags="" ctime="20180808235804" dir="1533761884nwfrh56lqs" file="text.html"/>
-     <record id="153376189768xva1whc3" name="Работа со строками в Python: литералы" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/stroki-literaly-strok.html" tags="" ctime="20180808235817" dir="15337618975x7jg9m1eh" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1533762048y9a97cxds4" name="Функции">
-    <recordtable>
-     <record id="1533761971ujw7cmqsfw" name="Разбиение строк через split() в Python" author="" url="http://www.internet-technologies.ru/articles/razbienie-strok-cherez-split-v-python.html" tags="" ctime="20180809000057" dir="1533761971sf5wlgwfir" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1564433393elyu5mtf4e" name="Sublime Text 3">
-    <recordtable>
-     <record id="153384237411fuw1jiv5" name="Скачать Sublime Text 3" author="" url="https://sublimetext3.ru/" tags="" ctime="20190729234953" dir="1533842374hyffss18ol" file="text.html"/>
-     <record id="1533842892kuom8l2ejw" name="Установка плагинов в Sublime Text" author="" url="https://sublimetext3.ru/plaginy" tags="" ctime="20190729234953" dir="1533842892zpccihly5y" file="text.html"/>
-    </recordtable>
    </node>
   </node>
   <node crypt="" id="1483620903ulltd76okr" name="Поисковые системы">
