@@ -9,8 +9,6 @@
    </recordtable>
    <node crypt="" id="1552768177tcn75bzeo5" name="Посмотреть">
     <recordtable>
-     <record id="1520838426u73ilc40wp" name="Уличная IP-камера первый вариант" author="" url="http://www.itech-cctv.ru/catalog/ulichnye/ipe-opal-apt-r-0000099123/" tags="" ctime="20190316232937" dir="1520838426ys2yrmlp3b" file="text.html"/>
-     <record id="15208385248qolajh3dw" name="Уличная IP-камера второй вариант" author="" url="http://www.itech-cctv.ru/catalog/ulichnye/ipe-op-apt-r-0000087732/" tags="" ctime="20190316232937" dir="15208385243dges5e00n" file="text.html"/>
      <record id="15218334414ovaf1z1zj" name="Программа «Мои файлы» для быстрого доступа к файлам и папкам" author="" url="" tags="" ctime="20190316232937" dir="15218334410wcuwzfg2r" file="text.html">
       <files>
        <file id="1521833683fc6i5311bd" fileName="Мои-файлы-Проект.rar" type="file"/>
@@ -18,7 +16,6 @@
       </files>
      </record>
      <record id="1533414189upq9o5h9q3" name="10 трюков, упрощающих математические операции" author="" url="https://vk.com/@science_newworld-10-trukov-uproschauschih-matematicheskie-operacii" tags="" ctime="20190316232937" dir="15334141890p0utw7uo8" file="text.html"/>
-     <record id="1533416727vqq3mgwoza" name="План изучения нового языка программирования" author="" url="https://techrocks.ru/2018/04/08/new-language-learning-plan/" tags="" ctime="20190316232937" dir="1533416727vsq4e6za0l" file="text.html"/>
      <record id="15334170455kz2l7da27" name="Фитнес для глаз творит чудеса" author="" url="https://m.vk.com/wall-101316110_38259" tags="" ctime="20190316232937" dir="1533417045gvxr1o53q8" file="text.html"/>
      <record id="1537648909o4cq17pz9l" name="Backup баз данных с помощью командной строки WinRAR." author="" url="http://www.cyberforum.ru/ms-access/thread60797-page3.html" tags="" ctime="20190316232937" dir="1537648909hdznqnda16" file="text.html"/>
      <record id="1552768159pm5jawbevx" name="Tasker - утилита заставляет ваш компьютер делать то, что вы захотите, даже если вы не обладаете навыками программирования" author="" url="https://vk.com/wall-68608975_2891" tags="" ctime="20190316232953" dir="15527681593a8kaxltrb" file="text.html"/>
@@ -254,7 +251,7 @@
     </node>
    </node>
    <node crypt="" id="1545839541c2uytgmqqp" name="Видео">
-    <node id="1545839566tjfxc3unw4" name="SQL Server">
+    <node crypt="" id="1545839566tjfxc3unw4" name="SQL Server">
      <recordtable>
       <record id="1545839617n1t15ps1nt" name="Connect MS Access Database to MS SQL Server Using ODBC" author="" url="https://www.youtube.com/watch?v=uNGqKE0jSDM" tags="посмотреть" ctime="20181226185337" dir="15458396175vmfsk2rhp" file="text.html"/>
       <record id="1545839655e66vifrq47" name="связанный sql server с access" author="" url="" tags="посмотреть" ctime="20181226185415" dir="1545839655etoud3mm91" file="text.html"/>
@@ -2613,6 +2610,8 @@
     <recordtable>
      <record id="1482728505b3miinwdfm" name="UkM1U0lNUAPD2oIz17H++Ku07PCeC4eoSvK7D8M0y7x7ieH0ErHkEVr606IQPMU6X2vuJ59Wa/Y9xEgZ0pOwtw==" author="" url="" tags="" ctime="20190728231032" dir="1482728505w4bjyxw4ai" file="text.html" crypt="1"/>
      <record id="1535705847phg1v0nvyh" name="UkM1U0lNUAOOdaYUuSg0uQczcHiL5wVxDVI2FQ0v65ILZantbpB3PDUZNWSruo22qCbZW/XCIEK/pufVx9fRq7MoALpuv4meINTg7MXfi90=" author="" url="UkM1U0lNUANRzBdyXJgpGOk7r0cRoxSaXSK1sBWecNGcZzVsevbbbj9SY2k91ZXUCRmN0Lxd2UFYMr6wb/mcHj9tC6PPTSy/Vz8vSh/YVJkeo6VR7OpF4g==" tags="UkM1U0lNUAP0+17BJb1aRIrRhandz5NveJYJUyPm1LPqNrORa0t1B2ZvkTIEXDsX+ULVWOL43mg=" ctime="20190728231443" dir="1535705847o4j8cvb510" file="text.html" crypt="1"/>
+     <record id="1520838426u73ilc40wp" name="UkM1U0lNUANdVOxVdyo4TjdtJd9vTAWvgRbwb+e92HXPotBl0An1GwQhj63NIpRf0WT9aBDB2o0leejE1xZwAofjqut1p0sFXA5HrtPv/s7tCtux9TzuqEW0a1f5UlCar2K9Iu/zmXc=" author="" url="UkM1U0lNUANJh88dMK4A2GoVVLMYv+VJ+yIqflejADP9rj5TqkxfQw5b7R4G2IEMlVmnMRQ0Jj0CAesQY3ZV0YLusuLd1u/REyXBv0cCMtK8cMloetHfYQx6gAbZs3StrMF/ezIVmlqSvAsqriZAgQ==" tags="" ctime="20190729164501" dir="1520838426ys2yrmlp3b" file="text.html" crypt="1"/>
+     <record id="15208385248qolajh3dw" name="UkM1U0lNUANgbai/VmtSGYGoCz7G0kDAuOTiNRda9IjpVRGEyGC99Vza6ZRo6k4GCxZChG5Fie7k07F7Qvm7LLbLl5Pf3FTM18sPtVE7iHrAQSj2Gj6XDuPGJiwv9Wa3l0PfOONwN2Y=" author="" url="UkM1U0lNUAOK4VMMaacgivnPboK163qu+5zafGOx+uNu0Uz9KFAABfzVX0I863P/qCHdfwVLdcYtzISILgws+bGtZRosNId/Ll/neL7+nzcKlulJumE2KERKlibNiX/wzOxu7hSSfpz0w76Tcpcg/Q==" tags="" ctime="20190729164504" dir="15208385243dges5e00n" file="text.html" crypt="1"/>
     </recordtable>
     <node crypt="1" icon="" id="1513768848dm7ouvke8x" name="UkM1U0lNUAOwzlArp3nk8FFS3Emtrk/vlA+M/u4ve5QrGfHoLOKh9oQl/aKNA9Fkm7ZqePreUnc=">
      <recordtable>
