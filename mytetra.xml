@@ -25,13 +25,9 @@
      <record id="1544726111bmtgsdll00" name="Процесс тестирования ПО. Классификация видов тестирования" author="" url="https://m.vk.com/video-54530371_456249951?list=f6dd50ab6b5ba55f95&amp;from=wall-54530371_225975" tags="" ctime="20181213213511" dir="1544726111gf6ej7xs0l" file="text.html"/>
      <record id="15447263134hn1ad21ru" name="Учимся читать в три раза быстрее за 20 минут" author="" url="https://m.vk.com/wall-101316110_43098" tags="" ctime="20181213213833" dir="1544726313wzy78lpmeu" file="text.html"/>
      <record id="15447265448zwchbw2dz" name="Основы статистики" author="" url="https://m.vk.com/wall-79831840_30947" tags="" ctime="20181213214224" dir="1544726544w1s4ihlo1w" file="text.html"/>
-     <record id="15447265953xu320y9k7" name="Изучаем скрытые возможности Google Поиска, о которых вы наверняка не знали" author="" url="https://vk.com/@windowsblog-izuchaem-skrytye-vozmozhnosti-google-poiska-o-kotoryh-vy-nav" tags="" ctime="20181213214315" dir="1544726595wuyuy7s97b" file="text.html"/>
      <record id="1544726673nky52acwc8" name="Объекты Windows Script Host" author="" url="http://www.script-coding.com/WSH.html" tags="" ctime="20181213214433" dir="1544726673sdhfu7ukd5" file="text.html"/>
-     <record id="1544726683vxv9t6jizp" name="Excel производительности: улучшения производительности и ограничений" author="" url="https://docs.microsoft.com/ru-RU/office/vba/excel/concepts/excel-performance/excel-performance-and-limit-improvements" tags="" ctime="20181213214443" dir="15447266839vipg5lzit" file="text.html"/>
      <record id="15447268118supjmpqn4" name="Основы современных баз данных" author="" url="http://citforum.ru/database/osbd/contents.shtml" tags="" ctime="20181213214651" dir="1544726811ok9v1g9ouj" file="text.html"/>
      <record id="1544726828x49ut7mnbt" name="Линус Торвальдс: Разум, создавший Linux (2016)" author="" url="https://m.vk.com/wall-79831840_30671" tags="" ctime="20181213214708" dir="1544726828qwswaj341b" file="text.html"/>
-     <record id="1544726836ei83obs4jb" name="Как узнать температуру процессора с помощью psutil в Python" author="" url="https://proglib.io/p/psutil-in-python/" tags="" ctime="20181213214716" dir="1544726836o5ex6f60ts" file="text.html"/>
-     <record id="1544726879bvkkzvcmqm" name="Секреты памяти, чтобы выучить иностранный язык." author="" url="https://m.vk.com/wall-101316110_43273" tags="" ctime="20181213214759" dir="1544726879q5sgoh15qi" file="text.html"/>
      <record id="1545884653apfg1qlg85" name="Можно ли менять цвет текста в MyTetra? " author="" url="" tags="" ctime="20181227072413" dir="15458846531fo043lx2q" file="text.html"/>
     </recordtable>
     <node crypt="" id="1545884278fdaoibjwzi" name="VBA"/>
@@ -300,6 +296,7 @@
         </files>
        </record>
        <record id="1505818013g9nm7ry8if" name="все до первого пробела" author="" url="" tags="" ctime="20190728230405" dir="15058180133vm4e6mkji" file="text.html" crypt="0"/>
+       <record id="1544726683vxv9t6jizp" name="Excel производительности: улучшения производительности и ограничений" author="" url="https://docs.microsoft.com/ru-RU/office/vba/excel/concepts/excel-performance/excel-performance-and-limit-improvements" tags="" ctime="20190729231859" dir="15447266839vipg5lzit" file="text.html"/>
       </recordtable>
      </node>
     </node>
@@ -3049,6 +3046,7 @@
     <record id="1533836322lftp86rhhv" name="Устанавливаем python-пакеты с помощью pip" author="" url="https://pythonworld.ru/osnovy/pip.html" tags="pip" ctime="20180809203842" dir="1533836322lg9acrnyf4" file="text.html"/>
     <record id="1533836370snclf2wt2m" name="Управление Python пакетами с помощью pip" author="" url="https://www.severcart.org/blog/all/pip/" tags="python. pip" ctime="20180809203930" dir="153383637094uqka1qux" file="text.html"/>
     <record id="15338367018wmipefpxn" name="PyQt или PySide - какой из них использовать" author="" url="http://qaru.site/questions/107975/pyqt-or-pyside-which-one-to-use" tags="" ctime="20180809204501" dir="1533836701obfgj6rz9h" file="text.html"/>
+    <record id="1544726836ei83obs4jb" name="Как узнать температуру процессора с помощью psutil в Python" author="" url="https://proglib.io/p/psutil-in-python/" tags="" ctime="20190729232228" dir="1544726836o5ex6f60ts" file="text.html"/>
    </recordtable>
    <node crypt="" id="1533761539ut6fjxnmq1" name="IDE">
     <node crypt="" id="1533761617gp7rthowto" name="Qt">
@@ -3280,6 +3278,7 @@
     <record id="1483621328toriqlgve0" name="Как искать в Яндексе и Google правильно - открываем некоторые секреты!" author="" url="https://pomogaemkompu.temaretik.com/778264203296246025/kak-iskat-v-yandekse-i-google-pravilno-otkryvaem-nekotorye-sekrety/" tags="" ctime="20170105160208" dir="1483621328wgo0nx5gt6" file="text.html"/>
     <record id="1483621447dg0eyz62on" name="Как искать в Яндексе" author="" url="http://youpk.ru/kak-iskat-v-yandekse/" tags="" ctime="20170105160407" dir="1483621447l7bpu5vkbp" file="text.html"/>
     <record id="14836215185uaqw11sex" name="Как искать в Google" author="" url="http://youpk.ru/kak-iskat-v-google/" tags="" ctime="20170105160518" dir="1483621518namhh8zngo" file="text.html"/>
+    <record id="15447265953xu320y9k7" name="Изучаем скрытые возможности Google Поиска, о которых вы наверняка не знали" author="" url="https://vk.com/@windowsblog-izuchaem-skrytye-vozmozhnosti-google-poiska-o-kotoryh-vy-nav" tags="" ctime="20190729231712" dir="1544726595wuyuy7s97b" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="1494820734r2jxokp7yv" name="RN4X">
