@@ -23,7 +23,6 @@
    </node>
    <node crypt="" id="1550358579zuy1oycui8" name="IРазобрать">
     <recordtable>
-     <record id="156204114304j8yb3xfu" name="Примеры кода ADO в Visual Basic" author="" url="https://docs.microsoft.com/ru-ru/sql/ado/reference/ado-api/ado-code-examples-in-visual-basic?view=sql-server-2017" tags="VBA ADO" ctime="20190702071903" dir="1562041143rzxqvwgeoy" file="text.html"/>
      <record id="1562041186zhx9skv2dz" name="ADO SQL INSERT INTO в другой Excel, Вставить данные из текущего файла в другой файл" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=1&amp;TID=98507&amp;MID=813928#message813928" tags="VBA ADO, Excel&lt;&gt;Excel" ctime="20190702071946" dir="156204118639g2ynbevu" file="text.html"/>
      <record id="1563334359mlk2qgtqyj" name="Метод Workbook. Open (Excel)" author="" url="https://docs.microsoft.com/ru-ru/office/vba/api/Excel.Workbooks.Open" tags="VBA Excel" ctime="20190717063239" dir="1563334359d2z87fyzvr" file="text.html"/>
      <record id="15633347998en5l94cw7" name="IF...ELSE (Transact-SQL)" author="" url="https://docs.microsoft.com/ru-ru/sql/t-sql/language-elements/if-else-transact-sql?view=aps-pdw-2016" tags="SQL Server, " ctime="20190717064633" dir="1563334799ngaku1bmw8" file="text.html"/>
@@ -68,7 +67,6 @@
      <record id="154472673671iki3pdd6" name="Импорт данных из Excel в SQL Server или базу данных Azure" author="" url="https://docs.microsoft.com/ru-ru/sql/relational-databases/import-export/import-data-from-excel-to-sql?view=sql-server-2017" tags="" ctime="20181213214536" dir="1544726736zs4b7man6q" file="text.html"/>
      <record id="15447267516t6gth9wqv" name="Excel-SQL Server Import-Export using VBA" author="" url="https://www.excel-sql-server.com/excel-sql-server-import-export-using-vba.htm#" tags="" ctime="20181213214551" dir="1544726751kqxfh31ouq" file="text.html"/>
      <record id="1544726759r8q9rkv4q8" name="Как импортировать данные из Excel в SQL Server" author="" url="https://support.microsoft.com/ru-ru/help/321686/how-to-import-data-from-excel-to-sql-server" tags="" ctime="20181213214559" dir="15447267590j2zxsg9iv" file="text.html"/>
-     <record id="1544726796tssdr6oal1" name="VBA &gt;&gt;" author="" url="http://www.timpust.ru/vba/sql.php" tags="" ctime="20181213214636" dir="1544726796mus6cuaaif" file="text.html"/>
      <record id="1544726954m80tndvpqs" name="Управляем SQL Server через Excel 2010" author="" url="http://www.cyberforum.ru/sql-server/thread853561.html" tags="" ctime="20181213214914" dir="15447269545vecevz8ui" file="text.html"/>
      <record id="1545493955h4bc7hk7im" name="Перенос базы tempdb на другой диск" author="" url="http://www.sql.ru/faq/faq_topic.aspx?fid=145" tags="" ctime="20181222185235" dir="1545493955fjcs9jcf30" file="text.html"/>
      <record id="1545494072l7fb2akzfh" name="Перемещение базы данных tempdb в MS SQL Server 2012" author="" url="http://tavalik.ru/peremeshhenie-bd-tempdb/" tags="" ctime="20181222185432" dir="1545494072v48srg6axr" file="text.html"/>
@@ -577,22 +575,6 @@
       <record id="1541070436y02jjmgvwu" name="Шаг 11 - Использование оператора EXISTS" author="" url="http://www.firststeps.ru/sql/r.php?11" tags="Access, SQL, EXISTS" ctime="20190316232337" dir="154107043603ikaeml63" file="text.html"/>
       <record id="1564405619jazb8v7wbm" name="Количество уникальных в каждой группе" author="" url="https://www.programmersforum.ru/showthread.php?p=1638503" tags="access, GRY, SQL" ctime="20190729160659" dir="1564405619yfy51hzr8y" file="text.html"/>
      </recordtable>
-     <node crypt="" id="1545888729d770viaepr" name="DAO">
-      <recordtable>
-       <record id="1545888734mjqdc61lwp" name="DAO Programming Code Examples" author="" url="http://allenbrowne.com/func-DAO.html#CreateTableDAO" tags="" ctime="20181227083214" dir="15458887348ad4amvxyk" file="text.html"/>
-       <record id="1545888765ugxd5xojbj" name="Свойство Field.Type (DAO)" author="" url="https://docs.microsoft.com/ru-ru/office/client-developer/access/desktop-database-reference/field-type-property-dao" tags="" ctime="20181227083245" dir="1545888765fhcwb8lz1i" file="text.html"/>
-       <record id="1545888785ppnclbhnfm" name="Объект индекса (DAO)" author="" url="https://docs.microsoft.com/ru-ru/office/client-developer/access/desktop-database-reference/index-object-dao" tags="" ctime="20181227083305" dir="1545888785neh4d94mjb" file="text.html"/>
-       <record id="1545888826dmjk6cvnfs" name="Метод Workspace.CreateDatabase (DAO)" author="" url="https://docs.microsoft.com/ru-ru/office/client-developer/access/desktop-database-reference/workspace-createdatabase-method-dao" tags="" ctime="20181227083346" dir="154588882646lndmymfa" file="text.html"/>
-       <record id="1545888513urll7flngp" name="создать файл Access DAO в Excel VBA" author="" url="https://stackoverrun.com/ru/q/9940828" tags="" ctime="20181227083725" dir="15458885132vigf2fb1g" file="text.html"/>
-       <record id="1545888302j0bzkxlafj" name="create an DAO Access file in Excel VBA" author="" url="https://c.devhelping.com/article/12855419/create+an+DAO+Access+file+in+Excel+VBA" tags="" ctime="20181227083728" dir="1545888302x47k5j1bb2" file="text.html"/>
-      </recordtable>
-     </node>
-     <node crypt="" id="1545888745h1ouwpgbjn" name="ADO">
-      <recordtable>
-       <record id="154680943442gkagtw4b" name="ADO Object Model" author="" url="https://docs.microsoft.com/en-us/sql/ado/reference/ado-api/ado-object-model?view=sql-server-2017" tags="" ctime="20190107001714" dir="1546809434olvldz5cn6" file="text.html"/>
-       <record id="1548449540nnnovrmnxd" name="ADO in Excel VBA – Connecting to database using SQL" author="" url="https://analysistabs.com/excel-vba/ado-sql-macros-connecting-database/" tags="ADO_загрузка_из_листа" ctime="20190125235220" dir="1548449540nm2ae05yty" file="text.html"/>
-      </recordtable>
-     </node>
     </node>
     <node crypt="" id="1545888246fya25h8ome" name="PowerPoint">
      <recordtable>
@@ -1317,6 +1299,12 @@
        <record id="153847275904t912xfav" name="Шаг 11 - Метод OpenDatabase" author="" url="http://www.firststeps.ru/vba/vbahelp/daohelp/r.php?11" tags="VBA, DAO, OpenDatabase" ctime="20190316234329" dir="1538472759c28v782hka" file="text.html"/>
        <record id="1538537422by7ky2sei2" name="Шаг 66 - Метод CreateProperty" author="" url="http://www.firststeps.ru/vba/vbahelp/daohelp/r.php?66" tags="VBA access, CreateProperty" ctime="20190316234329" dir="1538537422kcrbuq49ao" file="text.html"/>
        <record id="15385375689l7s0671lj" name="Field.Type Property (DAO)" author="" url="https://msdn.microsoft.com/ru-ru/library/office/ff845405.aspx" tags="VBA access, Field.Type Property, свойства полей" ctime="20190316234329" dir="1538537568qdxwy6qule" file="text.html"/>
+       <record id="1545888513urll7flngp" name="создать файл Access DAO в Excel VBA" author="" url="https://stackoverrun.com/ru/q/9940828" tags="" ctime="20190730000150" dir="15458885132vigf2fb1g" file="text.html"/>
+       <record id="1545888734mjqdc61lwp" name="DAO Programming Code Examples" author="" url="http://allenbrowne.com/func-DAO.html#CreateTableDAO" tags="" ctime="20190730000156" dir="15458887348ad4amvxyk" file="text.html"/>
+       <record id="1545888785ppnclbhnfm" name="Объект индекса (DAO)" author="" url="https://docs.microsoft.com/ru-ru/office/client-developer/access/desktop-database-reference/index-object-dao" tags="" ctime="20190730000204" dir="1545888785neh4d94mjb" file="text.html"/>
+       <record id="1545888826dmjk6cvnfs" name="Метод Workspace.CreateDatabase (DAO)" author="" url="https://docs.microsoft.com/ru-ru/office/client-developer/access/desktop-database-reference/workspace-createdatabase-method-dao" tags="" ctime="20190730000210" dir="154588882646lndmymfa" file="text.html"/>
+       <record id="1545888302j0bzkxlafj" name="create an DAO Access file in Excel VBA" author="" url="https://c.devhelping.com/article/12855419/create+an+DAO+Access+file+in+Excel+VBA" tags="" ctime="20190730000210" dir="1545888302x47k5j1bb2" file="text.html"/>
+       <record id="1545888765ugxd5xojbj" name="Свойство Field.Type (DAO)" author="" url="https://docs.microsoft.com/ru-ru/office/client-developer/access/desktop-database-reference/field-type-property-dao" tags="" ctime="20190730000215" dir="1545888765fhcwb8lz1i" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1552769009f5ixyr2bua" name="ADO">
@@ -1329,6 +1317,9 @@
        <record id="1538473070pqvwj2r6dr" name="объект ADODB" author="" url="http://www.cyberforum.ru/vba/thread352192.html" tags="VBA, ADO, OpenDataBase" ctime="20190316234329" dir="15384730708ks8fvfjxz" file="text.html"/>
        <record id="15384750576nd9g8sqwm" name="OpenDataBase" author="" url="https://stackoverflow.com/questions/30973591/fast-update-of-access-data-with-excel-data-using-excel-vba" tags="VBA, ADO, OpenDataBase, accdb" ctime="20190316234329" dir="1538475057gtra888w5x" file="text.html"/>
        <record id="1562041100yp12i491g2" name="Работа с внешними источниками данных Материалы по работе с внешними источниками данных на примере Excel и SQL" author="" url="http://www.timpust.ru/vba/sql.php" tags="VBA ADO, strConnect, SQL VBA" ctime="20190729235920" dir="15620411009hd2otod60" file="text.html"/>
+       <record id="156204114304j8yb3xfu" name="Примеры кода ADO в Visual Basic" author="" url="https://docs.microsoft.com/ru-ru/sql/ado/reference/ado-api/ado-code-examples-in-visual-basic?view=sql-server-2017" tags="VBA ADO" ctime="20190730000129" dir="1562041143rzxqvwgeoy" file="text.html"/>
+       <record id="1548449540nnnovrmnxd" name="ADO in Excel VBA – Connecting to database using SQL" author="" url="https://analysistabs.com/excel-vba/ado-sql-macros-connecting-database/" tags="ADO_загрузка_из_листа" ctime="20190730000136" dir="1548449540nm2ae05yty" file="text.html"/>
+       <record id="154680943442gkagtw4b" name="ADO Object Model" author="" url="https://docs.microsoft.com/en-us/sql/ado/reference/ado-api/ado-object-model?view=sql-server-2017" tags="" ctime="20190730000138" dir="1546809434olvldz5cn6" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1552769009mgcjrbcu4v" name="Excel-&gt;Access">
