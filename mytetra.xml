@@ -9,9 +9,6 @@
    </recordtable>
    <node crypt="" id="1552768177tcn75bzeo5" name="Посмотреть">
     <recordtable>
-     <record id="15143001613d2n18i46s" name="Работа с коллекциями классов" author="" url="" tags="" ctime="20190316232937" dir="1514300161otuldg4kxw" file="text.html"/>
-     <record id="1513012706pjkfo1crde" name="What Is SQL" author="" url="http://www.sqltutorial.org/what-is-sql/" tags="SQL" ctime="20190316232937" dir="1513012706jdkn5l21j8" file="text.html"/>
-     <record id="1518971673ipufysiyzu" name="Option Explicit. Требование явного объявления переменных" author="" url="http://macros-vba.ru/knigi/vba/119-option-explicit-vba" tags="Option Explicit,Option," ctime="20190316232937" dir="1518971673ec8wbfz2py" file="text.html"/>
      <record id="1520838426u73ilc40wp" name="Уличная IP-камера первый вариант" author="" url="http://www.itech-cctv.ru/catalog/ulichnye/ipe-opal-apt-r-0000099123/" tags="" ctime="20190316232937" dir="1520838426ys2yrmlp3b" file="text.html"/>
      <record id="15208385248qolajh3dw" name="Уличная IP-камера второй вариант" author="" url="http://www.itech-cctv.ru/catalog/ulichnye/ipe-op-apt-r-0000087732/" tags="" ctime="20190316232937" dir="15208385243dges5e00n" file="text.html"/>
      <record id="15218334414ovaf1z1zj" name="Программа «Мои файлы» для быстрого доступа к файлам и папкам" author="" url="" tags="" ctime="20190316232937" dir="15218334410wcuwzfg2r" file="text.html">
@@ -426,6 +423,11 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="15644077271wwzy9gcjd" name="SQL">
+    <recordtable>
+     <record id="1513012706pjkfo1crde" name="What Is SQL" author="" url="http://www.sqltutorial.org/what-is-sql/" tags="SQL" ctime="20190729164233" dir="1513012706jdkn5l21j8" file="text.html"/>
+    </recordtable>
+   </node>
    <node crypt="" id="1552769007e05vr3kti0" name="VBA">
     <recordtable>
      <record id="1510811600r73n4quuii" name="Function" author="" url="" tags="Function" ctime="20190316234327" dir="1510811600xk9kyi1jju" file="text.html"/>
@@ -621,10 +623,10 @@
      <record id="1544726898pimq4vycu1" name="Календарь написанный на VBA для Excel и других MS Office приложений" author="" url="http://robotobor.pro/programming-for-all/tricks-vba/calendar-vba-code" tags="" ctime="20190316234328" dir="1544726898mjlp6sdej4" file="text.html"/>
      <record id="15617149139d0klep40s" name="Горячие клавиши VBA" author="" url="https://it.wikireading.ru/26489" tags="Горячие клавиши VBA" ctime="20190628124153" dir="1561714913vq4kau8k58" file="text.html"/>
     </recordtable>
-    <node crypt="" id="1552769008wodxlvpumt" name="Примочки">
+    <node crypt="" id="1552769008wodxlvpumt" name="Меню VB">
      <recordtable>
-      <record id="1535616506z9bpbeoi4a" name="Скрыть окно Excel" author="" url="" tags="" ctime="20190316234328" dir="1535616506otbjnt7vec" file="text.html"/>
-      <record id="1546816591djhvovtl6n" name="Окно базы данных для ACCESS 2007 и Access 2010/2013" author="" url="https://z5h64q92x9.net/proxy_u/en-ru.ru/https/www.avenius.de/index.php?Produkte:DBC2007" tags="" ctime="20190316234328" dir="154681659146vgvzxi4c" file="text.html"/>
+      <record id="15143001613d2n18i46s" name="Работа с коллекциями классов" author="" url="" tags="" ctime="20190729163537" dir="1514300161otuldg4kxw" file="text.html"/>
+      <record id="1518971673ipufysiyzu" name="Option Explicit. Требование явного объявления переменных" author="" url="http://macros-vba.ru/knigi/vba/119-option-explicit-vba" tags="Option Explicit,Option," ctime="20190729164331" dir="1518971673ec8wbfz2py" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1552769008d31hdebqfn" name="Разобрать">
@@ -1969,6 +1971,7 @@
       <record id="15305925743tzsphb1gk" name="SaveAs.xlsb" author="" url="" tags="SaveAs.xlsb" ctime="20190316234331" dir="1530592574r65t3zqvty" file="text.html"/>
       <record id="1530611360jxt6mbr7hb" name="изменить именованный диапазон" author="" url="" tags="VBA, Names, изменить именованный диапазон" ctime="20190316234331" dir="15306113605wpvpr4fh4" file="text.html"/>
       <record id="1563334633ce4n528utb" name="Office Add-Ins для Excel — новые возможности для разработчиков на VBA и VSTO" author="" url="https://m.habr.com/ru/company/microsoft/blog/270763/" tags="VBA Excel" ctime="20190717064639" dir="15633346335rjhtyx5ht" file="text.html"/>
+      <record id="1535616506z9bpbeoi4a" name="Скрыть окно Excel" author="" url="" tags="" ctime="20190729163531" dir="1535616506otbjnt7vec" file="text.html"/>
      </recordtable>
      <node crypt="" id="1552769011qlz6yraj7t" name="Shapes">
       <recordtable>
