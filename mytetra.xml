@@ -17,9 +17,6 @@
      </record>
      <record id="1533414189upq9o5h9q3" name="10 трюков, упрощающих математические операции" author="" url="https://vk.com/@science_newworld-10-trukov-uproschauschih-matematicheskie-operacii" tags="" ctime="20190316232937" dir="15334141890p0utw7uo8" file="text.html"/>
      <record id="15334170455kz2l7da27" name="Фитнес для глаз творит чудеса" author="" url="https://m.vk.com/wall-101316110_38259" tags="" ctime="20190316232937" dir="1533417045gvxr1o53q8" file="text.html"/>
-     <record id="1537648909o4cq17pz9l" name="Backup баз данных с помощью командной строки WinRAR." author="" url="http://www.cyberforum.ru/ms-access/thread60797-page3.html" tags="" ctime="20190316232937" dir="1537648909hdznqnda16" file="text.html"/>
-     <record id="1552768159pm5jawbevx" name="Tasker - утилита заставляет ваш компьютер делать то, что вы захотите, даже если вы не обладаете навыками программирования" author="" url="https://vk.com/wall-68608975_2891" tags="" ctime="20190316232953" dir="15527681593a8kaxltrb" file="text.html"/>
-     <record id="1552768299a3xjidpwv3" name="Переносим папку загрузки обновлений Windows 10 на другой диск." author="" url="https://vk.com/@stupid.lamer-perenosim-papku-zagruzki-obnovlenii-windows-10-na-drugoi-dis" tags="" ctime="20190316233139" dir="1552768299ki5h3w9jrn" file="text.html"/>
      <record id="1561843419rtc8k0980f" name="runas /userusername\administrator YandexDisk30Setup.exe" author="" url="" tags="" ctime="20190630002339" dir="1561843419ujwjl3zuzd" file="text.html"/>
      <record id="15143000979pz7k9rjqb" name="Основы работы с модулями классов" author="" url="http://www.excelworld.ru/publ/vba/class_module/class_module/42-1-0-110" tags="" ctime="20190729163108" dir="15143000973tcnsol39m" file="text.html">
       <files>
@@ -2595,6 +2592,11 @@
      <record id="1545838008pn4f3sef2n" name="WinRAR: настройка автоматического резервного копирования" author="" url="https://alpinefile.ru/winrar-auto-backup-settings.html" tags="WinRAR, backup, бекап" ctime="20181226182648" dir="1545838008npxd92chb1" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="156443010875gycpqzpy" name="Windows">
+    <recordtable>
+     <record id="1552768299a3xjidpwv3" name="Переносим папку загрузки обновлений Windows 10 на другой диск." author="" url="https://vk.com/@stupid.lamer-perenosim-papku-zagruzki-obnovlenii-windows-10-na-drugoi-dis" tags="" ctime="20190729225518" dir="1552768299ki5h3w9jrn" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="1" icon="" id="1481864377jkls4gce3q" name="UkM1U0lNUAMeWsTcgfrFbDYzzzmHZH/5wXp29i9CP4jqiXqXzZsdk5tAKmP7UeLH">
    <recordtable>
@@ -2987,6 +2989,11 @@
       <record id="15334125359efytyvmxk" name="Руководство для начинающих в Node.js" author="" url="https://proglib.io/p/beginners-guide-to-node-js/" tags="" ctime="20180804225535" dir="1533412535meuvoo42ir" file="text.html"/>
      </recordtable>
     </node>
+   </node>
+   <node crypt="1" icon="" id="1564430051csnvx0vmz1" name="UkM1U0lNUAN/NyLaPKchLfxglZ9F8GbsTD/ZqwUnqA4u3QKxlb4x+1DR21ZRo7umPTeW+PXi5M8=">
+    <recordtable>
+     <record id="1552768159pm5jawbevx" name="UkM1U0lNUAONwxcn/88IUCnw2+IjMxTvWoGPyLYQpiqJyksr5jyKuriUzlS+/vTm1tNcjSOQi6IM3f7sNcShEduwWRbp+yVesvQAwtF/MEc0MYYXHpC1DMwkZDMObr6xc3qiS6NsjUCMC8hKCOwIC4+EzCsSVK1EqsKiWVk8KrdfojusdlIUkuv6OInexj6DRphqxjHvrPm58ZaPyOBI7uKXCjGwVOBKnBvhOTaDMnhvLiOX9PfVODliavBTTswPX1bATWMnGeLM3DR/Hro2C2kqMvIQFZCs9GFlxs/tArqc2ira9lWxHlmvfa1+2QbhecjPC0hu1wofcjKbTHf6Ng==" author="" url="UkM1U0lNUANiXXj3OaKMTAoZLQx4BUhhhnFw8gpOas6EfDUKXYIHm2lp5kI5VBLkKAX3Ym1YuhCH6hi5wkmhIWdsl2bDR29Poc2jsDrJzDM=" tags="" ctime="20190729225419" dir="15527681593a8kaxltrb" file="text.html" crypt="1"/>
+    </recordtable>
    </node>
   </node>
   <node crypt="" id="14834528268j7yvvmle0" name="Python">
@@ -3404,6 +3411,7 @@
       <file id="1514731560h71r7wf7o0" fileName="FTP_0.xls" type="file"/>
      </files>
     </record>
+    <record id="1537648909o4cq17pz9l" name="Backup баз данных с помощью командной строки WinRAR." author="" url="http://www.cyberforum.ru/ms-access/thread60797-page3.html" tags="" ctime="20190729225158" dir="1537648909hdznqnda16" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="1514658332h6sn4rnf31" name="Win32API">
