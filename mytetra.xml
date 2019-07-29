@@ -21,13 +21,6 @@
     </recordtable>
     <node crypt="" id="1545884278fdaoibjwzi" name="VBA"/>
    </node>
-   <node crypt="" id="1550358579zuy1oycui8" name="IРазобрать">
-    <recordtable>
-     <record id="1562041186zhx9skv2dz" name="ADO SQL INSERT INTO в другой Excel, Вставить данные из текущего файла в другой файл" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=1&amp;TID=98507&amp;MID=813928#message813928" tags="VBA ADO, Excel&lt;&gt;Excel" ctime="20190702071946" dir="156204118639g2ynbevu" file="text.html"/>
-     <record id="1563334359mlk2qgtqyj" name="Метод Workbook. Open (Excel)" author="" url="https://docs.microsoft.com/ru-ru/office/vba/api/Excel.Workbooks.Open" tags="VBA Excel" ctime="20190717063239" dir="1563334359d2z87fyzvr" file="text.html"/>
-     <record id="15633347998en5l94cw7" name="IF...ELSE (Transact-SQL)" author="" url="https://docs.microsoft.com/ru-ru/sql/t-sql/language-elements/if-else-transact-sql?view=aps-pdw-2016" tags="SQL Server, " ctime="20190717064633" dir="1563334799ngaku1bmw8" file="text.html"/>
-    </recordtable>
-   </node>
    <node crypt="" id="1544723910xps13vsnpd" name="SQL Server">
     <recordtable>
      <record id="15456297657knaji97ws" name="32-битный Excel и 64-битный SQL Server" author="" url="https://habr.com/post/219415/" tags="" ctime="20181224083605" dir="1545629765c7mlq8kbzs" file="text.html"/>
@@ -119,6 +112,7 @@
      <record id="1556996865j3lvp2qj46" name="Функции для работы со строками" author="" url="https://metanit.com/sql/sqlserver/8.1.php" tags="" ctime="20190504220745" dir="1556996865aku01dfk02" file="text.html"/>
      <record id="1556996915kel741lyyy" name="Функции по работе с датами и временем" author="" url="https://metanit.com/sql/sqlserver/8.3.php" tags="" ctime="20190504220835" dir="1556996915pucz9t5111" file="text.html"/>
      <record id="1556996999fot6ihb1rf" name="Преобразование данных" author="" url="https://metanit.com/sql/sqlserver/8.4.php" tags="" ctime="20190504220959" dir="1556996999nv5muyvpic" file="text.html"/>
+     <record id="15633347998en5l94cw7" name="IF...ELSE (Transact-SQL)" author="" url="https://docs.microsoft.com/ru-ru/sql/t-sql/language-elements/if-else-transact-sql?view=aps-pdw-2016" tags="SQL Server, " ctime="20190730000358" dir="1563334799ngaku1bmw8" file="text.html"/>
     </recordtable>
     <node crypt="" id="154588355854k75f9jm2" name="SQL Server 2017">
      <recordtable>
@@ -1320,6 +1314,7 @@
        <record id="156204114304j8yb3xfu" name="Примеры кода ADO в Visual Basic" author="" url="https://docs.microsoft.com/ru-ru/sql/ado/reference/ado-api/ado-code-examples-in-visual-basic?view=sql-server-2017" tags="VBA ADO" ctime="20190730000129" dir="1562041143rzxqvwgeoy" file="text.html"/>
        <record id="1548449540nnnovrmnxd" name="ADO in Excel VBA – Connecting to database using SQL" author="" url="https://analysistabs.com/excel-vba/ado-sql-macros-connecting-database/" tags="ADO_загрузка_из_листа" ctime="20190730000136" dir="1548449540nm2ae05yty" file="text.html"/>
        <record id="154680943442gkagtw4b" name="ADO Object Model" author="" url="https://docs.microsoft.com/en-us/sql/ado/reference/ado-api/ado-object-model?view=sql-server-2017" tags="" ctime="20190730000138" dir="1546809434olvldz5cn6" file="text.html"/>
+       <record id="1562041186zhx9skv2dz" name="ADO SQL INSERT INTO в другой Excel, Вставить данные из текущего файла в другой файл" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=1&amp;TID=98507&amp;MID=813928#message813928" tags="VBA ADO, Excel&lt;&gt;Excel" ctime="20190730000315" dir="156204118639g2ynbevu" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1552769009mgcjrbcu4v" name="Excel-&gt;Access">
@@ -2191,6 +2186,7 @@
       <record id="1530611360jxt6mbr7hb" name="изменить именованный диапазон" author="" url="" tags="VBA, Names, изменить именованный диапазон" ctime="20190316234331" dir="15306113605wpvpr4fh4" file="text.html"/>
       <record id="1563334633ce4n528utb" name="Office Add-Ins для Excel — новые возможности для разработчиков на VBA и VSTO" author="" url="https://m.habr.com/ru/company/microsoft/blog/270763/" tags="VBA Excel" ctime="20190717064639" dir="15633346335rjhtyx5ht" file="text.html"/>
       <record id="1535616506z9bpbeoi4a" name="Скрыть окно Excel" author="" url="" tags="" ctime="20190729163531" dir="1535616506otbjnt7vec" file="text.html"/>
+      <record id="1563334359mlk2qgtqyj" name="Метод Workbook. Open (Excel)" author="" url="https://docs.microsoft.com/ru-ru/office/vba/api/Excel.Workbooks.Open" tags="VBA Excel" ctime="20190730000411" dir="1563334359d2z87fyzvr" file="text.html"/>
      </recordtable>
      <node crypt="" id="1552769011qlz6yraj7t" name="Shapes">
       <recordtable>
