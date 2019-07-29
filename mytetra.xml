@@ -9,41 +9,7 @@
    </recordtable>
    <node crypt="" id="1552768177tcn75bzeo5" name="Посмотреть">
     <recordtable>
-     <record id="1512846670vxk5zz45ew" name="на гите" author="" url="" tags="" ctime="20190316232937" dir="1512846670xpm3gff3l0" file="text.html"/>
-     <record id="1513012634sa2v7baojm" name="Первый открытый софт-трекер" author="" url="http://fost.ws/page/2/" tags="софт" ctime="20190316232937" dir="1513012634joraw3r70u" file="text.html"/>
-     <record id="1513013165ym6qd9uk0m" name="Разные языки программирования и их области применения - Михаил Густокашин" author="" url="https://m.vk.com/video-54530371_171251504?list=571b762daa3f1013d2&amp;from=wall-79831840_22504" tags="" ctime="20190316232937" dir="1513013165b8px4cwvwl" file="text.html"/>
-     <record id="1513137768xrsfsvw8ts" name="Посмотреть по Git" author="" url="" tags="" ctime="20190316232937" dir="1513137768pciezsu7ag" file="text.html"/>
-     <record id="15159255721mtj5gfb2w" name="Прочитать" author="" url="" tags="" ctime="20190316232937" dir="1515925572syk0lawh7n" file="text.html"/>
-     <record id="15167745501xklv87nvk" name="GoodSync" author="" url="" tags="" ctime="20190316232937" dir="1516774550kvdplx9wb3" file="text.html">
-      <files>
-       <file id="1516774578yhsaud0y7m" fileName="GoodSync.zip" type="file"/>
-      </files>
-     </record>
-     <record id="1517138794iw5h9bnapa" name="Бесплатная электронная библиотека" author="" url="http://housecomputer.ru/" tags="" ctime="20190316232937" dir="1517138794sk4o2p90uh" file="text.html"/>
-     <record id="15143000979pz7k9rjqb" name="Основы работы с модулями классов" author="" url="http://www.excelworld.ru/publ/vba/class_module/class_module/42-1-0-110" tags="" ctime="20190316232937" dir="15143000973tcnsol39m" file="text.html">
-      <files>
-       <file id="15143001832is5vmn8gx" fileName="nejroset.zip" type="file"/>
-       <file id="15143001830t59ozqw89" fileName="neskolko_kontrolov_s_odnoj_proceduroj.xls" type="file"/>
-       <file id="1514300183fexbp7oudf" fileName="proverka_orfografii.xls" type="file"/>
-       <file id="1514300183qtsuzijdvz" fileName="upravlenie_sobytijami_na_urovne_prilozhenija.xls" type="file"/>
-       <file id="15143001835yd2jvn1ru" fileName="Основы работы с модулями классов.docx" type="file"/>
-       <file id="15143001831ud4tihb3g" fileName="Работа с коллекциями классов.docx" type="file"/>
-      </files>
-     </record>
      <record id="15143001613d2n18i46s" name="Работа с коллекциями классов" author="" url="" tags="" ctime="20190316232937" dir="1514300161otuldg4kxw" file="text.html"/>
-     <record id="1514300399c8cz0wfkls" name="Макросы Outlook" author="" url="http://macros-vba.ru/knigi/vba/62-kak-sohranit-kod-macrosa" tags="" ctime="20190316232937" dir="1514300399v3pm8ppx3g" file="text.html">
-      <files>
-       <file id="1514300462pxljagi7o8" fileName="Как добавить отправителя письма в контакты Outlook.docx" type="file"/>
-       <file id="1514300462fv7v254xnz" fileName="Как поменять местами имена и фамилии в контактных данных Outlook.docx" type="file"/>
-       <file id="1514300462iho3rzj1kl" fileName="Как создать контакт в Outlook.docx" type="file"/>
-       <file id="1514300462b13vzerbmf" fileName="Как удалить дубликаты контактов из Outlook.docx" type="file"/>
-       <file id="15143004625xw6594uai" fileName="Перенос контактов в Outlook из Excel.docx" type="file"/>
-       <file id="1514300462y5uv29uo2q" fileName="Перенос контактов из Outlook в Excel макросом VBA.docx" type="file"/>
-       <file id="1514300462arptropbca" fileName="Перенос контактов из Outlook в Word макросом VBA.docx" type="file"/>
-       <file id="1514300462qdq2nz810n" fileName="Список доступных полей контакта.docx" type="file"/>
-       <file id="1514300462b517zgyt55" fileName="Экспорт контактов из Outlook в Excel.docx" type="file"/>
-      </files>
-     </record>
      <record id="1513012706pjkfo1crde" name="What Is SQL" author="" url="http://www.sqltutorial.org/what-is-sql/" tags="SQL" ctime="20190316232937" dir="1513012706jdkn5l21j8" file="text.html"/>
      <record id="1518971673ipufysiyzu" name="Option Explicit. Требование явного объявления переменных" author="" url="http://macros-vba.ru/knigi/vba/119-option-explicit-vba" tags="Option Explicit,Option," ctime="20190316232937" dir="1518971673ec8wbfz2py" file="text.html"/>
      <record id="1520838426u73ilc40wp" name="Уличная IP-камера первый вариант" author="" url="http://www.itech-cctv.ru/catalog/ulichnye/ipe-opal-apt-r-0000099123/" tags="" ctime="20190316232937" dir="1520838426ys2yrmlp3b" file="text.html"/>
@@ -61,6 +27,16 @@
      <record id="1552768159pm5jawbevx" name="Tasker - утилита заставляет ваш компьютер делать то, что вы захотите, даже если вы не обладаете навыками программирования" author="" url="https://vk.com/wall-68608975_2891" tags="" ctime="20190316232953" dir="15527681593a8kaxltrb" file="text.html"/>
      <record id="1552768299a3xjidpwv3" name="Переносим папку загрузки обновлений Windows 10 на другой диск." author="" url="https://vk.com/@stupid.lamer-perenosim-papku-zagruzki-obnovlenii-windows-10-na-drugoi-dis" tags="" ctime="20190316233139" dir="1552768299ki5h3w9jrn" file="text.html"/>
      <record id="1561843419rtc8k0980f" name="runas /userusername\administrator YandexDisk30Setup.exe" author="" url="" tags="" ctime="20190630002339" dir="1561843419ujwjl3zuzd" file="text.html"/>
+     <record id="15143000979pz7k9rjqb" name="Основы работы с модулями классов" author="" url="http://www.excelworld.ru/publ/vba/class_module/class_module/42-1-0-110" tags="" ctime="20190729163108" dir="15143000973tcnsol39m" file="text.html">
+      <files>
+       <file id="15143001832is5vmn8gx" fileName="nejroset.zip" type="file"/>
+       <file id="15143001830t59ozqw89" fileName="neskolko_kontrolov_s_odnoj_proceduroj.xls" type="file"/>
+       <file id="1514300183fexbp7oudf" fileName="proverka_orfografii.xls" type="file"/>
+       <file id="1514300183qtsuzijdvz" fileName="upravlenie_sobytijami_na_urovne_prilozhenija.xls" type="file"/>
+       <file id="15143001835yd2jvn1ru" fileName="Основы работы с модулями классов.docx" type="file"/>
+       <file id="15143001831ud4tihb3g" fileName="Работа с коллекциями классов.docx" type="file"/>
+      </files>
+     </record>
     </recordtable>
    </node>
    <node crypt="" id="1544725102dlpfsm013p" name="Почитать">
@@ -1887,6 +1863,19 @@
       <record id="1532202580xbx2xixnr1" name="Событие Application.NewMailEx (Outlook)" author="" url="https://msdn.microsoft.com/ru-ru/vba/outlook-vba/articles/application-newmailex-event-outlook" tags="NewMail" ctime="20190316234331" dir="15322025801knrv4s5dg" file="text.html"/>
       <record id="1532419352xp3m8wq3mw" name="Просмотр всех папок почты" author="" url="" tags="Просмотр всех папок почты" ctime="20190316234331" dir="15324193528jjj46zvwo" file="text.html"/>
       <record id="1533247866byrta92pcr" name="Способы интеграции MS ACCESS и MS Outlook &#9;Печать &#9;E-mail" author="" url="http://hiprog.com/index.php?option=com_content&amp;task=view&amp;id=251661546" tags="" ctime="20190316234331" dir="1533247866s67tp9dwqb" file="text.html"/>
+      <record id="1514300399c8cz0wfkls" name="Макросы Outlook" author="" url="http://macros-vba.ru/knigi/vba/62-kak-sohranit-kod-macrosa" tags="VBA_Outlook" ctime="20190729163348" dir="1514300399v3pm8ppx3g" file="text.html">
+       <files>
+        <file id="1514300462pxljagi7o8" fileName="Как добавить отправителя письма в контакты Outlook.docx" type="file"/>
+        <file id="1514300462fv7v254xnz" fileName="Как поменять местами имена и фамилии в контактных данных Outlook.docx" type="file"/>
+        <file id="1514300462iho3rzj1kl" fileName="Как создать контакт в Outlook.docx" type="file"/>
+        <file id="1514300462b13vzerbmf" fileName="Как удалить дубликаты контактов из Outlook.docx" type="file"/>
+        <file id="15143004625xw6594uai" fileName="Перенос контактов в Outlook из Excel.docx" type="file"/>
+        <file id="1514300462y5uv29uo2q" fileName="Перенос контактов из Outlook в Excel макросом VBA.docx" type="file"/>
+        <file id="1514300462arptropbca" fileName="Перенос контактов из Outlook в Word макросом VBA.docx" type="file"/>
+        <file id="1514300462qdq2nz810n" fileName="Список доступных полей контакта.docx" type="file"/>
+        <file id="1514300462b517zgyt55" fileName="Экспорт контактов из Outlook в Excel.docx" type="file"/>
+       </files>
+      </record>
      </recordtable>
     </node>
     <node crypt="" id="1552769011o2o0sk4959" name="Excell">
@@ -3362,6 +3351,8 @@
       <file id="1514661216sa29dvb5q7" fileName="SysVersion.zip" type="file"/>
      </files>
     </record>
+    <record id="15159255721mtj5gfb2w" name="Прочитать" author="" url="" tags="" ctime="20190729162937" dir="1515925572syk0lawh7n" file="text.html"/>
+    <record id="1517138794iw5h9bnapa" name="Бесплатная электронная библиотека" author="" url="http://housecomputer.ru/" tags="" ctime="20190729163123" dir="1517138794sk4o2p90uh" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="1514657968fe8zeb2k0z" name="VBScript">
