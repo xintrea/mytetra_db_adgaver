@@ -41,12 +41,7 @@
      <record id="1544726879bvkkzvcmqm" name="Секреты памяти, чтобы выучить иностранный язык." author="" url="https://m.vk.com/wall-101316110_43273" tags="" ctime="20181213214759" dir="1544726879q5sgoh15qi" file="text.html"/>
      <record id="1545884653apfg1qlg85" name="Можно ли менять цвет текста в MyTetra? " author="" url="" tags="" ctime="20181227072413" dir="15458846531fo043lx2q" file="text.html"/>
     </recordtable>
-    <node crypt="" id="154583909267wposxeaa" name="VB">
-     <recordtable>
-      <record id="1545839072ysjtcm71jp" name="Кастомная сборка VB6 - Visual Basic Native 2015  [new]" author="" url="https://www.sql.ru/forum/1157128/kastomnaya-sborka-vb6-visual-basic-native-2015?mid=17654598#17654598" tags="VB" ctime="20181226184452" dir="15458390722tr9sxep3h" file="text.html"/>
-      <record id="1545886058pwwb56i1go" name="Советы по работе с MS Visual Studio" author="" url="https://www.npk-kaluga.ru/SovetyMSVS.htm" tags="Visual_Studio" ctime="20181227074738" dir="15458860583lhhj8g9i1" file="text.html"/>
-     </recordtable>
-    </node>
+    <node crypt="" id="154583909267wposxeaa" name="VB"/>
     <node crypt="" id="1545884278fdaoibjwzi" name="VBA">
      <recordtable>
       <record id="1545884281nf1twpyrsp" name="Концептуальные разделы Visual Basic" author="" url="https://docs.microsoft.com/ru-RU/office/vba/Language/reference/user-interface-help/visual-basic-conceptual-topics" tags="" ctime="20181227071801" dir="1545884281kozzlcichz" file="text.html"/>
@@ -2993,6 +2988,11 @@
     <recordtable>
      <record id="1552768159pm5jawbevx" name="UkM1U0lNUAONwxcn/88IUCnw2+IjMxTvWoGPyLYQpiqJyksr5jyKuriUzlS+/vTm1tNcjSOQi6IM3f7sNcShEduwWRbp+yVesvQAwtF/MEc0MYYXHpC1DMwkZDMObr6xc3qiS6NsjUCMC8hKCOwIC4+EzCsSVK1EqsKiWVk8KrdfojusdlIUkuv6OInexj6DRphqxjHvrPm58ZaPyOBI7uKXCjGwVOBKnBvhOTaDMnhvLiOX9PfVODliavBTTswPX1bATWMnGeLM3DR/Hro2C2kqMvIQFZCs9GFlxs/tArqc2ira9lWxHlmvfa1+2QbhecjPC0hu1wofcjKbTHf6Ng==" author="" url="UkM1U0lNUANiXXj3OaKMTAoZLQx4BUhhhnFw8gpOas6EfDUKXYIHm2lp5kI5VBLkKAX3Ym1YuhCH6hi5wkmhIWdsl2bDR29Poc2jsDrJzDM=" tags="" ctime="20190729225419" dir="15527681593a8kaxltrb" file="text.html" crypt="1"/>
     </recordtable>
+    <node crypt="1" icon="" id="1564430730ruwk7jozqm" name="UkM1U0lNUAMtPWmAWp3S6ElCSIa9BWNY7FP6w340C07cIh1ZSuCjYTNjlIGqwemgVXnBuSFz09k=">
+     <recordtable>
+      <record id="1545886058pwwb56i1go" name="UkM1U0lNUANc7T10x5PSX9aR5dM54kjb3bjNzO+rWgtoBRJFBMr0QuQo2NrxqxC1tSqXx8aE87bTc44xFYkDSJodqgJveNYu3VJpdA47/VlZSLZSqZIBrN4YQoVQMk13" author="" url="UkM1U0lNUAPqaq5CWNWVYECrL7ekvwfebZtiFsxut7+vywr0g1WRfdpjCFXjlauJIsyNaa5r6CYpNrAafo9GGCxCPO0h7ssKu5CYdexLDY8=" tags="UkM1U0lNUAOFwq+tVaRTHXy5MIlpSHGYiL1FU1U5WDGDbaCGcG/yt7TCEUwWuRtDs71pzq96guA=" ctime="20190729230549" dir="15458860583lhhj8g9i1" file="text.html" crypt="1"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="" id="14834528268j7yvvmle0" name="Python">
