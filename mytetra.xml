@@ -28,14 +28,12 @@
      <record id="1544726673nky52acwc8" name="Объекты Windows Script Host" author="" url="http://www.script-coding.com/WSH.html" tags="" ctime="20181213214433" dir="1544726673sdhfu7ukd5" file="text.html"/>
      <record id="15447268118supjmpqn4" name="Основы современных баз данных" author="" url="http://citforum.ru/database/osbd/contents.shtml" tags="" ctime="20181213214651" dir="1544726811ok9v1g9ouj" file="text.html"/>
      <record id="1544726828x49ut7mnbt" name="Линус Торвальдс: Разум, создавший Linux (2016)" author="" url="https://m.vk.com/wall-79831840_30671" tags="" ctime="20181213214708" dir="1544726828qwswaj341b" file="text.html"/>
-     <record id="1545884653apfg1qlg85" name="Можно ли менять цвет текста в MyTetra? " author="" url="" tags="" ctime="20181227072413" dir="15458846531fo043lx2q" file="text.html"/>
     </recordtable>
     <node crypt="" id="1545884278fdaoibjwzi" name="VBA"/>
    </node>
    <node crypt="" id="1550358579zuy1oycui8" name="IРазобрать">
     <recordtable>
-     <record id="1550358611xe9o28x4rp" name="Short List" author="" url="https://webhamster.ru/mytetrashare/index/mtb186/1504161025r62mmsrxqx" tags="git" ctime="20190217021011" dir="1550358611bkne9zi3xg" file="text.html"/>
-     <record id="1550358941omshitai94" name="Шпаргалка по командам" author="" url="https://webhamster.ru/mytetrashare/index/mtb145/1481459708iz42yamapy" tags="git" ctime="20190217021541" dir="1550358941hhcnlopjnf" file="text.html"/>
+     <record id="1550358941omshitai94" name="Шпаргалка по командам Git" author="" url="https://webhamster.ru/mytetrashare/index/mtb145/1481459708iz42yamapy" tags="git" ctime="20190217021541" dir="1550358941hhcnlopjnf" file="text.html"/>
      <record id="1554197737151rhlqrlv" name="10 критически важных event ID для мониторинга " author="" url="https://habr.com/ru/company/netwrix/blog/148501/" tags="events_windows" ctime="20190402123537" dir="15541977379ldzkepo85" file="text.html"/>
      <record id="15620408384jyvzqkwtp" name="Запуск и управление приложениями семейства MS Office" author="" url="http://www.timpust.ru/vba/tools/application.php" tags="VBA управление приложениями" ctime="20190702071358" dir="1562040838rpq6adpry7" file="text.html"/>
      <record id="1562040966x8ay5juz4j" name="Быстродействие выполнения процедур на VBA." author="" url="http://www.timpust.ru/vba/tools/fast.php" tags="VBA быстродействие" ctime="20190702071606" dir="1562040966d8z3500ha9" file="text.html"/>
@@ -2729,14 +2727,6 @@
       </record>
       <record id="1521812570h73nft0q4d" name="UkM1U0lNUAOjWDjJ9YaDroLyc6xu/oAvl68N1AnWOwRYRbFIGB+7d8y79R4r/Uk6eLrZLgWliGrOFO+imHv2p8oOJNtiVxH84Jo9gvrKtWQCNl/Z/0H4LrcdqCzO127fyqQsQKHBeYJMPWkizXp34w==" author="" url="" tags="UkM1U0lNUAMOyTTTQzrypKgbfnEYoeVbLXmS3J1RA/G3r2TpTzjlyFnErRG47ciQguJG42a/GAzZqyBLHZW9VZCTkRyhRzniuUbQpevqW3YpqDrO+4ApOaocpsq7BTwLDDTxMC42N1L+d05fugLrpQ==" ctime="20180323164250" dir="15218125708tf9xms5b3" file="text.html" crypt="1">
        <files>
-        <file id="152181263813rg70wda6" fileName="UkM1U0lNUAOAmoygmUH5che+kTulGTn8xe08FjX6L7zJDhrchVyZoLM1uP5I+gVu7vJquUqnEKU=" type="file" crypt="1"/>
-        <file id="1521812638az07g3re9o" fileName="UkM1U0lNUANt8te6kvW3n1UtLxwalxszTJvaq9iQ86g35gPB0jVoAWqOMlKaXdveUn9HLNTs53NY1odoVZXDzQ==" type="file" crypt="1"/>
-        <file id="1521812639jwp8q8lxas" fileName="UkM1U0lNUAMMc3iwY6tcmc1RNJt2A7vr9/rsmriJZRql0sQwyEw4LgYT49hTyPnzFPqKJbdkcNMxnQvSqJ9m8g==" type="file" crypt="1"/>
-        <file id="15218126396i80luz4d7" fileName="UkM1U0lNUAPPZDvhnc6/S05HtUw/GzbbuctC2y23sugwOc9d8NvzLztnySy/uCyfNQpoIUs8SmynKCGE+fI1XQ==" type="file" crypt="1"/>
-        <file id="1521812639bhrukmojor" fileName="UkM1U0lNUANoe5NEcJ6zjgRu3W8u3SE0on83Mr0XtvWw4OQWmDUmnAverdhdEVu3c2NO01rD98QLRTV4aRvrag==" type="file" crypt="1"/>
-        <file id="1521812639afcyw03wp6" fileName="UkM1U0lNUAPFcIvRa8rXJ/nZCJhQQsIaIqiMpdxE84WjzZBSd67hSlgI6weGaveY6c3R7caGRl49hPGWWT5qgA==" type="file" crypt="1"/>
-        <file id="15218126391xfce7t3zd" fileName="UkM1U0lNUAMV9O/oMexjs++3VL+tySEo9ZOo4hhlmC062DIlKR05rl41NA9SiWgANOyekrsEkl8a8qlErJbvYg==" type="file" crypt="1"/>
-        <file id="1521812640wjw3qnqvk3" fileName="UkM1U0lNUAO7WRo2N+ikNLKHgnuDUqNRK0P72lXth36X1ORzM1HyQKvDF8dxcAELZJsl2FsuZONvRJlmknFkyw==" type="file" crypt="1"/>
         <file id="15218126402s2bcj3572" fileName="UkM1U0lNUAOC8e7Jr8qJzahMtHPFkU0Ncmt5LEO8OXcDcW6hFYS5MdtSuzTePfGO2bVUJFBID6zJHxQV6oCUQQ==" type="file" crypt="1"/>
         <file id="1521812640a33dd2uwfe" fileName="UkM1U0lNUAPwI9bEFUAZdN6ZRdIEU3ezgrRhOBFHpQhYCJ44aBaGEB7KD1WRvsRQajtSlMUZ9EK+We5vbxs8eg==" type="file" crypt="1"/>
         <file id="1521812641b44iyk48e5" fileName="UkM1U0lNUANE8S8OVsHpp2ksbaB7ZqgMUHyexGQ0SwzXfgVWe3byX9ftVn/nbSAH01oYNXiKkcYLL3H13nkMtjEOdAfimdcNmWIkZMNtkb3QRSX0fCfUFqVVh91Nxp+RU1VT40v5J0GOlDacd5CjbR2Oc0QSHQn3" type="file" crypt="1"/>
@@ -2798,8 +2788,24 @@
      <recordtable>
       <record id="1512013907vdpnzc2jnj" name="UkM1U0lNUAPUb3vsSs9WrZPm781iWoTCexqCEyFIWG8RVrLx2SlfpuqAg3l/+KjJZLqLHtQeGXc=" author="" url="UkM1U0lNUANup6wAhWO2bN49CVvijXDlqwMjF9xhA8GKV+8X/2T1JDI60UCtdgNkwF/BOePNNyDpkO/8ax4mEJX6zLb5ADku5kKX/b+DNRM=" tags="UkM1U0lNUAPnUu/sK7tPOveDqrJIWF5njzefHOZ4wRaPua9mSnryMD2VbSYzJHirjRvuAIVieykHfMxeqh0/l4uXt/jKwPu2" ctime="20190728003525" dir="1512013907ar7w37mibx" file="text.html" crypt="1"/>
       <record id="1512322466tzkss40a9b" name="UkM1U0lNUAO6WeoZV+8e2/tpvotMJWEjsja6za1vJMsBqCfGeOujybcpwk4o0v8Tq0aXjLI04EzLBJW6j8V7D3qD43lMUFJn" author="" url="" tags="" ctime="20190728003525" dir="1512322466rvwwqkittb" file="text.html" crypt="1"/>
+      <record id="1550358611xe9o28x4rp" name="UkM1U0lNUAMdQz/3+9ske5b0cAZjMREFWQtHRRH0nb9glroFifDKyJanjJ5mo1l84tS2d3omWLA=" author="" url="UkM1U0lNUAPjqYXbyh7pninXxM3CAZ/jkV+ezfLE9kpaIartG9JvjvjuRnboRC90diUgi9/7IQVJGNyjFvxCQEQpvWoXP5Afvx83HlZUnbJn6z/At9AumHzZGtuubnZ42a57v/QuRLhJr8iGccKRoQ==" tags="UkM1U0lNUAPC8cWT90/roMS5/VG8GWoY02VU5OFW8p5NxYNV1O7SI9eLyH39jIni" ctime="20190729233919" dir="1550358611bkne9zi3xg" file="text.html" crypt="1"/>
      </recordtable>
     </node>
+    <node crypt="1" icon="" id="15644327035l1wf5n62h" name="UkM1U0lNUAMB9RO86lH0cb2m2U/+UTkeJRxGBc9RWOnBq1eV8UzMdFu4/fiBT4L5z6/JVrIhjDcvSGU/0n4wWg==">
+     <recordtable>
+      <record id="1545884653apfg1qlg85" name="UkM1U0lNUANWIp/4Ma31VrRegNNfm7d7s4rGDzAl0u+nFzbAv5+ArY7g2b055PJnS2D84Bzuv7OGm+V8Fmr+FHRBFuu6nEToIacHgaJ18JRQe7xsB69HzBHHXZqzbiuhIOQR/qvFtF4=" author="" url="" tags="" ctime="20190729233823" dir="15458846531fo043lx2q" file="text.html" crypt="1"/>
+      <record id="1511701426v8rbld3ozb" name="UkM1U0lNUANBM7PhOLwMOd2v5odq/pc3pPHZ/LpPX1V07TbL2FsvrjwZ/k1CaY+59nLIAPqBTzOF/D2cexB27jNKcDR+VDXBa+rQbUzT4xd7kvKp7uoWNgdsvVH3EJvFdxL6TFyZin0UUMmBPl4TOw==" author="" url="UkM1U0lNUANfXdAlTc4N+mfQtg7WbWbqACYoYSFX/Z8M4uwFIM8syZR6Lh+KO0UsHVaoqzxCetEKvcNFfuTQKf3Q6+FKlylBR8YUun3h6tdFliHxMGdARg==" tags="" ctime="20190729233823" dir="1511701426qk9rx6bytr" file="text.html" crypt="1"/>
+      <record id="1511703752ygx16rqnex" name="UkM1U0lNUAMHZ3hjOSWHnizFTU+nmF50oHiVN2GMzCqTCzFoRU+o4uilW4IbvRcYsqd6MlPhz3FU4p2++nrFfDhImbAKVfPsOB8n4c8n+4xN5yhtJV8qmLG92jNkuoit" author="" url="UkM1U0lNUAOX4AWDdc7mI1ZxAIAEjgyCOt1FZUTgBVcFw3zF56W8DDG6glWgf5YiI7t8aArQzN4pslp0sdfFc6S+lwYn9NatCmPdKYnBm889FTnN1p6FN6xyR3R6wMnJ" tags="" ctime="20190729233823" dir="15117037527q4jfpa08a" file="text.html" crypt="1"/>
+      <record id="1512761953xepm2prvip" name="UkM1U0lNUAOXyGaof1M8B4nO8lhLm9Imw8aMrb/pnLQvADacUuxPIAS2tHQrdVGcXwD8VlfoWwBYBG+makmRLuPYImN3h+IfnlLlqPhiz2Z7VYQB10d8LBm71qpB12k268SiKEScjjGvCnaJcnUKQRKX4VP+bp3xf6UDXaA6sZAiN2W5Xg1LUg==" author="" url="" tags="" ctime="20190729233824" dir="1512761953utsdb0237p" file="text.html" crypt="1"/>
+      <record id="15127621710xjza76yzs" name="UkM1U0lNUAMvS7+8q100lyZOeKRqwNc8DJaCC2SdRoHq37KgR7OyiKOK8z6pNQGCtmFms4SV7ebHhwsr0P7X8PsHPq9+vKRa9D0Wv3NpYkKf2S/9vP1HCwWPqB6Ju7Fk" author="" url="" tags="" ctime="20190729233824" dir="1512762171nstd2lqtrc" file="text.html" crypt="1"/>
+      <record id="15146606900x1001rjnt" name="UkM1U0lNUAMDdzw9QFMwBmKvoZ6xQCTKPTQZ3MpLbeeRYIZxL4SvGdmRgVGwWyVvjODxIeO318XCNm5F6PYjVHgAlVZcxTWU2zChPvIUcztJhYXn+z8mddFTE9dG2oi9ObUMBLwDul4PnA9gGqZSe/PSqX0qv+qSSxMxxMd3pgq9f7NU2kb26WXyFL15T9HLBAg7e4+Uv+X5McehhMq7yOFY7PfiOjgcUh+h6D1bHo3I7RPukou/Us5jqDiKmyCSHEuDMYzoFuU=" author="" url="UkM1U0lNUANSsXMChlYCHEUW1K4W4XEe0tnSURZoKfAr0wfqDs/nCtHLd/U5ZIAkF/TlT2TRkh6inZ6ymDUdDN4uxCwOZRB4iJ7wzYU/wsYo60hZ1+DgUIKfMXvhG/J33OKyOxpsJi+mKw+LhxY3Mg==" tags="UkM1U0lNUAP00NoQ4cQGr14IqXLbQKylinoqegFJcfa5Oi4+03CciisCS63vuaxq+CdE5KzP17k=" ctime="20190729233824" dir="1514660690y3vexo54wx" file="text.html" crypt="1">
+       <files>
+        <file id="1514660695h4dy9b925t" fileName="UkM1U0lNUAO3IQB+ZH79iTp6k7JuIOS27Tyrd19CgtFJ0r/SgAFA0xzmW+k2IPVpyDY0p5szQ7w=" type="file" crypt="1"/>
+       </files>
+      </record>
+     </recordtable>
+    </node>
+    <node crypt="1" icon="" id="15644328129nfr2zikvx" name="UkM1U0lNUAOKHfI3ytxyvtQq0IqFu73x0oarFhcGoRKibKdEua0T6ghfvxAe37kt"/>
    </node>
    <node crypt="1" icon="" id="1516080986916b12wv80" name="UkM1U0lNUAMyNP2kVUKuQDGXQN1njf3lG+UfB8crFFt9H/3L6HP9NNtGDjpB5ucphc8dM5gZJnBGBYnMZd0iTz75PVV9cScC">
     <recordtable>
@@ -3412,6 +3418,12 @@
      </files>
     </record>
     <record id="1537648909o4cq17pz9l" name="Backup баз данных с помощью командной строки WinRAR." author="" url="http://www.cyberforum.ru/ms-access/thread60797-page3.html" tags="" ctime="20190729225158" dir="1537648909hdznqnda16" file="text.html"/>
+    <record id="1514661089e717v9gr1u" name="Блокировка / Разблокировка папок и файлов с помощью установки прав" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/page-2" tags="Lock,Unlock " ctime="20190729233628" dir="151466108978vxsq7jdp" file="text.html">
+     <files>
+      <file id="1514661094kw5d3ldyzs" fileName="Locker NTFS.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1546719472b6ix9bdqf4" name="Обновление MyTetra" author="" url="https://webhamster.ru/site/page/index/articles/projectcode/412" tags="MyTetra" ctime="20190729233646" dir="1546719472xm0d9kgatz" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="1514658332h6sn4rnf31" name="Win32API">
@@ -3541,26 +3553,6 @@
     <record id="1530365191761yssk08p" name="Абсолютная и относительная адресация. Команда cd" author="" url="https://younglinux.info/bash/cd.php" tags="linux, cd, командная строка" ctime="20180630162631" dir="1530365191x58pw54a8l" file="text.html"/>
     <record id="15303652664ldfgidnt8" name="Как работать в командной строке Linux" author="" url="https://younglinux.info/bash/input.php" tags="Linux, командная строка" ctime="20180630162746" dir="1530365266cbiy82dkcv" file="text.html"/>
     <record id="1530365335ps04utp7q5" name="Командная оболочка Linux" author="" url="https://younglinux.info/bash/terminal.php" tags="командная строка, Linux" ctime="20180630162855" dir="153036533583frbtqimo" file="text.html"/>
-   </recordtable>
-  </node>
-  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
-   <recordtable>
-    <record id="1511701426v8rbld3ozb" name="Полезный скрипт автоматизации для Mytetra" author="" url="https://www.youtube.com/watch?v=NGA0VoDnK6w" tags="" ctime="20171126160346" dir="1511701426qk9rx6bytr" file="text.html"/>
-    <record id="1511703752ygx16rqnex" name="Установка GIT и настройка GitHub" author="" url="https://webhamster.ru/site/page/index/articles/comp/171" tags="" ctime="20171126164232" dir="15117037527q4jfpa08a" file="text.html"/>
-    <record id="1512761953xepm2prvip" name="Как в MyTetra настроить синхронизацию через интернет" author="" url="" tags="" ctime="20171208223913" dir="1512761953utsdb0237p" file="text.html"/>
-    <record id="15127621710xjza76yzs" name="MyTetra: формат хранения данных" author="" url="" tags="" ctime="20171209113206" dir="1512762171nstd2lqtrc" file="text.html"/>
-    <record id="15146606900x1001rjnt" name="Поиск альтернативных файловых потоков, которые занимают слишком много места на диске" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/page-2" tags="WinDirStat,size" ctime="20171230220450" dir="1514660690y3vexo54wx" file="text.html">
-     <files>
-      <file id="1514660695h4dy9b925t" fileName="ScanStreams.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1514661089e717v9gr1u" name="Блокировка / Разблокировка папок и файлов с помощью установки прав" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/page-2" tags="Lock,Unlock " ctime="20171230221129" dir="151466108978vxsq7jdp" file="text.html">
-     <files>
-      <file id="1514661094kw5d3ldyzs" fileName="Locker NTFS.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1545884603h9wnp5m3vr" name="Можно ли менять цвет текста в MyTetra? " author="" url="" tags="" ctime="20181227072323" dir="1545884603skb1ow1mcd" file="text.html"/>
-    <record id="1546719472b6ix9bdqf4" name="Обновление MyTetra" author="" url="https://webhamster.ru/site/page/index/articles/projectcode/412" tags="MyTetra" ctime="20190105231752" dir="1546719472xm0d9kgatz" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="1564431310yhbbtwqiu9" name="AutoIT">
