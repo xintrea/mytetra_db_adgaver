@@ -18,6 +18,7 @@
      <record id="1544726828x49ut7mnbt" name="Линус Торвальдс: Разум, создавший Linux (2016)" author="" url="https://m.vk.com/wall-79831840_30671" tags="" ctime="20181213214708" dir="1544726828qwswaj341b" file="text.html"/>
      <record id="1533414189upq9o5h9q3" name="10 трюков, упрощающих математические операции" author="" url="https://vk.com/@science_newworld-10-trukov-uproschauschih-matematicheskie-operacii" tags="" ctime="20190729235213" dir="15334141890p0utw7uo8" file="text.html"/>
      <record id="15334170455kz2l7da27" name="Фитнес для глаз творит чудеса" author="" url="https://m.vk.com/wall-101316110_38259" tags="" ctime="20190729235215" dir="1533417045gvxr1o53q8" file="text.html"/>
+     <record id="156448460397e7spvfw2" name="Как начать кодить на Python" author="" url="https://info-comp.ru/how-to-start-coding-in-python" tags="python" ctime="20190730140323" dir="1564484603ef13721rg2" file="text.html"/>
     </recordtable>
     <node crypt="" id="1545884278fdaoibjwzi" name="VBA"/>
    </node>
@@ -2643,6 +2644,7 @@
        <record id="1532686268mlkf86grc0" name="массив из таблицы базы данных через ADO" author="" url="" tags="рекордсет, ADO, ADODB.Recordset" ctime="20190316234333" dir="1532686268dr9o7p18ar" file="text.html"/>
        <record id="1531516877k7rwuyzah2" name="массив через рекордсет из указанного файла EXCEL" author="" url="" tags="vba,ado, подключение к EXCEL" ctime="20190316234333" dir="1531516877m3eg41piy6" file="text.html" crypt="0"/>
        <record id="1532686299786se2x48y" name="массив через рекордсет из указанного файла EXCEL" author="" url="" tags="vba, ado, рекордсет,connection,Recordset" ctime="20190316234334" dir="1532686299v164674sqj" file="text.html"/>
+       <record id="1564485044cxif25ccju" name="Как в Access на VBA выгрузить Recordset в Excel?" author="" url="https://info-comp.ru/obucheniest/525-unloading-recordset-to-excel-on-vba.html" tags="VBA_Recordset, Recordset" ctime="20190730141044" dir="156448504465bktrcey5" file="text.html"/>
       </recordtable>
      </node>
     </node>
@@ -3056,6 +3058,7 @@
      <recordtable>
       <record id="1550358611xe9o28x4rp" name="UkM1U0lNUAMdQz/3+9ske5b0cAZjMREFWQtHRRH0nb9glroFifDKyJanjJ5mo1l84tS2d3omWLA=" author="" url="UkM1U0lNUAPjqYXbyh7pninXxM3CAZ/jkV+ezfLE9kpaIartG9JvjvjuRnboRC90diUgi9/7IQVJGNyjFvxCQEQpvWoXP5Afvx83HlZUnbJn6z/At9AumHzZGtuubnZ42a57v/QuRLhJr8iGccKRoQ==" tags="UkM1U0lNUAPC8cWT90/roMS5/VG8GWoY02VU5OFW8p5NxYNV1O7SI9eLyH39jIni" ctime="20190729234111" dir="1550358611bkne9zi3xg" file="text.html" crypt="1"/>
       <record id="1550358941omshitai94" name="UkM1U0lNUAPCoKUrjH+T+qpN3nV9Yd2zfLg9nKPxfd0Z2jJFzHmWyJBePasbj/M/mulpPNROckPj7DDqBDPxUZ7c2CO+AOnAJj/NMAcLIjNqWyTdwPrrJg==" author="" url="UkM1U0lNUANa8C/iJi/JTVjEB4rOMzDzAiDI16rQj6Nvhd/N3KQWUHarhW9nGtbDdyERHMRpPPE2M/zU+Vt4VH6NZFKaKfAl+QoKO/T/ngNdZrS80VhB/fEdsDc2KCPgS/LSPF8jnrxAkAq21hdKpQ==" tags="UkM1U0lNUAOTH9cIHN3PyQ65bswr3+EeNY0PUFEPxpTmMisSehnfQO3o8BpMZo4O" ctime="20190729235454" dir="1550358941hhcnlopjnf" file="text.html" crypt="1"/>
+      <record id="15644851081chvev0pt2" name="UkM1U0lNUAM4VdIOroHiZk0Ih9HGQbM1gGwW1zKFL8lhLvIkPcOhrf6l0MTM5zVV" author="" url="UkM1U0lNUAPPATZqy2FfUIAWBSbwlAmBK/gFZXAol2hloJTKsOAw8l5b1pHrV1erCyiJVPapgRmAlpg6EDOEuw==" tags="UkM1U0lNUAOSfiJprI8PgJ+koICEcuAKW2bM6dtEA+BoyfgQJiPqSz0Ha5yZ6Ifb" ctime="20190730141226" dir="15644851086u2cuqar4c" file="text.html" crypt="1"/>
      </recordtable>
     </node>
     <node crypt="1" icon="" id="1564432854zyqvtsiqpc" name="UkM1U0lNUAN2WnFX1rJJcvC3exjuFDCW5Ej+qQ86xxJtja7GWqi/T8waWrqA/HzH">
